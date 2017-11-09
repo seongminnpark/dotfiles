@@ -1,11 +1,11 @@
 {
 	"windowPosition": [
 		20,
-		44
+		45
 	],
 	"windowSize": [
-		1103,
-		698
+		1160,
+		735
 	],
 	"hyper": {
 		"plugins": "{\"plugins\":[\"hyper-statusline\",\"hyper-snazzy\"],\"localPlugins\":[]}",

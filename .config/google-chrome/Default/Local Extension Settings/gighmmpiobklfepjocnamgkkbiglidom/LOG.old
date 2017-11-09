@@ -1,22 +1,20 @@
-2017/11/08-13:14:53.716 18511 Reusing MANIFEST /home/seongmin/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2017/11/08-13:14:53.716 18511 Recovering log #97
-2017/11/08-13:14:53.749 18511 Level-0 table #100: started
-2017/11/08-13:14:53.835 18511 Level-0 table #100: 2878548 bytes OK
-2017/11/08-13:14:53.841 18511 Delete type=0 #97
-2017/11/08-13:16:02.102 19770 Level-0 table #103: started
-2017/11/08-13:16:02.178 19770 Level-0 table #103: 2878480 bytes OK
-2017/11/08-13:16:02.180 19770 Delete type=0 #101
-2017/11/08-13:16:02.181 19770 Compacting 4@0 + 2@1 files
-2017/11/08-13:16:02.290 19770 Generated table #104@0: 1 keys, 2878314 bytes
-2017/11/08-13:16:02.297 19770 Generated table #105@0: 5 keys, 419 bytes
-2017/11/08-13:16:02.297 19770 Compacted 4@0 + 2@1 files => 2878733 bytes
-2017/11/08-13:16:02.301 19770 compacted to: files[ 0 2 1 0 0 0 0 ]
-2017/11/08-13:16:02.301 19770 Delete type=2 #93
-2017/11/08-13:16:02.301 19770 Delete type=2 #103
-2017/11/08-13:16:02.302 19770 Delete type=2 #100
-2017/11/08-13:16:02.302 19770 Delete type=2 #95
-2017/11/08-13:16:02.303 19770 Delete type=2 #92
-2017/11/08-13:16:02.303 19770 Delete type=2 #98
-2017/11/08-13:16:45.940 19770 Level-0 table #107: started
-2017/11/08-13:16:46.024 19770 Level-0 table #107: 2878554 bytes OK
-2017/11/08-13:16:46.025 19770 Delete type=0 #102
+2017/11/08-19:47:11.110 11744 Reusing MANIFEST /home/seongmin/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/11/08-19:47:11.110 11744 Recovering log #111
+2017/11/08-19:47:11.110 11744 Reusing old log /home/seongmin/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000111.log 
+2017/11/08-19:48:11.900 17440 Level-0 table #115: started
+2017/11/08-19:48:11.975 17440 Level-0 table #115: 2879172 bytes OK
+2017/11/08-19:48:11.978 17440 Delete type=0 #111
+2017/11/08-19:48:11.980 17440 Compacting 4@0 + 2@1 files
+2017/11/08-19:48:12.083 17440 Generated table #116@0: 1 keys, 2878308 bytes
+2017/11/08-19:48:12.089 17440 Generated table #117@0: 5 keys, 420 bytes
+2017/11/08-19:48:12.089 17440 Compacted 4@0 + 2@1 files => 2878728 bytes
+2017/11/08-19:48:12.090 17440 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/11/08-19:48:12.090 17440 Delete type=2 #110
+2017/11/08-19:48:12.091 17440 Delete type=2 #104
+2017/11/08-19:48:12.091 17440 Delete type=2 #115
+2017/11/08-19:48:12.092 17440 Delete type=2 #112
+2017/11/08-19:48:12.092 17440 Delete type=2 #107
+2017/11/08-19:48:12.093 17440 Delete type=2 #105
+2017/11/08-19:48:51.230 17440 Level-0 table #119: started
+2017/11/08-19:48:51.320 17440 Level-0 table #119: 2878549 bytes OK
+2017/11/08-19:48:51.322 17440 Delete type=0 #114

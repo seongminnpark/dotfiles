@@ -1,5 +1,5 @@
 {
-   "checksum": "4f86a58828292ee63c9a085dbcdfdaee",
+   "checksum": "d7c2ebe3643cb371e381abebfe0d2cd6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -46,20 +46,20 @@
             "date_added": "13089780216541009",
             "id": "87",
             "meta_info": {
-               "last_visited_desktop": "13154485477982831"
+               "last_visited_desktop": "13154660484382722"
             },
             "name": "GitHub",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "37",
             "type": "url",
             "url": "https://github.com/"
          }, {
             "date_added": "13144988772136944",
             "id": "88",
             "meta_info": {
-               "last_visited_desktop": "13154596193358572"
+               "last_visited_desktop": "13154661279632150"
             },
             "name": "Inbox",
-            "sync_transaction_version": "21",
+            "sync_transaction_version": "40",
             "type": "url",
             "url": "https://inbox.google.com/u/0/?pli=1"
          }, {
@@ -2445,10 +2445,10 @@
             "date_added": "13152707711162942",
             "id": "359",
             "meta_info": {
-               "last_visited_desktop": "13153500801426183"
+               "last_visited_desktop": "13154640483932310"
             },
             "name": "Hacker News",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "34",
             "type": "url",
             "url": "https://news.ycombinator.com/news"
          }, {
@@ -2808,9 +2808,19 @@
             "sync_transaction_version": "13",
             "type": "url",
             "url": "https://github.com/dnschneid/crouton/wiki/Crouton-Command-Cheat-Sheet"
+         }, {
+            "date_added": "13154640270607590",
+            "id": "417",
+            "meta_info": {
+               "last_visited_desktop": "13154640270608686"
+            },
+            "name": "Ask HN: What do you use to manage dotfiles? | Hacker News",
+            "sync_transaction_version": "34",
+            "type": "url",
+            "url": "https://news.ycombinator.com/item?id=11070797"
          } ],
          "date_added": "13154577776606880",
-         "date_modified": "13154638496626723",
+         "date_modified": "13154661552446303",
          "id": "1",
          "name": "Bookmarks bar",
          "type": "folder"
@@ -2830,7 +2840,7 @@
          "name": "Other bookmarks",
          "type": "folder"
       },
-      "sync_transaction_version": "33",
+      "sync_transaction_version": "44",
       "synced": {
          "children": [ {
             "date_added": "13097348354634543",
