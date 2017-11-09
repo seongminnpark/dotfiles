@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		0,
+		23
+	],
+	"windowSize": [
+		1143,
+		739
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hyper-statusline\",\"hyper-snazzy\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hyper-statusline\",\"1.7.3\"],[\"hyper-snazzy\",\"1.2.2\"]]"
+	}
+}
