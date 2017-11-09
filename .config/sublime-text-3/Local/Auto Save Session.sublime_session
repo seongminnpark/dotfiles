@@ -3,11 +3,11 @@
 	[
 	],
 	"last_version": 3143,
-	"last_window_id": 5,
+	"last_window_id": 6,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1535.0,
+		"new_window_height": 1464.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -35,7 +35,7 @@
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 332.0,
 				"history":
 				[
 				]
@@ -51,11 +51,12 @@
 			},
 			"file_history":
 			[
-				"/home/seongmin/.config/i3/config",
-				"/home/seongmin/.Xmodmap",
-				"/home/seongmin/.xinitrc",
-				"/home/seongmin/.bashrc",
 				"/home/seongmin/.XResources",
+				"/home/seongmin/.bashrc",
+				"/home/seongmin/.xinitrc",
+				"/home/seongmin/.config/i3/config",
+				"/home/seongmin/.config/polybar/config",
+				"/home/seongmin/.Xmodmap",
 				"/home/seongmin/Downloads/launch.sh",
 				"/home/seongmin/Downloads/config",
 				"/home/seongmin/Downloads/bashrc",
@@ -63,7 +64,7 @@
 			],
 			"find":
 			{
-				"height": 39.0
+				"height": 108.0
 			},
 			"find_in_files":
 			{
@@ -94,7 +95,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 39.0
+				"height": 52.0
 			},
 			"input":
 			{
@@ -108,7 +109,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 74.0
+				"height": 96.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -148,7 +149,7 @@
 			{
 			}
 		},
-		"new_window_width": 2390.0
+		"new_window_width": 2314.0
 	},
 	"windows":
 	[
@@ -166,6 +167,15 @@
 					"settings":
 					{
 						"buffer_size": 5584,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/seongmin/.Xresources",
+					"settings":
+					{
+						"buffer_size": 33,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -207,12 +217,12 @@
 			},
 			"file_history":
 			[
+				"/home/seongmin/.XResources",
 				"/home/seongmin/.bashrc",
 				"/home/seongmin/.xinitrc",
 				"/home/seongmin/.config/i3/config",
 				"/home/seongmin/.config/polybar/config",
 				"/home/seongmin/.Xmodmap",
-				"/home/seongmin/.XResources",
 				"/home/seongmin/Downloads/launch.sh",
 				"/home/seongmin/Downloads/config",
 				"/home/seongmin/Downloads/bashrc",
@@ -252,7 +262,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -268,8 +278,8 @@
 								"selection":
 								[
 									[
-										5213,
-										5213
+										5124,
+										5124
 									]
 								],
 								"settings":
@@ -279,7 +289,36 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 5849.0,
+								"translation.y": 5339.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/seongmin/.Xresources",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 33,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										30,
+										30
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -324,7 +363,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,41,91,1190,1559,2400,1600",
+			"position": "0,0,0,0,0,43,93,2357,1557,2400,1600",
 			"project": "",
 			"replace":
 			{

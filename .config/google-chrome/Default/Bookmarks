@@ -56,10 +56,10 @@
             "date_added": "13144988772136944",
             "id": "88",
             "meta_info": {
-               "last_visited_desktop": "13154596193358572"
+               "last_visited_desktop": "13154661279632150"
             },
             "name": "Inbox",
-            "sync_transaction_version": "21",
+            "sync_transaction_version": "40",
             "type": "url",
             "url": "https://inbox.google.com/u/0/?pli=1"
          }, {
@@ -2820,7 +2820,7 @@
             "url": "https://news.ycombinator.com/item?id=11070797"
          } ],
          "date_added": "13154577776606880",
-         "date_modified": "13154659611592382",
+         "date_modified": "13154661552446303",
          "id": "1",
          "name": "Bookmarks bar",
          "type": "folder"
@@ -2840,7 +2840,7 @@
          "name": "Other bookmarks",
          "type": "folder"
       },
-      "sync_transaction_version": "37",
+      "sync_transaction_version": "44",
       "synced": {
          "children": [ {
             "date_added": "13097348354634543",
