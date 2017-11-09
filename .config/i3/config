@@ -153,8 +153,10 @@ bindsym $mod+r mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 
-# gaps inner 10
-# gaps outer 10
+gaps inner 15
+gaps outer 5
+
+for_window [class="^.*"] border pixel 0
 
 exec --no-startup-id xsetroot -solid "#333333
 exec --no-startup-id synclient HorizEdgeScroll=1 VertEdgeScroll=1 VertScrollDelta=-111
