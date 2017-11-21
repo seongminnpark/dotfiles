@@ -1,0 +1,30 @@
+<div class="navigationbar">
+    <div class="item" ng-repeat="item in items" ng-class="{selected: isSelected(item.path, location.path())}">
+        <a ng-href="{{item.url}}">
+            <img ng-src="{{item.img}}">
+        </a>
+        <div class="spacer"></div>
+        <div class="selector"></div>
+    </div>
+    <div class="spacer"></div>
+    <div class="item" ng-repeat="item in rightItems" ng-class="{selected: isSelected(item.path, location.path())}">
+        <a ng-href="{{item.url}}">
+            <img ng-src="{{item.img}}">
+        </a>
+        <div class="spacer"></div>
+        <div class="selector"></div>
+    </div>
+    <div class="right">
+        <div class="chain" ng-click="switchChain()">
+            <span translate>{{chain()}}</span>
+            <span translate>navigation_bar.switch_chain</span>
+        </div>
+        <div class="item" ng-class="{spinning: isRefreshing}">
+            <a ng-click="refresh()">
+                <img ng-src="{{synchronize.img}}">
+            </a>
+            <div class="spacer"></div>
+            <div class="selector"></div>
+        </div>
+    </div>
+</div>

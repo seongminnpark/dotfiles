@@ -1,0 +1,28 @@
+{
+   "api_console_project_id": "567704204295",
+   "app": {
+      "launch": {
+         "web_url": "https://pdfmerge.w69b.com/"
+      },
+      "urls": [ "https://pdfmerge.w69b.com/" ]
+   },
+   "container": [ "GOOGLE_DRIVE", "DOMAIN_INSTALLABLE" ],
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "gdrive_mime_types": {
+      "http://drive.google.com/intents/opendrivedoc": [ {
+         "disposition": "window",
+         "href": "https://pdfmerge.w69b.com/",
+         "title": "Open",
+         "type": [ "application/pdf", "application/vnd.google-apps.document", "application/vnd.google-apps.kix", "application/vnd.google-apps.spreadsheet", "application/vnd.google-apps.presentation", "application/vnd.google-apps.drawing", "application/vnd.google.drive.ext-type.pdf" ]
+      } ]
+   },
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLECccLKKtBCHW5MUJrPMekMIojVuPayTkpfGv4alaaQX/d+WZ0qgAHRb8D/EvoppcwChVQogUnZuML0BuimRe4DLpbuOklngqgrdqtZRcU0UFgIzEkEEKkY6B1YxBZcYZGygz3/JEwEb4/Nm5DWEbd/p8V/GTfxb0zZKT0q5aBQIDAQAB",
+   "manifest_version": 2,
+   "name": "PDF Mergy - Merge PDF files",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.6"
+}

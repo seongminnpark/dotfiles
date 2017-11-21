@@ -1,26 +1,32 @@
-2017/11/08-20:12:07.256 7127 Reusing MANIFEST /home/seongmin/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2017/11/08-20:12:07.256 7127 Recovering log #118
-2017/11/08-20:12:07.256 7127 Reusing old log /home/seongmin/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000118.log 
-2017/11/08-20:13:08.119 7946 Level-0 table #122: started
-2017/11/08-20:13:08.201 7946 Level-0 table #122: 2878550 bytes OK
-2017/11/08-20:13:08.203 7946 Delete type=0 #118
-2017/11/08-20:13:09.272 7946 Level-0 table #124: started
-2017/11/08-20:13:09.350 7946 Level-0 table #124: 2878543 bytes OK
-2017/11/08-20:13:09.351 7946 Delete type=0 #121
-2017/11/08-20:13:21.930 7946 Level-0 table #126: started
-2017/11/08-20:13:22.008 7946 Level-0 table #126: 2876544 bytes OK
-2017/11/08-20:13:22.010 7946 Delete type=0 #123
-2017/11/08-20:13:22.012 7946 Compacting 4@0 + 2@1 files
-2017/11/08-20:13:22.127 7946 Generated table #127@0: 1 keys, 2876467 bytes
-2017/11/08-20:13:22.130 7946 Generated table #128@0: 5 keys, 420 bytes
-2017/11/08-20:13:22.130 7946 Compacted 4@0 + 2@1 files => 2876887 bytes
-2017/11/08-20:13:22.131 7946 compacted to: files[ 0 2 1 0 0 0 0 ]
-2017/11/08-20:13:22.131 7946 Delete type=2 #119
-2017/11/08-20:13:22.132 7946 Delete type=2 #117
-2017/11/08-20:13:22.132 7946 Delete type=2 #126
-2017/11/08-20:13:22.132 7946 Delete type=2 #122
-2017/11/08-20:13:22.133 7946 Delete type=2 #116
-2017/11/08-20:13:22.133 7946 Delete type=2 #124
-2017/11/08-20:13:30.804 7946 Level-0 table #130: started
-2017/11/08-20:13:30.861 7946 Level-0 table #130: 2876527 bytes OK
-2017/11/08-20:13:30.863 7946 Delete type=0 #125
+2017/11/18-16:28:17.287 13781 Reusing MANIFEST /home/seongmin/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/11/18-16:28:17.287 13781 Recovering log #192
+2017/11/18-16:28:17.287 13781 Reusing old log /home/seongmin/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000192.log 
+2017/11/18-16:29:18.079 14830 Level-0 table #198: started
+2017/11/18-16:29:18.160 14830 Level-0 table #198: 2877305 bytes OK
+2017/11/18-16:29:18.161 14830 Delete type=0 #192
+2017/11/18-16:29:19.124 14830 Level-0 table #200: started
+2017/11/18-16:29:19.173 14830 Level-0 table #200: 2877345 bytes OK
+2017/11/18-16:29:19.175 14830 Delete type=0 #197
+2017/11/18-16:29:21.049 14830 Level-0 table #202: started
+2017/11/18-16:29:21.127 14830 Level-0 table #202: 2877360 bytes OK
+2017/11/18-16:29:21.129 14830 Delete type=0 #199
+2017/11/18-16:29:22.034 14830 Level-0 table #204: started
+2017/11/18-16:29:22.112 14830 Level-0 table #204: 2902382 bytes OK
+2017/11/18-16:29:22.114 14830 Delete type=0 #201
+2017/11/18-16:29:22.115 14830 Compacting 4@0 + 2@1 files
+2017/11/18-16:29:22.221 14830 Generated table #205@0: 1 keys, 2902382 bytes
+2017/11/18-16:29:22.226 14830 Generated table #206@0: 5 keys, 422 bytes
+2017/11/18-16:29:22.226 14830 Compacted 4@0 + 2@1 files => 2902804 bytes
+2017/11/18-16:29:22.227 14830 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/11/18-16:29:22.227 14830 Delete type=2 #194
+2017/11/18-16:29:22.228 14830 Delete type=2 #202
+2017/11/18-16:29:22.228 14830 Delete type=2 #200
+2017/11/18-16:29:22.229 14830 Delete type=2 #195
+2017/11/18-16:29:22.229 14830 Delete type=2 #204
+2017/11/18-16:29:22.229 14830 Delete type=2 #198
+2017/11/18-16:29:22.852 14830 Level-0 table #208: started
+2017/11/18-16:29:22.929 14830 Level-0 table #208: 2902382 bytes OK
+2017/11/18-16:29:22.933 14830 Delete type=0 #203
+2017/11/18-16:31:30.152 14830 Level-0 table #210: started
+2017/11/18-16:31:30.248 14830 Level-0 table #210: 2898598 bytes OK
+2017/11/18-16:31:30.249 14830 Delete type=0 #207

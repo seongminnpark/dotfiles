@@ -1,0 +1,22 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "and.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Andromeda Translator",
+   "icons": {
+      "128": "and128.png",
+      "16": "and128.png",
+      "48": "and48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy8+3nDTUMdI40fgRZcMwicPHjjLsV1v8pwX/MT+Qa8uKlMrRNjLVuPgYvok1xSDaYN8gDSabXYnnUJq6AYNcGfUOi9lIT7dNoN3/9S4NX8cSQSItE/aypmG6BAnvwBOMx8Xp1RgxkS2hYK+bBcv6qWZkyEddUI0XA2pz95CNegUmCUA0NUtJ+eJKVgmcex4IvgVy6X/taeFpiZ2XO2cdWYZIqwSAqfLTdafMaQtGYnLFRPANfGsBCk2WkVlSiRw2heuqkjzVuKlRQPM3zE5oIB3vvgiLsF0sgZTEs8PlPuaP8444toFx5y6IhN3b6Gr5ek2aqzK0Vlt8sg/HoqYMywIDAQAB",
+   "manifest_version": 2,
+   "name": "AndroTranslate",
+   "permissions": [ "contextMenus", "tabs", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.99"
+}

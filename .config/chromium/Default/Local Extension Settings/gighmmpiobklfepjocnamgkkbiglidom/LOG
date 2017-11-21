@@ -1,0 +1,23 @@
+2017/11/20-21:20:50.817 20665 Reusing MANIFEST /home/seongmin/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/11/20-21:20:50.817 20665 Recovering log #99
+2017/11/20-21:20:50.819 20665 Reusing old log /home/seongmin/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000099.log 
+2017/11/20-21:21:51.771 21271 Level-0 table #102: started
+2017/11/20-21:21:51.853 21271 Level-0 table #102: 2898813 bytes OK
+2017/11/20-21:21:51.854 21271 Delete type=0 #99
+2017/11/20-21:21:51.856 21271 Compacting 4@0 + 2@1 files
+2017/11/20-21:21:51.973 21271 Generated table #103@0: 1 keys, 2898599 bytes
+2017/11/20-21:21:51.976 21271 Generated table #104@0: 4 keys, 392 bytes
+2017/11/20-21:21:51.976 21271 Compacted 4@0 + 2@1 files => 2898991 bytes
+2017/11/20-21:21:51.978 21271 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/11/20-21:21:51.978 21271 Delete type=2 #93
+2017/11/20-21:21:51.978 21271 Delete type=2 #102
+2017/11/20-21:21:51.979 21271 Delete type=2 #91
+2017/11/20-21:21:51.979 21271 Delete type=2 #90
+2017/11/20-21:21:51.980 21271 Delete type=2 #96
+2017/11/20-21:21:51.980 21271 Delete type=2 #98
+2017/11/20-21:21:53.932 21271 Level-0 table #106: started
+2017/11/20-21:21:53.992 21271 Level-0 table #106: 2898946 bytes OK
+2017/11/20-21:21:53.995 21271 Delete type=0 #101
+2017/11/20-21:21:54.203 21271 Level-0 table #108: started
+2017/11/20-21:21:54.283 21271 Level-0 table #108: 2898809 bytes OK
+2017/11/20-21:21:54.284 21271 Delete type=0 #105

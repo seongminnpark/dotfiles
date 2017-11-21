@@ -1,0 +1,41 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_application_small_description__",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "*://*.ledgerwallet.com/*", "*://ledgerwallet.com/*", "http://dev.ledgerwallet.com:3000/api" ]
+   },
+   "icons": {
+      "128": "images/app_icon/ic_app_128.png",
+      "16": "images/app_icon/ic_app_16.png",
+      "32": "images/app_icon/ic_app_32.png",
+      "48": "images/app_icon/ic_app_48.png",
+      "64": "images/app_icon/ic_app_64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo9OjikeFxT2ZgvqxSgDSanmwLW/p4fH1HX7ldfpd/gU9wkuEcjPGw7mslC9PPKTZhUbmq3B7FWndpuoP6R5kEP4JPfxSpoDVx536oj4vmUA9ua9gV+Kzs3Y8988+/ZXDLwSk/WKtK2zqTX57i4p64BlsX55fi05ZEv4+ciL3KN+7C4HHKNMvbD4+ZsDFKOiSd6mdDbe/KOg242NOSUVj9nRHnwm0qZtAzmbXW1pG4vaD3gdEWemBdZUgWInZPQf/iKVv38iup7UBQBvaijQsKHya5FaoaK0pes4S7FRmBq2xPFepZZSJB5utOlMw4nihysyAQtivlB6x/vnR/OID4wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "50",
+   "name": "__MSG_application_name__",
+   "optional_permissions": [ "videoCapture", "fileSystem", {
+      "fileSystem": [ "write" ]
+   } ],
+   "permissions": [ "*://*/*", "*://*.ledgerwallet.com/*", "*://*.chain.com/v2/notifications/*", "*://api.coinkite.com/*", "*://coinkite.com/*", "*://node.ledger.fr/*", "*://api.chronocoin.fr/*", "storage", "unlimitedStorage", "notifications", "usb", "hid", {
+      "usbDevices": [ {
+         "productId": 0,
+         "vendorId": 11415
+      }, {
+         "productId": 1,
+         "vendorId": 11415
+      }, {
+         "productId": 2,
+         "vendorId": 11415
+      } ]
+   } ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.3"
+}

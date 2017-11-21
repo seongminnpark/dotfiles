@@ -1,19 +1,25 @@
 {
 	"folder_history":
 	[
+		"/home/seongmin/petshop-tutorial",
+		"/home/seongmin/iot-demo"
 	],
 	"last_version": 3143,
-	"last_window_id": 6,
+	"last_window_id": 12,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1464.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"web",
+						"web3Provider"
+					]
 				]
 			},
 			"build_system_choices":
@@ -22,16 +28,32 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 151.0,
-				"last_filter": "install",
+				"height": 640.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"vmen",
+						"View: Toggle Menu"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 489.0
+				"width": 1010.0
 			},
 			"console":
 			{
@@ -51,12 +73,17 @@
 			},
 			"file_history":
 			[
+				"/home/seongmin/petshop-tutorial/src/js/app.js",
+				"/home/seongmin/petshop-tutorial/test/TestAdoption.sol",
+				"/home/seongmin/petshop-tutorial/migrations/2_deploy_contracts.js",
+				"/home/seongmin/petshop-tutorial/contracts/Adoption.sol",
+				"/home/seongmin/.Xmodmap",
+				"/home/seongmin/.config/i3/config",
+				"/home/seongmin/.xinitrc",
+				"/home/seongmin/.Xresources",
 				"/home/seongmin/.XResources",
 				"/home/seongmin/.bashrc",
-				"/home/seongmin/.xinitrc",
-				"/home/seongmin/.config/i3/config",
 				"/home/seongmin/.config/polybar/config",
-				"/home/seongmin/.Xmodmap",
 				"/home/seongmin/Downloads/launch.sh",
 				"/home/seongmin/Downloads/config",
 				"/home/seongmin/Downloads/bashrc",
@@ -64,11 +91,11 @@
 			],
 			"find":
 			{
-				"height": 108.0
+				"height": 50.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 268.0,
 				"where_history":
 				[
 				]
@@ -78,7 +105,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"mod+enter"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -95,11 +121,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 52.0
+				"height": 50.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 94.0
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -109,7 +135,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 96.0
+				"height": 92.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -132,24 +158,24 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 640.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 1136.0
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 442.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 2314.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -158,37 +184,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"web",
+						"web3Provider"
+					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/home/seongmin/.config/i3/config",
-					"settings":
-					{
-						"buffer_size": 5584,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/seongmin/.xinitrc",
-					"settings":
-					{
-						"buffer_size": 134,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/seongmin/.Xresources",
-					"settings":
-					{
-						"buffer_size": 33,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -197,16 +200,32 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 151.0,
-				"last_filter": "install",
+				"height": 640.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"vmen",
+						"View: Toggle Menu"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 489.0
+				"width": 1010.0
 			},
 			"console":
 			{
@@ -224,14 +243,29 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+			],
 			"file_history":
 			[
+				"/usr/share/applications/chromium-browser.desktop",
+				"/usr/share/applications/google-chrome.desktop",
+				"/home/seongmin/iot-demo/src/index.html",
+				"/home/seongmin/iot-demo/src/rooms.json",
+				"/home/seongmin/.config/i3/config",
+				"/home/seongmin/iot-demo/package.json",
+				"/home/seongmin/iot-demo/src/js/app.js",
+				"/home/seongmin/petshop-tutorial/src/index.html",
+				"/home/seongmin/petshop-tutorial/src/js/app.js",
+				"/home/seongmin/petshop-tutorial/test/TestAdoption.sol",
+				"/home/seongmin/petshop-tutorial/migrations/2_deploy_contracts.js",
+				"/home/seongmin/petshop-tutorial/contracts/Adoption.sol",
+				"/home/seongmin/.Xmodmap",
+				"/home/seongmin/.xinitrc",
+				"/home/seongmin/.Xresources",
 				"/home/seongmin/.XResources",
 				"/home/seongmin/.bashrc",
-				"/home/seongmin/.xinitrc",
-				"/home/seongmin/.config/i3/config",
 				"/home/seongmin/.config/polybar/config",
-				"/home/seongmin/.Xmodmap",
 				"/home/seongmin/Downloads/launch.sh",
 				"/home/seongmin/Downloads/config",
 				"/home/seongmin/Downloads/bashrc",
@@ -239,13 +273,14 @@
 			],
 			"find":
 			{
-				"height": 52.0
+				"height": 53.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 268.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -253,7 +288,12 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"mod+enter"
+					"room4",
+					"room3",
+					"adopt",
+					"pets",
+					"pets.json",
+					"pet"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -268,109 +308,30 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/seongmin/iot-demo"
+				},
+				{
+					"path": "/home/seongmin/petshop-tutorial"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 1,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/home/seongmin/.config/i3/config",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5584,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5584,
-										5584
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/zzz A File Icon zzz/aliases/XML (Config).sublime-syntax",
-									"tab_size": 8,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 5678.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/seongmin/.xinitrc",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 134,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										69,
-										69
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/seongmin/.Xresources",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 33,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										30,
-										30
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 52.0
+				"height": 53.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 94.0
 			},
 			"layout":
 			{
@@ -400,11 +361,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,19,69,2381,1581,2400,1600",
+			"position": "0,0,0,0,0,40,90,2360,1560,2400,1600",
 			"project": "",
 			"replace":
 			{
-				"height": 96.0
+				"height": 98.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -427,12 +388,12 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 640.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 1136.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -442,12 +403,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 442.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 10,
 			"workspace_name": ""
 		}
 	],

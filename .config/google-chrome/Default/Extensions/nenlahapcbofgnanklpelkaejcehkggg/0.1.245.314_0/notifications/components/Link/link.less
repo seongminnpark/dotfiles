@@ -1,0 +1,48 @@
+.__wb_container .__wikibuy {
+  .wb-Link {
+    .defaultBold;
+    &-primary-link, &-primary-link a {
+      color: @palmetto;
+      cursor: pointer;
+      text-decoration: none;
+      &:hover {
+        color: @lime;
+      }
+      &:active {
+        color: @sage;
+        user-select: none;
+      }
+      &:disabled {
+        color: @gray;
+      }
+    }
+
+    &-secondary-link, &-secondary-link a {
+      color: @reef;
+      cursor: pointer;
+      text-decoration: none;
+      &:hover {
+        color: @glacier;
+      }
+      &:active {
+        color: @ice;
+        user-select: none;
+      }
+      &:disabled {
+        color: @gray;
+      }
+    }
+
+    &-tertiary-link {
+      color: @gray;
+      cursor: pointer;
+      &:hover {
+        color: @midnight;
+      }
+      &:active {
+        color: fade(@midnight, 20%);
+        user-select: none;
+      }
+    }
+  }
+}

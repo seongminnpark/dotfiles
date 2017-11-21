@@ -1,35 +1,35 @@
 {
-   "checksum": "d7c2ebe3643cb371e381abebfe0d2cd6",
+   "checksum": "fb954c0ba340da8257c8667fa68659fe",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13097814431159183",
             "id": "83",
             "meta_info": {
-               "last_visited_desktop": "13153261075936015"
+               "last_visited_desktop": "13155445244999521"
             },
             "name": "Seongmin Park",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "http://seongminpark.com/#myPage"
          }, {
             "date_added": "13098936523151950",
             "id": "84",
             "meta_info": {
-               "last_visited_desktop": "13154638162143351"
+               "last_visited_desktop": "13155505634140373"
             },
             "name": "YouTube",
-            "sync_transaction_version": "26",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://www.youtube.com/"
          }, {
             "date_added": "13089698959764107",
             "id": "85",
             "meta_info": {
-               "last_visited_desktop": "13154129675437099"
+               "last_visited_desktop": "13155310500549400"
             },
             "name": "Music",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://play.google.com/music/listen#/now"
          }, {
@@ -46,20 +46,20 @@
             "date_added": "13089780216541009",
             "id": "87",
             "meta_info": {
-               "last_visited_desktop": "13154660484382722"
+               "last_visited_desktop": "13154728012248730"
             },
             "name": "GitHub",
-            "sync_transaction_version": "37",
+            "sync_transaction_version": "49",
             "type": "url",
             "url": "https://github.com/"
          }, {
             "date_added": "13144988772136944",
             "id": "88",
             "meta_info": {
-               "last_visited_desktop": "13154661279632150"
+               "last_visited_desktop": "13155439332189328"
             },
             "name": "Inbox",
-            "sync_transaction_version": "40",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://inbox.google.com/u/0/?pli=1"
          }, {
@@ -77,30 +77,30 @@
             "id": "90",
             "meta_info": {
                "last_visited": "13138251221534903",
-               "last_visited_desktop": "13154117043337549"
+               "last_visited_desktop": "13154748512327437"
             },
             "name": "sio",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "51",
             "type": "url",
             "url": "https://s3.andrew.cmu.edu/sio/index.html"
          }, {
             "date_added": "13098936335927836",
             "id": "91",
             "meta_info": {
-               "last_visited_desktop": "13154587676868295"
+               "last_visited_desktop": "13155437449086983"
             },
             "name": "blackboard",
-            "sync_transaction_version": "13",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://blackboard.andrew.cmu.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1"
          }, {
             "date_added": "13119474829868383",
             "id": "92",
             "meta_info": {
-               "last_visited_desktop": "13154467834961155"
+               "last_visited_desktop": "13155507600537497"
             },
             "name": "canvas",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://cmu.instructure.com/"
          }, {
@@ -118,10 +118,10 @@
             "id": "94",
             "meta_info": {
                "last_visited": "13137870048929455",
-               "last_visited_desktop": "13154465910615044"
+               "last_visited_desktop": "13155351890614785"
             },
             "name": "piazza",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://piazza.com/class/ij60eh86qvg28g"
          }, {
@@ -138,10 +138,10 @@
             "date_added": "13129249497476659",
             "id": "96",
             "meta_info": {
-               "last_visited_desktop": "13140729400309763"
+               "last_visited_desktop": "13154674064187657"
             },
             "name": "110 S17",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "48",
             "type": "url",
             "url": "https://drive.google.com/drive/u/1/folders/0B7aLg48s7h4_c2VnS2Roa0JwRXc"
          }, {
@@ -159,10 +159,10 @@
             "id": "98",
             "meta_info": {
                "last_visited": "13137896573304835",
-               "last_visited_desktop": "13154501533741497"
+               "last_visited_desktop": "13155414091481119"
             },
             "name": "NAVER",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "http://www.naver.com/"
          }, {
@@ -170,10 +170,10 @@
             "id": "99",
             "meta_info": {
                "last_visited": "13138316918368232",
-               "last_visited_desktop": "13154486074793239"
+               "last_visited_desktop": "13155419582368476"
             },
             "name": "SCLN",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "http://www.soccerline.co.kr/"
          }, {
@@ -252,10 +252,10 @@
             "date_added": "13100128146808265",
             "id": "101",
             "meta_info": {
-               "last_visited_desktop": "13145769114904735"
+               "last_visited_desktop": "13155353243908653"
             },
             "name": "CloudPebble",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://cloudpebble.net/ide/"
          }, {
@@ -1307,10 +1307,10 @@
             "date_added": "13129681251032655",
             "id": "232",
             "meta_info": {
-               "last_visited_desktop": "13154638801248985"
+               "last_visited_desktop": "13155392046763921"
             },
             "name": "Unsplash | Free High-Resolution Photos",
-            "sync_transaction_version": "33",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://unsplash.com/"
          }, {
@@ -2396,8 +2396,11 @@
          }, {
             "date_added": "13152601058961625",
             "id": "353",
+            "meta_info": {
+               "last_visited_desktop": "13155037103060639"
+            },
             "name": "Bittrex.com - The Next Generation Crypto-Currency Exchange",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://bittrex.com/home/markets"
          }, {
@@ -2437,8 +2440,11 @@
          }, {
             "date_added": "13152622862058516",
             "id": "358",
+            "meta_info": {
+               "last_visited_desktop": "13155105416756651"
+            },
             "name": "The Lightning Network Explained (Litecoin/Bitcoin) - YouTube",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://www.youtube.com/watch?v=MpfvhiqFw7A"
          }, {
@@ -2495,10 +2501,10 @@
             "date_added": "13153305058710577",
             "id": "364",
             "meta_info": {
-               "last_visited_desktop": "13154592465165619"
+               "last_visited_desktop": "13155511168463403"
             },
             "name": "dnschneid/crouton: Chromium OS Universal Chroot Environment",
-            "sync_transaction_version": "14",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://github.com/dnschneid/crouton"
          }, {
@@ -2635,10 +2641,10 @@
             "date_added": "13153550589605789",
             "id": "378",
             "meta_info": {
-               "last_visited_desktop": "13154388962948545"
+               "last_visited_desktop": "13154849143721791"
             },
             "name": "질투의 화신 3회 다시보기 :: 티비나무",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "52",
             "type": "url",
             "url": "http://www.tvnamu.net/video/3875/%EC%A7%88%ED%88%AC%EC%9D%98%ED%99%94%EC%8B%A03%ED%9A%8C.html"
          }, {
@@ -2665,20 +2671,20 @@
             "date_added": "13153581560814010",
             "id": "381",
             "meta_info": {
-               "last_visited_desktop": "13154061999578109"
+               "last_visited_desktop": "13154672896990774"
             },
             "name": "A 101 Noob Intro to Programming Smart Contracts on Ethereum",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "48",
             "type": "url",
             "url": "https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4"
          }, {
             "date_added": "13153582044164710",
             "id": "382",
             "meta_info": {
-               "last_visited_desktop": "13153718446710165"
+               "last_visited_desktop": "13155153318784648"
             },
             "name": "White Paper · ethereum/wiki Wiki",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
          }, {
@@ -2702,20 +2708,20 @@
             "date_added": "13153845790553718",
             "id": "385",
             "meta_info": {
-               "last_visited_desktop": "13153865962519576"
+               "last_visited_desktop": "13155196994965217"
             },
             "name": "The Hitchhiker’s Guide to Smart Contracts in Ethereum",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05"
          }, {
             "date_added": "13154088661351369",
             "id": "386",
             "meta_info": {
-               "last_visited_desktop": "13154088661353187"
+               "last_visited_desktop": "13155291284653218"
             },
             "name": "Properties of Fourier Transform",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "53",
             "type": "url",
             "url": "http://fourier.eng.hmc.edu/e101/lectures/handout3/node2.html"
          }, {
@@ -2802,10 +2808,10 @@
             "date_added": "13154585580453586",
             "id": "414",
             "meta_info": {
-               "last_visited_desktop": "13154587658472083"
+               "last_visited_desktop": "13154662819250586"
             },
             "name": "Crouton Command Cheat Sheet · dnschneid/crouton Wiki · GitHub",
-            "sync_transaction_version": "13",
+            "sync_transaction_version": "45",
             "type": "url",
             "url": "https://github.com/dnschneid/crouton/wiki/Crouton-Command-Cheat-Sheet"
          }, {
@@ -2818,9 +2824,76 @@
             "sync_transaction_version": "34",
             "type": "url",
             "url": "https://news.ycombinator.com/item?id=11070797"
+         }, {
+            "date_added": "13154740013926229",
+            "id": "420",
+            "meta_info": {
+               "last_visited_desktop": "13155204316544088"
+            },
+            "name": "Symmetry: even, odd, real, imaginary functions :: Advanced Techniques :: Rudi Winter's web space",
+            "sync_transaction_version": "53",
+            "type": "url",
+            "url": "http://users.aber.ac.uk/ruw/teach/340/ft_symmetry.php"
+         }, {
+            "date_added": "13154742508792998",
+            "id": "421",
+            "meta_info": {
+               "last_visited_desktop": "13154742508793983"
+            },
+            "name": "Properties of Discrete Fourier Transform",
+            "sync_transaction_version": "51",
+            "type": "url",
+            "url": "http://fourier.eng.hmc.edu/e101/lectures/handout3/node7.html"
+         }, {
+            "date_added": "13154898469737302",
+            "id": "424",
+            "name": "Bitcoin Whitepaper",
+            "sync_transaction_version": "53",
+            "type": "url",
+            "url": "https://www.coinlearn.org/"
+         }, {
+            "date_added": "13155026364627417",
+            "id": "425",
+            "meta_info": {
+               "last_visited_desktop": "13155026364629021"
+            },
+            "name": "Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto Institute",
+            "sync_transaction_version": "53",
+            "type": "url",
+            "url": "http://nakamotoinstitute.org/bitcoin/"
+         }, {
+            "date_added": "13155110098900781",
+            "id": "426",
+            "meta_info": {
+               "last_visited_desktop": "13155110098901567"
+            },
+            "name": "Plasma in 10 minutes – Chain.Cloud company blog – Medium",
+            "sync_transaction_version": "53",
+            "type": "url",
+            "url": "https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339"
+         }, {
+            "date_added": "13155111643261152",
+            "id": "427",
+            "meta_info": {
+               "last_visited_desktop": "13155165230942739"
+            },
+            "name": "Markov Chain Monte Carlo Without all the Bullshit | Math ∩ Programming",
+            "sync_transaction_version": "53",
+            "type": "url",
+            "url": "https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/"
+         }, {
+            "date_added": "13155438353830515",
+            "id": "428",
+            "meta_info": {
+               "last_visited_desktop": "13155443822122004"
+            },
+            "name": "Shush.se - Watch TV Shows and Documentaries Online",
+            "sync_transaction_version": "53",
+            "type": "url",
+            "url": "http://www.shush.se/index.php?showlist=southpark"
          } ],
          "date_added": "13154577776606880",
-         "date_modified": "13154661552446303",
+         "date_modified": "13155512965890677",
          "id": "1",
          "name": "Bookmarks bar",
          "type": "folder"
@@ -2840,7 +2913,7 @@
          "name": "Other bookmarks",
          "type": "folder"
       },
-      "sync_transaction_version": "44",
+      "sync_transaction_version": "53",
       "synced": {
          "children": [ {
             "date_added": "13097348354634543",

@@ -1,1 +1,6 @@
 rofi.font: Avenir LT 65 Medium 25
+
+rofi.color-window: #242321, #35322d                                                                                                        
+rofi.color-normal: #242321, #f8f6f2, #35322d, #0a9dff, #f8f6f2                                                                                      
+rofi.color-active: #ff9eb8, #f8f6f2, #35322d, #0a9dff, #f8f6f2                                                                                      
+rofi.color-urgent: #ff2c4b, #f8f6f2, #35322d, #0a9dff, #f8f6f2 

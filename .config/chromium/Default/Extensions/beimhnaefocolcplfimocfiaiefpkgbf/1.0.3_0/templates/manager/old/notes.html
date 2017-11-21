@@ -1,0 +1,50 @@
+<div class="panel-view" ng-controller="OldNotesController as ctrl">
+    <left-panel selected-category="{{ctrl.category}}" on-refresh="ctrl.fullRefresh()"></left-panel>
+    <div class="right-panel list-panel scrollable">
+        <div class="list-item" ng-if="ctrl.category == 'apps'">
+            <img async-src="ctrl.icon(ctrl.app.icon)" width="50" height="50"/>
+            <div>
+                <h1>{{ctrl.app.name}} <span ng-show="ctrl.app.developer" translate>old.common.dev_version</span></h1>
+                <p>Version {{ctrl.app.version}}</p>
+            </div>
+            <div class="spacer"></div>
+            <div>
+                <div class="round-button green" ng-click="ctrl.install(ctrl.app)">
+                    <i class="fa fa-arrow-down" aria-hidden="true"></i>
+                </div>
+                <div class="round-button grey" ng-click="ctrl.uninstall(ctrl.app)">
+                    <i class="fa fa-trash" aria-hidden="true"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="list-item" style="border: 0;" ng-show="ctrl.category == 'firmwares'">
+            <img src="images/icons/ic_firmware.png" width="50" height="50"/>
+            <div>
+                <h1><i style="text-transform: capitalize" translate>common.firmware</i> <span ng-show="app.developer" translate>old.common.dev_version</span></h1>
+                <p>Version {{ctrl.firmware.name}}</p>
+            </div>
+            <div class="spacer"></div>
+            <div>
+                <div class="thin-button green" ng-click="ctrl.installOsu(ctrl.firmware)">
+                    <i translate>firmware.install</i>
+                </div>
+            </div>
+        </div>
+        <div class="list-item" style="padding-top: 0px; padding-bottom: 0px"></div>
+        <div class="list-detail">
+            <div class="detail-item" mark-down="ctrl.content">
+
+            </div>
+            <div class="spacer"></div>
+            <div class="actions">
+                <a ng-click="ctrl.openHelpCenter()" translate>common.need_help</a>
+                <div class="spacer"></div>
+                <a ng-click="ctrl.toggleDevMode()" ng-if="ctrl.category == 'firmwares'">
+                    <span ng-show="!ctrl.isInDevMode()" translate>old.common.show_dev</span>
+                    <span ng-show="ctrl.isInDevMode()" translate>old.common.hide_dev</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

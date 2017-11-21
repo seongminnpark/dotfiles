@@ -1,0 +1,5698 @@
+[
+  {
+    "url": "https://www.raise.com/buy-home-depot-in-store-only-gift-cards",
+    "name": "Home Depot (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-sears-gift-cards",
+    "name": "Sears",
+    "domain": "sears.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-target-gift-cards",
+    "name": "Target",
+    "domain": "target.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-mcdonald-s-gift-cards",
+    "name": "McDonald's",
+    "domain": "mcdonalds.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kmart-gift-cards",
+    "name": "Kmart",
+    "domain": "kmart.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-starbucks-coffee-gift-cards",
+    "name": "Starbucks Coffee"
+  },
+  {
+    "url": "https://www.raise.com/buy-staples-gift-cards",
+    "name": "Staples",
+    "domain": "staples.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-macy-s-gift-cards",
+    "name": "Macy's",
+    "domain": "macys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-walmart-gift-cards",
+    "name": "Walmart",
+    "domain": "walmart.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lowe-s-in-store-only-gift-cards",
+    "name": "Lowe's (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-dell-gift-cards",
+    "name": "Dell",
+    "domain": "dell.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kohl-s-gift-cards",
+    "name": "Kohl's",
+    "domain": "kohls.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cvs-pharmacy-gift-cards",
+    "name": "CVS Pharmacy",
+    "domain": "cvs.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-dunkin-donuts-gift-cards",
+    "name": "Dunkin' Donuts",
+    "domain": "dunkindonuts.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-t-j-maxx-gift-cards",
+    "name": "T.J. Maxx"
+  },
+  {
+    "url": "https://www.raise.com/buy-sephora-gift-cards",
+    "name": "Sephora",
+    "domain": "sephora.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-itunes-gift-cards",
+    "name": "iTunes",
+    "domain": "apple.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-overstock-gift-cards",
+    "name": "Overstock",
+    "domain": "overstock.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-best-buy-gift-cards",
+    "name": "Best Buy",
+    "domain": "bestbuy.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-nordstrom-gift-cards",
+    "name": "Nordstrom",
+    "domain": "nordstrom.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fandango-gift-cards",
+    "name": "Fandango",
+    "domain": "fandango.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-marshalls-gift-cards",
+    "name": "Marshalls",
+    "domain": "marshalls.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-homegoods-gift-cards",
+    "name": "HomeGoods",
+    "domain": "homegoods.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-gamestop-gift-cards",
+    "name": "GameStop",
+    "domain": "gamestop.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-nike-gift-cards",
+    "name": "Nike",
+    "domain": "nike.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hotels-com-gift-cards",
+    "name": "Hotels.com",
+    "domain": "hotels.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-domino-s-gift-cards",
+    "name": "Domino's",
+    "domain": "dominos.com",
+    "match_pattern": "/order/payment.jsp"
+  },
+  {
+    "url": "https://www.raise.com/buy-forever-21-gift-cards",
+    "name": "Forever 21"
+  },
+  {
+    "url": "https://www.raise.com/buy-applebee-s-gift-cards",
+    "name": "Applebee's",
+    "domain": "applebees.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-buffalo-wild-wings-gift-cards",
+    "name": "Buffalo Wild Wings"
+  },
+  {
+    "url": "https://www.raise.com/buy-michaels-gift-cards",
+    "name": "Michaels",
+    "domain": "michaels.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-dick-s-sporting-goods-gift-cards",
+    "name": "Dick's Sporting Goods"
+  },
+  {
+    "url": "https://www.raise.com/buy-gap-gift-cards",
+    "name": "Gap",
+    "domain": "gap.com",
+    "match_pattern": "/checkout/order.do"
+  },
+  {
+    "url": "https://www.raise.com/buy-old-navy-gift-cards",
+    "name": "Old Navy",
+    "domain": "oldnavy.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-olive-garden-gift-cards",
+    "name": "Olive Garden",
+    "domain": "olivegarden.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-petsmart-gift-cards",
+    "name": "PetSmart",
+    "domain": "petsmart.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-children-s-place-gift-cards",
+    "name": "The Children's Place",
+    "domain": "childrensplace.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-amazon-com-gift-cards",
+    "name": "Amazon.com",
+    "domain": "amazon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-home-depot-gift-cards",
+    "name": "Home Depot",
+    "domain": "homedepot.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-t-j-maxx-online-only-gift-cards",
+    "name": "T.J. Maxx (Online Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-jcpenney-gift-cards",
+    "name": "JCPenney",
+    "domain": "jcpenney.com",
+    "match_pattern": "/checkout|/cart"
+  },
+  {
+    "url": "https://www.raise.com/buy-toys-r-us-gift-cards",
+    "name": "Toys\"R\"Us",
+    "domain": "toysrus.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lowe-s-gift-cards",
+    "name": "Lowe's",
+    "domain": "lowes.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ebay-gift-cards",
+    "name": "eBay",
+    "domain": "ebay.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-babies-r-us-gift-cards",
+    "name": "Babies\"R\"Us",
+    "domain": "toysrus.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-papa-john-s-pizza-gift-cards",
+    "name": "Papa John's Pizza",
+    "domain": "papajohns.com",
+    "match_pattern": "/order/checkout"
+  },
+  {
+    "url": "https://www.raise.com/buy-chili-s-gift-cards",
+    "name": "Chili's",
+    "domain": "chilis.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-victoria-s-secret-gift-cards",
+    "name": "Victoria's Secret",
+    "domain": "victoriasecret.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ross-in-store-only-gift-cards",
+    "name": "Ross (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-abercrombie-fitch-gift-cards",
+    "name": "Abercrombie & Fitch"
+  },
+  {
+    "url": "https://www.raise.com/buy-carter-s-gift-cards",
+    "name": "Carter's",
+    "domain": "carters.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-barnes-noble-gift-cards",
+    "name": "Barnes & Noble",
+    "domain": "bn.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-outback-steakhouse-gift-cards",
+    "name": "Outback Steakhouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-walgreens-in-store-only-gift-cards",
+    "name": "Walgreens (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-petsmart-only-online-gift-cards",
+    "name": "PetSmart (Only Online)",
+    "domain": "petsmart.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-petco-gift-cards",
+    "name": "Petco",
+    "domain": "petco.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-express-gift-cards",
+    "name": "Express",
+    "domain": "express.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hollister-gift-cards",
+    "name": "Hollister",
+    "domain": "hollisterco.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cabela-s-gift-cards",
+    "name": "Cabela's",
+    "domain": "cabelas.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-burger-king-gift-cards",
+    "name": "BURGER KING®"
+  },
+  {
+    "url": "https://www.raise.com/buy-office-depot-gift-cards",
+    "name": "Office Depot",
+    "domain": "officedepot.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bed-bath-beyond-online-only-gift-cards",
+    "name": "Bed Bath & Beyond (Online Only)",
+    "domain": "bedbathandbeyond.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-amc-theatres-gift-cards",
+    "name": "AMC Theatres"
+  },
+  {
+    "url": "https://www.raise.com/buy-bath-body-works-gift-cards",
+    "name": "Bath & Body Works",
+    "domain": "bathandbodyworks.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bed-bath-beyond-gift-cards",
+    "name": "Bed Bath & Beyond",
+    "domain": "bedbathandbeyond.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cold-stone-creamery-gift-cards",
+    "name": "Cold Stone Creamery"
+  },
+  {
+    "url": "https://www.raise.com/buy-boden-usa-gift-cards",
+    "name": "Boden USA",
+    "domain": "bodenusa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-amc-theatres-in-theatre-only-gift-cards",
+    "name": "AMC Theatres (In Theatre Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-groupon-gift-cards",
+    "name": "Groupon",
+    "domain": "groupon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-american-eagle-outfitters-gift-cards",
+    "name": "American Eagle Outfitters",
+    "domain": "ae.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-subway-gift-cards",
+    "name": "Subway",
+    "domain": "mysubwaycard.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-banana-republic-gift-cards",
+    "name": "Banana Republic"
+  },
+  {
+    "url": "https://www.raise.com/buy-rite-aid-gift-cards",
+    "name": "Rite Aid",
+    "domain": "riteaid.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kroger-gift-cards",
+    "name": "Kroger",
+    "domain": "kroger.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-p-f-chang-s-gift-cards",
+    "name": "P. F. Chang's"
+  },
+  {
+    "url": "https://www.raise.com/buy-ihop-gift-cards",
+    "name": "IHOP",
+    "domain": "ihop.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-h-m-gift-cards",
+    "name": "H&M",
+    "domain": "hm.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-belk-gift-cards",
+    "name": "Belk",
+    "domain": "belk.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-steak-n-shake-gift-cards",
+    "name": "Steak 'n Shake"
+  },
+  {
+    "url": "https://www.raise.com/buy-regal-cinemas-gift-cards",
+    "name": "Regal Cinemas"
+  },
+  {
+    "url": "https://www.raise.com/buy-quiktrip-gift-cards",
+    "name": "QuikTrip",
+    "domain": "quiktrip.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-jack-in-the-box-gift-cards",
+    "name": "Jack in the Box"
+  },
+  {
+    "url": "https://www.raise.com/buy-shell-gasoline-gift-cards",
+    "name": "Shell Gasoline"
+  },
+  {
+    "url": "https://www.raise.com/buy-southwest-airlines-gift-cards",
+    "name": "Southwest Airlines"
+  },
+  {
+    "url": "https://www.raise.com/buy-new-york-company-gift-cards",
+    "name": "New York & Company",
+    "domain": "nyandcompany.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fanatics-gift-cards",
+    "name": "Fanatics",
+    "domain": "fanatics.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-panera-bread-in-restaurant-only-gift-cards",
+    "name": "Panera Bread (In Restaurant Only)",
+    "domain": "panerabread.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ulta-gift-cards",
+    "name": "ULTA",
+    "domain": "ulta.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-tgi-fridays-gift-cards",
+    "name": "TGI Fridays",
+    "domain": "fridays.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bass-pro-shops-gift-cards",
+    "name": "Bass Pro Shops®",
+    "domain": "basspro.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-panda-express-gift-cards",
+    "name": "Panda Express"
+  },
+  {
+    "url": "https://www.raise.com/buy-cheesecake-factory-gift-cards",
+    "name": "Cheesecake Factory"
+  },
+  {
+    "url": "https://www.raise.com/buy-pier-1-imports-gift-cards",
+    "name": "Pier 1 Imports"
+  },
+  {
+    "url": "https://www.raise.com/buy-taco-bell-gift-cards",
+    "name": "Taco Bell"
+  },
+  {
+    "url": "https://www.raise.com/buy-urban-outfitters-gift-cards",
+    "name": "Urban Outfitters",
+    "domain": "urbanoutfitters.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cracker-barrel-gift-cards",
+    "name": "Cracker Barrel"
+  },
+  {
+    "url": "https://www.raise.com/buy-gilt-gift-cards",
+    "name": "Gilt",
+    "domain": "gilt.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-foot-locker-gift-cards",
+    "name": "Foot Locker",
+    "domain": "footlocker.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-petco-in-store-only-gift-cards",
+    "name": "Petco (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-under-armour-gift-cards",
+    "name": "Under Armour",
+    "domain": "us.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-dairy-queen-gift-cards",
+    "name": "Dairy Queen"
+  },
+  {
+    "url": "https://www.raise.com/buy-autozone-gift-cards",
+    "name": "AutoZone",
+    "domain": "autozone.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pacsun-gift-cards",
+    "name": "PacSun",
+    "domain": "pacsun.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-nutrisystem-gift-cards",
+    "name": "Nutrisystem",
+    "domain": "nutrisystem.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-golden-corral-gift-cards",
+    "name": "Golden Corral"
+  },
+  {
+    "url": "https://www.raise.com/buy-build-a-bear-workshop-gift-cards",
+    "name": "Build-A-Bear Workshop",
+    "domain": "buildabear.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bp-gas-gift-cards",
+    "name": "BP Gas"
+  },
+  {
+    "url": "https://www.raise.com/buy-jamba-juice-gift-cards",
+    "name": "Jamba Juice"
+  },
+  {
+    "url": "https://www.raise.com/buy-red-robin-gift-cards",
+    "name": "Red Robin"
+  },
+  {
+    "url": "https://www.raise.com/buy-pottery-barn-gift-cards",
+    "name": "Pottery Barn"
+  },
+  {
+    "url": "https://www.raise.com/buy-neiman-marcus-gift-cards",
+    "name": "Neiman Marcus"
+  },
+  {
+    "url": "https://www.raise.com/buy-burlington-coat-factory-gift-cards",
+    "name": "Burlington Coat Factory"
+  },
+  {
+    "url": "https://www.raise.com/buy-rue21-gift-cards",
+    "name": "rue21",
+    "domain": "rue21.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-harbor-freight-tools-gift-cards",
+    "name": "Harbor Freight Tools"
+  },
+  {
+    "url": "https://www.raise.com/buy-zaxby-s-gift-cards",
+    "name": "Zaxby's",
+    "domain": "zaxbys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-denny-s-gift-cards",
+    "name": "Denny's",
+    "domain": "dennys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lane-bryant-gift-cards",
+    "name": "Lane Bryant®",
+    "domain": "lanebryant.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-publix-gift-cards",
+    "name": "Publix",
+    "domain": "publix.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-nfl-shop-gift-cards",
+    "name": "NFL Shop"
+  },
+  {
+    "url": "https://www.raise.com/buy-boston-market-gift-cards",
+    "name": "Boston Market",
+    "domain": "bostonmarket.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chipotle-physical-gift-cards",
+    "name": "Chipotle (Physical)"
+  },
+  {
+    "url": "https://www.raise.com/buy-dillard-s-gift-cards",
+    "name": "Dillard's",
+    "domain": "dillards.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-1-800flowers-com-gift-cards",
+    "name": "1-800Flowers.com",
+    "domain": "1-800flowers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-california-pizza-kitchen-gift-cards",
+    "name": "California Pizza Kitchen"
+  },
+  {
+    "url": "https://www.raise.com/buy-famous-footwear-gift-cards",
+    "name": "Famous Footwear"
+  },
+  {
+    "url": "https://www.raise.com/buy-lush-gift-cards",
+    "name": "LUSH",
+    "domain": "lush.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-payless-shoes-gift-cards",
+    "name": "Payless Shoes",
+    "domain": "payless.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-wendy-s-gift-cards",
+    "name": "Wendy's",
+    "domain": "wendys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-anthropologie-gift-cards",
+    "name": "Anthropologie",
+    "domain": "anthropologie.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-five-guys-gift-cards",
+    "name": "Five Guys"
+  },
+  {
+    "url": "https://www.raise.com/buy-ruby-tuesday-gift-cards",
+    "name": "Ruby Tuesday"
+  },
+  {
+    "url": "https://www.raise.com/buy-xbox-prepaid-gift-cards",
+    "name": "Xbox Prepaid"
+  },
+  {
+    "url": "https://www.raise.com/buy-playstation-network-gift-cards",
+    "name": "PlayStation Network"
+  },
+  {
+    "url": "https://www.raise.com/buy-justice-gift-cards",
+    "name": "Justice",
+    "domain": "justice.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bloomingdale-s-gift-cards",
+    "name": "Bloomingdale's",
+    "domain": "bloomingdales.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-officemax-gift-cards",
+    "name": "OfficeMax",
+    "domain": "officedepot.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-dsw-gift-cards",
+    "name": "DSW",
+    "domain": "dsw.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-o-charley-s-gift-cards",
+    "name": "O'Charley's",
+    "domain": "ocharleys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-charlotte-russe-gift-cards",
+    "name": "Charlotte Russe",
+    "domain": "charlotterusse.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lyft-gift-cards",
+    "name": "Lyft",
+    "domain": "lyft.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chipotle-gift-cards",
+    "name": "Chipotle",
+    "domain": "chipotle.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ralph-lauren-gift-cards",
+    "name": "Ralph Lauren"
+  },
+  {
+    "url": "https://www.raise.com/buy-buca-di-beppo-gift-cards",
+    "name": "Buca di Beppo"
+  },
+  {
+    "url": "https://www.raise.com/buy-longhorn-steakhouse-gift-cards",
+    "name": "Longhorn Steakhouse",
+    "domain": "longhornsteakhouse.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-gnc-gift-cards",
+    "name": "GNC",
+    "domain": "gnc.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-big-lots-gift-cards",
+    "name": "Big Lots"
+  },
+  {
+    "url": "https://www.raise.com/buy-movietickets-com-gift-cards",
+    "name": "Movietickets.com",
+    "domain": "movietickets.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pizza-hut-gift-cards",
+    "name": "Pizza Hut"
+  },
+  {
+    "url": "https://www.raise.com/buy-claire-s-gift-cards",
+    "name": "Claire's",
+    "domain": "claires.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-carl-s-jr-gift-cards",
+    "name": "Carl's Jr.",
+    "domain": "carlsjr.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-delta-air-lines-gift-cards",
+    "name": "Delta Air Lines"
+  },
+  {
+    "url": "https://www.raise.com/buy-michaels-online-only-gift-cards",
+    "name": "Michaels (Online Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-shoprite-gift-cards",
+    "name": "ShopRite",
+    "domain": "shoprite.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-advance-auto-parts-gift-cards",
+    "name": "Advance Auto Parts",
+    "domain": "advanceautoparts.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-meijer-gift-cards",
+    "name": "Meijer",
+    "domain": "meijer.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sally-beauty-supply-gift-cards",
+    "name": "Sally Beauty Supply"
+  },
+  {
+    "url": "https://www.raise.com/buy-estee-lauder-gift-cards",
+    "name": "Estee Lauder"
+  },
+  {
+    "url": "https://www.raise.com/buy-athleta-gift-cards",
+    "name": "Athleta",
+    "domain": "athleta.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sunglass-hut-gift-cards",
+    "name": "Sunglass Hut"
+  },
+  {
+    "url": "https://www.raise.com/buy-tractor-supply-company-gift-cards",
+    "name": "Tractor Supply Company"
+  },
+  {
+    "url": "https://www.raise.com/buy-disney-store-gift-cards",
+    "name": "Disney Store"
+  },
+  {
+    "url": "https://www.raise.com/buy-mccormick-schmick-s-gift-cards",
+    "name": "McCormick & Schmick's"
+  },
+  {
+    "url": "https://www.raise.com/buy-swap-com-gift-cards",
+    "name": "Swap.com",
+    "domain": "swap.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-netflix-gift-cards",
+    "name": "Netflix",
+    "domain": "netflix.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-boscov-s-department-store-gift-cards",
+    "name": "Boscov's Department Store"
+  },
+  {
+    "url": "https://www.raise.com/buy-hp-gift-cards",
+    "name": "HP",
+    "domain": "hp.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-talbots-gift-cards",
+    "name": "Talbots",
+    "domain": "talbots.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-saks-fifth-avenue-gift-cards",
+    "name": "Saks Fifth Avenue"
+  },
+  {
+    "url": "https://www.raise.com/buy-zappos-gift-cards",
+    "name": "Zappos",
+    "domain": "zappos.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-stubhub-gift-cards",
+    "name": "StubHub",
+    "domain": "stubhub.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-container-store-gift-cards",
+    "name": "The Container Store"
+  },
+  {
+    "url": "https://www.raise.com/buy-allen-edmonds-gift-cards",
+    "name": "Allen Edmonds",
+    "domain": "allenedmonds.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-dollar-tree-gift-cards",
+    "name": "Dollar Tree",
+    "domain": "dollartree.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-limited-gift-cards",
+    "name": "The Limited"
+  },
+  {
+    "url": "https://www.raise.com/buy-loft-gift-cards",
+    "name": "Loft",
+    "domain": "loft.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hot-topic-gift-cards",
+    "name": "Hot Topic",
+    "domain": "hottopic.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-disney-gift-cards",
+    "name": "Disney",
+    "domain": "disney.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-jo-ann-fabrics-gift-cards",
+    "name": "Jo Ann Fabrics",
+    "domain": "joann.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-darden-restaurants-gift-cards",
+    "name": "Darden Restaurants",
+    "domain": "darden.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-eddie-bauer-gift-cards",
+    "name": "Eddie Bauer"
+  },
+  {
+    "url": "https://www.raise.com/buy-tilly-s-gift-cards",
+    "name": "Tilly's",
+    "domain": "tillys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-mac-cosmetics-gift-cards",
+    "name": "MAC Cosmetics"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-coffee-bean-tea-leaf-gift-cards",
+    "name": "The Coffee Bean & Tea Leaf"
+  },
+  {
+    "url": "https://www.raise.com/buy-white-house-black-market-gift-cards",
+    "name": "White House Black Market"
+  },
+  {
+    "url": "https://www.raise.com/buy-reebok-gift-cards",
+    "name": "Reebok",
+    "domain": "reebok.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-logan-s-roadhouse-gift-cards",
+    "name": "Logan's Roadhouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-ulta-in-store-only-gift-cards",
+    "name": "Ulta (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-in-n-out-burger-gift-cards",
+    "name": "In-N-Out Burger"
+  },
+  {
+    "url": "https://www.raise.com/buy-exxon-mobil-gift-cards",
+    "name": "Exxon Mobil"
+  },
+  {
+    "url": "https://www.raise.com/buy-carrabba-s-gift-cards",
+    "name": "Carrabba's",
+    "domain": "carrabbas.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lululemon-gift-cards",
+    "name": "Lululemon",
+    "domain": "lululemon.com",
+    "match_pattern": "/checkout/"
+  },
+  {
+    "url": "https://www.raise.com/buy-uno-chicago-grill-gift-cards",
+    "name": "Uno Chicago Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-stop-shop-gift-cards",
+    "name": "Stop&Shop",
+    "domain": "stopshop.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-j-crew-gift-cards",
+    "name": "J.Crew",
+    "domain": "jcrew.com",
+    "match_pattern": "checkout2/(shoppingbag|signin|shipping)"
+  },
+  {
+    "url": "https://www.raise.com/buy-kate-spade-gift-cards",
+    "name": "Kate Spade"
+  },
+  {
+    "url": "https://www.raise.com/buy-lord-taylor-gift-cards",
+    "name": "Lord & Taylor",
+    "domain": "lordandtaylor.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-moe-s-southwest-grill-gift-cards",
+    "name": "Moe's Southwest Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-golfsmith-gift-cards",
+    "name": "Golfsmith",
+    "domain": "golfsmith.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-gordmans-gift-cards",
+    "name": "Gordmans",
+    "domain": "gordmans.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sprouts-farmers-market-gift-cards",
+    "name": "Sprouts Farmers Market"
+  },
+  {
+    "url": "https://www.raise.com/buy-chevron-gift-cards",
+    "name": "Chevron",
+    "domain": "chevrontexacostations.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-academy-sports-in-store-only-gift-cards",
+    "name": "Academy Sports (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-lord-taylor-online-only-gift-cards",
+    "name": "Lord & Taylor (Online Only)",
+    "domain": "lordandtaylor.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-aeropostale-gift-cards",
+    "name": "Aeropostale",
+    "domain": "aeropostale.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sephora-in-store-only-gift-cards",
+    "name": "Sephora (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-steam-gift-cards",
+    "name": "Steam",
+    "domain": "steampowered.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chico-s-gift-cards",
+    "name": "Chico's",
+    "domain": "chicos.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lands-end-gift-cards",
+    "name": "Lands' End"
+  },
+  {
+    "url": "https://www.raise.com/buy-torrid-gift-cards",
+    "name": "Torrid",
+    "domain": "torrid.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-american-airlines-gift-cards",
+    "name": "American Airlines",
+    "domain": "aa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-carmike-cinemas-gift-cards",
+    "name": "Carmike Cinemas"
+  },
+  {
+    "url": "https://www.raise.com/buy-skechers-gift-cards",
+    "name": "SKECHERS",
+    "domain": "skechers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-brookstone-gift-cards",
+    "name": "Brookstone",
+    "domain": "brookstone.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-honest-company-gift-cards",
+    "name": "The Honest Company"
+  },
+  {
+    "url": "https://www.raise.com/buy-fossil-gift-cards",
+    "name": "Fossil",
+    "domain": "fossil.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bed-bath-beyond-in-store-only-gift-cards",
+    "name": "Bed Bath & Beyond (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-dressbarn-gift-cards",
+    "name": "Dressbarn",
+    "domain": "dressbarn.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-wingstop-gift-cards",
+    "name": "Wingstop",
+    "domain": "wingstop.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-omaha-steaks-gift-cards",
+    "name": "Omaha Steaks",
+    "domain": "omahasteaks.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-toms-gift-cards",
+    "name": "Toms",
+    "domain": "toms.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-autozone-online-only-gift-cards",
+    "name": "AutoZone (Online Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-uniqlo-gift-cards",
+    "name": "Uniqlo",
+    "domain": "uniqlo.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-jersey-mike-s-subs-gift-cards",
+    "name": "Jersey Mike's Subs"
+  },
+  {
+    "url": "https://www.raise.com/buy-loft-in-store-only-gift-cards",
+    "name": "Loft (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-o-reilly-auto-parts-gift-cards",
+    "name": "O'Reilly Auto Parts"
+  },
+  {
+    "url": "https://www.raise.com/buy-royal-caribbean-gift-cards",
+    "name": "Royal Caribbean"
+  },
+  {
+    "url": "https://www.raise.com/buy-nautica-gift-cards",
+    "name": "Nautica",
+    "domain": "nautica.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bob-evans-gift-cards",
+    "name": "Bob Evans",
+    "domain": "bobevans.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-modell-s-sporting-goods-gift-cards",
+    "name": "Modell's Sporting Goods"
+  },
+  {
+    "url": "https://www.raise.com/buy-l-l-bean-gift-cards",
+    "name": "L.L.Bean",
+    "domain": "ll.bean.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-massage-envy-gift-cards",
+    "name": "Massage Envy"
+  },
+  {
+    "url": "https://www.raise.com/buy-finish-line-gift-cards",
+    "name": "Finish Line"
+  },
+  {
+    "url": "https://www.raise.com/buy-charming-charlie-gift-cards",
+    "name": "Charming Charlie",
+    "domain": "charmingcharlie.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-giant-food-stores-gift-cards",
+    "name": "Giant Food Stores"
+  },
+  {
+    "url": "https://www.raise.com/buy-hooters-gift-cards",
+    "name": "Hooters",
+    "domain": "hooters.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-brooks-brothers-gift-cards",
+    "name": "Brooks Brothers"
+  },
+  {
+    "url": "https://www.raise.com/buy-la-mer-gift-cards",
+    "name": "La Mer"
+  },
+  {
+    "url": "https://www.raise.com/buy-marcus-theatres-gift-cards",
+    "name": "Marcus Theatres"
+  },
+  {
+    "url": "https://www.raise.com/buy-williams-sonoma-gift-cards",
+    "name": "Williams Sonoma",
+    "domain": "williams-sonoma.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-columbia-gift-cards",
+    "name": "Columbia",
+    "domain": "columbia.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lids-gift-cards",
+    "name": "Lids",
+    "domain": "lids.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rubio-s-gift-cards",
+    "name": "Rubio’s",
+    "domain": "rubios.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fleming-s-gift-cards",
+    "name": "Fleming's",
+    "domain": "flemings.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-maggiano-s-gift-cards",
+    "name": "Maggiano's",
+    "domain": "maggianos.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-at-home-gift-cards",
+    "name": "At Home",
+    "domain": "athome.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-godiva-gift-cards",
+    "name": "Godiva",
+    "domain": "godiva.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-champs-gift-cards",
+    "name": "Champs",
+    "domain": "champs.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lucky-brand-gift-cards",
+    "name": "Lucky Brand"
+  },
+  {
+    "url": "https://www.raise.com/buy-lego-gift-cards",
+    "name": "Lego",
+    "domain": "lego.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-albertsons-gift-cards",
+    "name": "Albertsons",
+    "domain": "albertsons.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sunoco-gift-cards",
+    "name": "Sunoco",
+    "domain": "sunoco.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-woman-within-gift-cards",
+    "name": "Woman Within"
+  },
+  {
+    "url": "https://www.raise.com/buy-jos-a-bank-gift-cards",
+    "name": "Jos. A. Bank"
+  },
+  {
+    "url": "https://www.raise.com/buy-bj-s-wholesale-club-gift-cards",
+    "name": "BJ’s Wholesale Club"
+  },
+  {
+    "url": "https://www.raise.com/buy-men-s-wearhouse-gift-cards",
+    "name": "Men's Wearhouse",
+    "domain": "menswearhouse.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-body-shop-gift-cards",
+    "name": "The Body Shop"
+  },
+  {
+    "url": "https://www.raise.com/buy-bonefish-grill-gift-cards",
+    "name": "Bonefish Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-pieology-gift-cards",
+    "name": "Pieology",
+    "domain": "pieology.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-racetrac-gift-cards",
+    "name": "RaceTrac",
+    "domain": "racetrac.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bravo-brio-restaurant-group-gift-cards",
+    "name": "Bravo Brio Restaurant Group"
+  },
+  {
+    "url": "https://www.raise.com/buy-soma-intimates-gift-cards",
+    "name": "Soma Intimates"
+  },
+  {
+    "url": "https://www.raise.com/buy-buckle-gift-cards",
+    "name": "Buckle",
+    "domain": "buckle.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kiehl-s-gift-cards",
+    "name": "Kiehl's",
+    "domain": "kiehls.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-stein-mart-gift-cards",
+    "name": "Stein Mart"
+  },
+  {
+    "url": "https://www.raise.com/buy-west-elm-gift-cards",
+    "name": "West Elm"
+  },
+  {
+    "url": "https://www.raise.com/buy-tommy-bahama-gift-cards",
+    "name": "Tommy Bahama"
+  },
+  {
+    "url": "https://www.raise.com/buy-free-people-gift-cards",
+    "name": "Free People"
+  },
+  {
+    "url": "https://www.raise.com/buy-five-below-gift-cards",
+    "name": "Five Below"
+  },
+  {
+    "url": "https://www.raise.com/buy-peet-s-coffee-tea-gift-cards",
+    "name": "Peet’s Coffee & Tea"
+  },
+  {
+    "url": "https://www.raise.com/buy-gabriel-brothers-gift-cards",
+    "name": "Gabriel Brothers"
+  },
+  {
+    "url": "https://www.raise.com/buy-firehouse-subs-gift-cards",
+    "name": "Firehouse Subs"
+  },
+  {
+    "url": "https://www.raise.com/buy-king-size-direct-gift-cards",
+    "name": "King Size Direct"
+  },
+  {
+    "url": "https://www.raise.com/buy-ikea-in-store-only-gift-cards",
+    "name": "Ikea (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-wawa-gift-cards",
+    "name": "Wawa",
+    "domain": "wawa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sur-la-table-gift-cards",
+    "name": "Sur La Table"
+  },
+  {
+    "url": "https://www.raise.com/buy-zumiez-gift-cards",
+    "name": "Zumiez",
+    "domain": "zumiez.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-joe-s-crab-shack-gift-cards",
+    "name": "Joe’s Crab Shack"
+  },
+  {
+    "url": "https://www.raise.com/buy-jiffy-lube-gift-cards",
+    "name": "Jiffy Lube®",
+    "domain": "jiffylube.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hardee-s-gift-cards",
+    "name": "Hardee's",
+    "domain": "carlsjr.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-guess-gift-cards",
+    "name": "Guess",
+    "domain": "guess.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pep-boys-gift-cards",
+    "name": "Pep Boys"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-north-face-gift-cards",
+    "name": "The North Face",
+    "domain": "thenorthface.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pet-supermarket-gift-cards",
+    "name": "Pet Supermarket"
+  },
+  {
+    "url": "https://www.raise.com/buy-speedway-gift-cards",
+    "name": "Speedway",
+    "domain": "speedway.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-dick-s-sporting-goods-in-store-only-gift-cards",
+    "name": "Dick's Sporting Goods (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-baby-gap-gift-cards",
+    "name": "Baby Gap"
+  },
+  {
+    "url": "https://www.raise.com/buy-krystal-gift-cards",
+    "name": "Krystal",
+    "domain": "krystal.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-shoe-carnival-gift-cards",
+    "name": "Shoe Carnival"
+  },
+  {
+    "url": "https://www.raise.com/buy-hannaford-gift-cards",
+    "name": "Hannaford",
+    "domain": "hannaford.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-brinker-gift-cards",
+    "name": "Brinker",
+    "domain": "brinker.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-winn-dixie-gift-cards",
+    "name": "Winn-Dixie",
+    "domain": "winn-dixie.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-vineyard-vines-gift-cards",
+    "name": "Vineyard Vines"
+  },
+  {
+    "url": "https://www.raise.com/buy-benihana-gift-cards",
+    "name": "Benihana",
+    "domain": "benihana.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pet-supplies-plus-gift-cards",
+    "name": "Pet Supplies Plus"
+  },
+  {
+    "url": "https://www.raise.com/buy-hibbett-sports-gift-cards",
+    "name": "Hibbett Sports",
+    "domain": "hibbett.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-avenue-gift-cards",
+    "name": "Avenue",
+    "domain": "avenue.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ann-taylor-in-store-only-gift-cards",
+    "name": "Ann Taylor (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-magazines-com-gift-cards",
+    "name": "Magazines.com",
+    "domain": "magazines.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-round-table-pizza-gift-cards",
+    "name": "Round Table Pizza"
+  },
+  {
+    "url": "https://www.raise.com/buy-landry-s-restaurants-gift-cards",
+    "name": "Landry's Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-el-pollo-loco-gift-cards",
+    "name": "El Pollo Loco"
+  },
+  {
+    "url": "https://www.raise.com/buy-pei-wei-asian-diner-gift-cards",
+    "name": "Pei-Wei Asian Diner"
+  },
+  {
+    "url": "https://www.raise.com/buy-acme-gift-cards",
+    "name": "ACME",
+    "domain": "acmemarkets.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-gap-kids-gift-cards",
+    "name": "Gap Kids"
+  },
+  {
+    "url": "https://www.raise.com/buy-cirque-du-soleil-gift-cards",
+    "name": "Cirque du Soleil",
+    "domain": "cirquedusoleilgift.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-journeys-gift-cards",
+    "name": "Journeys",
+    "domain": "journeys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-spafinder-wellness-365-gift-cards",
+    "name": "Spafinder Wellness 365"
+  },
+  {
+    "url": "https://www.raise.com/buy-duane-reade-gift-cards",
+    "name": "Duane Reade"
+  },
+  {
+    "url": "https://www.raise.com/buy-black-angus-steakhouse-gift-cards",
+    "name": "Black Angus Steakhouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-on-the-border-gift-cards",
+    "name": "On the Border"
+  },
+  {
+    "url": "https://www.raise.com/buy-ralphs-gift-cards",
+    "name": "Ralphs",
+    "domain": "ralphs.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-honeybaked-ham-gift-cards",
+    "name": "HoneyBaked Ham"
+  },
+  {
+    "url": "https://www.raise.com/buy-bebe-gift-cards",
+    "name": "Bebe",
+    "domain": "bebe.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-francesca-s-gift-cards",
+    "name": "Francesca's",
+    "domain": "francescascollections.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-eb-games-gift-cards",
+    "name": "EB Games"
+  },
+  {
+    "url": "https://www.raise.com/buy-elephant-bar-gift-cards",
+    "name": "Elephant Bar"
+  },
+  {
+    "url": "https://www.raise.com/buy-sabon-gift-cards",
+    "name": "Sabon",
+    "domain": "sabon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-buy-buy-baby-online-only-gift-cards",
+    "name": "Buy Buy Baby (Online Only)",
+    "domain": "bedbathandbeyond.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-wet-seal-gift-cards",
+    "name": "Wet Seal"
+  },
+  {
+    "url": "https://www.raise.com/buy-sizzler-gift-cards",
+    "name": "Sizzler",
+    "domain": "sizzler.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kirkland-s-gift-cards",
+    "name": "Kirkland's",
+    "domain": "kirklands.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bob-s-stores-in-store-only-gift-cards",
+    "name": "Bob's Stores (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-nars-cosmetics-gift-cards",
+    "name": "NARS Cosmetics",
+    "domain": "narscosmetics.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-jewel-osco-gift-cards",
+    "name": "Jewel-Osco",
+    "domain": "jewel-osco.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chevys-fresh-mex-gift-cards",
+    "name": "Chevys Fresh Mex"
+  },
+  {
+    "url": "https://www.raise.com/buy-harry-and-david-gift-cards",
+    "name": "Harry and David"
+  },
+  {
+    "url": "https://www.raise.com/buy-macy-s-in-store-only-gift-cards",
+    "name": "Macy’s (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-rue21-in-store-only-gift-cards",
+    "name": "rue21 (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-cole-haan-gift-cards",
+    "name": "Cole Haan"
+  },
+  {
+    "url": "https://www.raise.com/buy-yard-house-gift-cards",
+    "name": "Yard House",
+    "domain": "yardhouse.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-baskin-robbins-gift-cards",
+    "name": "Baskin Robbins"
+  },
+  {
+    "url": "https://www.raise.com/buy-qdoba-gift-cards",
+    "name": "Qdoba",
+    "domain": "qdoba.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-henri-bendel-gift-cards",
+    "name": "Henri Bendel"
+  },
+  {
+    "url": "https://www.raise.com/buy-graeter-s-gift-cards",
+    "name": "Graeter's",
+    "domain": "graeters.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-icing-gift-cards",
+    "name": "Icing",
+    "domain": "icing.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-tuesday-morning-gift-cards",
+    "name": "Tuesday Morning"
+  },
+  {
+    "url": "https://www.raise.com/buy-pinkberry-gift-cards",
+    "name": "Pinkberry",
+    "domain": "pinkberry.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-levi-s-gift-cards",
+    "name": "Levi's",
+    "domain": "levis.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-microsoft-store-gift-cards",
+    "name": "Microsoft Store"
+  },
+  {
+    "url": "https://www.raise.com/buy-madewell-gift-cards",
+    "name": "Madewell",
+    "domain": "madewell.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-aerie-gift-cards",
+    "name": "Aerie",
+    "domain": "aerie.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-connie-s-pizza-gift-cards",
+    "name": "Connie's Pizza",
+    "domain": "conniespizza.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-old-country-buffet-gift-cards",
+    "name": "Old Country Buffet"
+  },
+  {
+    "url": "https://www.raise.com/buy-brylane-home-gift-cards",
+    "name": "Brylane Home"
+  },
+  {
+    "url": "https://www.raise.com/buy-einstein-bros-bagels-gift-cards",
+    "name": "Einstein Bros Bagels"
+  },
+  {
+    "url": "https://www.raise.com/buy-restoration-hardware-gift-cards",
+    "name": "Restoration Hardware",
+    "domain": "restorationhardware.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-christopher-and-banks-gift-cards",
+    "name": "Christopher and Banks",
+    "domain": "cjbanks.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-yankee-candle-gift-cards",
+    "name": "Yankee Candle"
+  },
+  {
+    "url": "https://www.raise.com/buy-old-chicago-gift-cards",
+    "name": "Old Chicago"
+  },
+  {
+    "url": "https://www.raise.com/buy-puma-gift-cards",
+    "name": "Puma",
+    "domain": "puma.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-togo-s-gift-cards",
+    "name": "Togo’s",
+    "domain": "togos.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-spa-wellness-gift-card-by-spa-week-gift-cards",
+    "name": "Spa & Wellness Gift Card by Spa Week"
+  },
+  {
+    "url": "https://www.raise.com/buy-chuck-e-cheese-s-gift-cards",
+    "name": "Chuck E Cheese's"
+  },
+  {
+    "url": "https://www.raise.com/buy-j-jill-gift-cards",
+    "name": "J Jill"
+  },
+  {
+    "url": "https://www.raise.com/buy-crutchfield-gift-cards",
+    "name": "Crutchfield",
+    "domain": "crutchfield.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-maurices-gift-cards",
+    "name": "Maurices",
+    "domain": "maurices.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-jo-ann-fabrics-in-store-only-gift-cards",
+    "name": "Jo Ann Fabrics (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-buy-buy-baby-gift-cards",
+    "name": "Buy Buy Baby",
+    "domain": "bedbathandbeyond.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-brighton-gift-cards",
+    "name": "Brighton",
+    "domain": "brighton.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lilly-pulitzer-gift-cards",
+    "name": "Lilly Pulitzer"
+  },
+  {
+    "url": "https://www.raise.com/buy-motherhood-maternity-gift-cards",
+    "name": "Motherhood Maternity"
+  },
+  {
+    "url": "https://www.raise.com/buy-urban-outfitters-in-store-only-gift-cards",
+    "name": "Urban Outfitters (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-menards-gift-cards",
+    "name": "Menards",
+    "domain": "menards.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-claim-jumper-restaurants-gift-cards",
+    "name": "Claim Jumper Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-spafinder-wellness-365-physical-gift-cards",
+    "name": "Spafinder Wellness 365 (Physical)"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-fresh-market-gift-cards",
+    "name": "The Fresh Market"
+  },
+  {
+    "url": "https://www.raise.com/buy-king-soopers-gift-cards",
+    "name": "King Soopers"
+  },
+  {
+    "url": "https://www.raise.com/buy-taco-mac-gift-cards",
+    "name": "Taco Mac"
+  },
+  {
+    "url": "https://www.raise.com/buy-tory-burch-gift-cards",
+    "name": "Tory Burch",
+    "domain": "toryburch.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-topgolf-gift-cards",
+    "name": "Topgolf",
+    "domain": "topgolf.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-american-apparel-gift-cards",
+    "name": "American Apparel"
+  },
+  {
+    "url": "https://www.raise.com/buy-new-york-company-in-store-only-gift-cards",
+    "name": "New York & Company (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-7-for-all-mankind-gift-cards",
+    "name": "7 For All Mankind",
+    "domain": "7forallmankind.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cato-gift-cards",
+    "name": "Cato",
+    "domain": "cato.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sheetz-gift-cards",
+    "name": "Sheetz",
+    "domain": "sheetz.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ac-moore-gift-cards",
+    "name": "AC Moore",
+    "domain": "acmoore.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-converse-gift-cards",
+    "name": "Converse",
+    "domain": "converse.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-swarovski-gift-cards",
+    "name": "Swarovski",
+    "domain": "swarovski.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-marriott-gift-cards",
+    "name": "Marriott",
+    "domain": "marriott.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-golf-galaxy-gift-cards",
+    "name": "Golf Galaxy"
+  },
+  {
+    "url": "https://www.raise.com/buy-marie-callender-s-gift-cards",
+    "name": "Marie Callender's"
+  },
+  {
+    "url": "https://www.raise.com/buy-baja-fresh-gift-cards",
+    "name": "Baja Fresh",
+    "domain": "bajafresh.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-little-caesars-pizza-gift-cards",
+    "name": "Little Caesars Pizza"
+  },
+  {
+    "url": "https://www.raise.com/buy-destination-xl-gift-cards",
+    "name": "Destination XL"
+  },
+  {
+    "url": "https://www.raise.com/buy-lacoste-gift-cards",
+    "name": "Lacoste",
+    "domain": "lacoste.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-shaw-s-gift-cards",
+    "name": "Shaw's",
+    "domain": "shaws.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-weis-markets-gift-cards",
+    "name": "Weis Markets",
+    "domain": "weismarkets.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-saks-fifth-avenue-off-fifth-gift-cards",
+    "name": "Saks Fifth Avenue OFF Fifth"
+  },
+  {
+    "url": "https://www.raise.com/buy-soccer-com-gift-cards",
+    "name": "Soccer.com",
+    "domain": "soccer.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-warby-parker-gift-cards",
+    "name": "Warby Parker"
+  },
+  {
+    "url": "https://www.raise.com/buy-mimi-s-cafe-gift-cards",
+    "name": "Mimi's Cafe"
+  },
+  {
+    "url": "https://www.raise.com/buy-qfc-gift-cards",
+    "name": "QFC",
+    "domain": "qfc.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-spencer-s-gift-cards",
+    "name": "Spencer’s",
+    "domain": "spencers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-champs-in-store-only-gift-cards",
+    "name": "Champs (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-stage-stores-gift-cards",
+    "name": "Stage Stores",
+    "domain": "stagestores.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-shake-shack-gift-cards",
+    "name": "Shake Shack"
+  },
+  {
+    "url": "https://www.raise.com/buy-seasons-52-gift-cards",
+    "name": "Seasons 52"
+  },
+  {
+    "url": "https://www.raise.com/buy-calvin-klein-gift-cards",
+    "name": "Calvin Klein"
+  },
+  {
+    "url": "https://www.raise.com/buy-orchard-supply-hardware-gift-cards",
+    "name": "Orchard Supply Hardware"
+  },
+  {
+    "url": "https://www.raise.com/buy-gordon-biersch-gift-cards",
+    "name": "Gordon Biersch"
+  },
+  {
+    "url": "https://www.raise.com/buy-lazy-dog-cafe-gift-cards",
+    "name": "Lazy Dog Cafe"
+  },
+  {
+    "url": "https://www.raise.com/buy-tin-drum-asian-kitchen-gift-cards",
+    "name": "Tin Drum Asian Kitchen"
+  },
+  {
+    "url": "https://www.raise.com/buy-shane-s-rib-shack-gift-cards",
+    "name": "Shane’s Rib Shack"
+  },
+  {
+    "url": "https://www.raise.com/buy-kona-grill-gift-cards",
+    "name": "Kona Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-meijer-gas-grocery-gift-cards",
+    "name": "Meijer Gas & Grocery"
+  },
+  {
+    "url": "https://www.raise.com/buy-newegg-gift-cards",
+    "name": "Newegg",
+    "domain": "newegg.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-phillips-66-gift-cards",
+    "name": "Phillips 66"
+  },
+  {
+    "url": "https://www.raise.com/buy-lucy-activewear-gift-cards",
+    "name": "Lucy Activewear",
+    "domain": "lucy.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-red-mango-gift-cards",
+    "name": "Red Mango"
+  },
+  {
+    "url": "https://www.raise.com/buy-destination-maternity-gift-cards",
+    "name": "Destination Maternity"
+  },
+  {
+    "url": "https://www.raise.com/buy-scheels-gift-cards",
+    "name": "Scheels",
+    "domain": "scheels.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sears-in-store-only-gift-cards",
+    "name": "Sears (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-buona-gift-cards",
+    "name": "Buona",
+    "domain": "buona.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-toys-rus-in-store-only-gift-cards",
+    "name": "Toys\"R\"Us (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-lettuce-entertain-you-gift-cards",
+    "name": "Lettuce Entertain You"
+  },
+  {
+    "url": "https://www.raise.com/buy-timberland-in-store-only-gift-cards",
+    "name": "Timberland (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-bliss-gift-cards",
+    "name": "Bliss",
+    "domain": "bliss.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-conoco-gas-gift-cards",
+    "name": "Conoco Gas"
+  },
+  {
+    "url": "https://www.raise.com/buy-weinerschnitzel-gift-cards",
+    "name": "Weinerschnitzel",
+    "domain": "weinerschnitzel.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-aldo-gift-cards",
+    "name": "Aldo",
+    "domain": "aldoshoes.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rack-room-shoes-gift-cards",
+    "name": "Rack Room Shoes"
+  },
+  {
+    "url": "https://www.raise.com/buy-nhl-shop-gift-cards",
+    "name": "NHL Shop"
+  },
+  {
+    "url": "https://www.raise.com/buy-uncle-julio-s-gift-cards",
+    "name": "Uncle Julio’s"
+  },
+  {
+    "url": "https://www.raise.com/buy-steiner-sports-gift-cards",
+    "name": "Steiner Sports"
+  },
+  {
+    "url": "https://www.raise.com/buy-legal-sea-foods-gift-cards",
+    "name": "Legal Sea Foods"
+  },
+  {
+    "url": "https://www.raise.com/buy-main-event-entertainment-gift-cards",
+    "name": "Main Event Entertainment"
+  },
+  {
+    "url": "https://www.raise.com/buy-harkins-theatres-gift-cards",
+    "name": "Harkins Theatres"
+  },
+  {
+    "url": "https://www.raise.com/buy-true-religion-brand-jeans-gift-cards",
+    "name": "True Religion Brand Jeans"
+  },
+  {
+    "url": "https://www.raise.com/buy-bealls-florida-in-store-only-gift-cards",
+    "name": "Bealls Florida (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-ono-hawaiian-bbq-gift-cards",
+    "name": "Ono Hawaiian BBQ"
+  },
+  {
+    "url": "https://www.raise.com/buy-old-time-pottery-gift-cards",
+    "name": "Old Time Pottery"
+  },
+  {
+    "url": "https://www.raise.com/buy-timberland-gift-cards",
+    "name": "Timberland",
+    "domain": "timberland.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-tractor-supply-company-in-store-only-gift-cards",
+    "name": "Tractor Supply Company (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-piercing-pagoda-gift-cards",
+    "name": "Piercing Pagoda"
+  },
+  {
+    "url": "https://www.raise.com/buy-peebles-gift-cards",
+    "name": "Peebles",
+    "domain": "peebles.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ted-s-montana-grill-gift-cards",
+    "name": "Ted’s Montana Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-orscheln-farm-and-home-gift-cards",
+    "name": "Orscheln Farm and Home"
+  },
+  {
+    "url": "https://www.raise.com/buy-van-heusen-gift-cards",
+    "name": "Van Heusen"
+  },
+  {
+    "url": "https://www.raise.com/buy-ashley-stewart-gift-cards",
+    "name": "Ashley Stewart",
+    "domain": "ashleystewart.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bruster-s-ice-cream-gift-cards",
+    "name": "Bruster’s Ice Cream"
+  },
+  {
+    "url": "https://www.raise.com/buy-frisch-s-big-boy-gift-cards",
+    "name": "Frisch’s Big Boy"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-children-s-place-in-store-only-gift-cards",
+    "name": "The Children’s Place (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-hand-and-stone-gift-cards",
+    "name": "Hand and Stone"
+  },
+  {
+    "url": "https://www.raise.com/buy-au-bon-pain-gift-cards",
+    "name": "Au Bon Pain",
+    "domain": "aubonpain.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-7-eleven-gift-cards",
+    "name": "7 Eleven",
+    "domain": "7-eleven.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-art-of-shaving-gift-cards",
+    "name": "The Art of Shaving"
+  },
+  {
+    "url": "https://www.raise.com/buy-cameron-mitchell-restaurants-gift-cards",
+    "name": "Cameron Mitchell Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-hallmark-in-store-only-gift-cards",
+    "name": "Hallmark (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-shoney-s-gift-cards",
+    "name": "Shoney's",
+    "domain": "shoneys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-food-4-less-gift-cards",
+    "name": "Food 4 Less"
+  },
+  {
+    "url": "https://www.raise.com/buy-bon-ton-in-store-only-gift-cards",
+    "name": "Bon-Ton (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-pasta-pomodoro-gift-cards",
+    "name": "Pasta Pomodoro"
+  },
+  {
+    "url": "https://www.raise.com/buy-abercrombie-fitch-in-store-only-gift-cards",
+    "name": "Abercrombie & Fitch (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-barclays-wine-gift-cards",
+    "name": "Barclays Wine",
+    "domain": "barclayswine.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-z-gallerie-gift-cards",
+    "name": "Z Gallerie"
+  },
+  {
+    "url": "https://www.raise.com/buy-espetus-brazilian-steak-house-gift-cards",
+    "name": "Espetus Brazilian Steak House"
+  },
+  {
+    "url": "https://www.raise.com/buy-skyline-chili-gift-cards",
+    "name": "Skyline Chili"
+  },
+  {
+    "url": "https://www.raise.com/buy-bertucci-s-gift-cards",
+    "name": "Bertucci's",
+    "domain": "bertuccis.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kitchfix-gift-cards",
+    "name": "Kitchfix",
+    "domain": "kitchfix.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-giant-landover-gift-cards",
+    "name": "Giant Landover"
+  },
+  {
+    "url": "https://www.raise.com/buy-herberger-s-gift-cards",
+    "name": "Herberger’s",
+    "domain": "herbergers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rainforest-cafe-gift-cards",
+    "name": "Rainforest Cafe"
+  },
+  {
+    "url": "https://www.raise.com/buy-caribou-coffee-gift-cards",
+    "name": "Caribou Coffee",
+    "domain": "cariboucoffee.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-disney-parks-in-store-only-gift-cards",
+    "name": "Disney Parks (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-fannie-may-gift-cards",
+    "name": "Fannie May"
+  },
+  {
+    "url": "https://www.raise.com/buy-mandee-gift-cards",
+    "name": "Mandee",
+    "domain": "mandee.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-express-in-store-only-gift-cards",
+    "name": "Express (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-jeff-ruby-culinary-entertainment-gift-cards",
+    "name": "Jeff Ruby Culinary Entertainment"
+  },
+  {
+    "url": "https://www.raise.com/buy-kings-food-markets-gift-cards",
+    "name": "Kings Food Markets"
+  },
+  {
+    "url": "https://www.raise.com/buy-corningware-gift-cards",
+    "name": "CorningWare",
+    "domain": "corningware.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ranalli-s-lincoln-park-gift-cards",
+    "name": "Ranalli’s (Lincoln Park)",
+    "domain": "ranallislincolnpark.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-harmon-face-values-gift-cards",
+    "name": "Harmon Face Values"
+  },
+  {
+    "url": "https://www.raise.com/buy-green-mill-restaurant-gift-cards",
+    "name": "Green Mill Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-casual-male-gift-cards",
+    "name": "Casual Male"
+  },
+  {
+    "url": "https://www.raise.com/buy-el-gaucho-gift-cards",
+    "name": "El Gaucho"
+  },
+  {
+    "url": "https://www.raise.com/buy-cafe-rio-gift-cards",
+    "name": "Cafe Rio"
+  },
+  {
+    "url": "https://www.raise.com/buy-restaurants-unlimited-gift-cards",
+    "name": "Restaurants Unlimited"
+  },
+  {
+    "url": "https://www.raise.com/buy-texas-land-cattle-steak-house-gift-cards",
+    "name": "Texas Land & Cattle Steak House"
+  },
+  {
+    "url": "https://www.raise.com/buy-burberry-gift-cards",
+    "name": "Burberry",
+    "domain": "burberry.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rural-king-gift-cards",
+    "name": "Rural King",
+    "domain": "ruralking.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-showcase-cinemas-gift-cards",
+    "name": "Showcase Cinemas"
+  },
+  {
+    "url": "https://www.raise.com/buy-bealls-texas-gift-cards",
+    "name": "Bealls Texas"
+  },
+  {
+    "url": "https://www.raise.com/buy-city-bbq-gift-cards",
+    "name": "City BBQ"
+  },
+  {
+    "url": "https://www.raise.com/buy-schwartz-brothers-gift-cards",
+    "name": "Schwartz Brothers"
+  },
+  {
+    "url": "https://www.raise.com/buy-aaron-brothers-gift-cards",
+    "name": "Aaron Brothers",
+    "domain": "aaronbrothers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-31-bits-gift-cards",
+    "name": "31 Bits",
+    "domain": "31bits.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-james-avery-gift-cards",
+    "name": "James Avery"
+  },
+  {
+    "url": "https://www.raise.com/buy-boot-barn-gift-cards",
+    "name": "Boot Barn"
+  },
+  {
+    "url": "https://www.raise.com/buy-t-j-maxx-in-store-only-gift-cards",
+    "name": "T.J. Maxx (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-shoppers-gift-cards",
+    "name": "Shoppers",
+    "domain": "shoppers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-wehrenberg-theatres-gift-cards",
+    "name": "Wehrenberg Theatres"
+  },
+  {
+    "url": "https://www.raise.com/buy-baby-depot-gift-cards",
+    "name": "Baby Depot",
+    "domain": "burlingtoncoatfactory.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-gadabout-gift-cards",
+    "name": "GADABOUT",
+    "domain": "gadabout.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-toppers-spa-gift-cards",
+    "name": "Toppers Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-burke-williams-gift-cards",
+    "name": "Burke Williams"
+  },
+  {
+    "url": "https://www.raise.com/buy-seattle-mariners-gift-cards",
+    "name": "Seattle Mariners"
+  },
+  {
+    "url": "https://www.raise.com/buy-martin-s-food-markets-gift-cards",
+    "name": "MARTIN’S Food Markets"
+  },
+  {
+    "url": "https://www.raise.com/buy-nascar-superstore-gift-cards",
+    "name": "NASCAR Superstore"
+  },
+  {
+    "url": "https://www.raise.com/buy-gamestop-in-store-only-gift-cards",
+    "name": "GameStop (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-pink-by-victoria-s-secret-gift-cards",
+    "name": "PINK by Victoria’s Secret"
+  },
+  {
+    "url": "https://www.raise.com/buy-eddie-merlot-s-gift-cards",
+    "name": "Eddie Merlot’s"
+  },
+  {
+    "url": "https://www.raise.com/buy-bartell-drugs-gift-cards",
+    "name": "Bartell Drugs"
+  },
+  {
+    "url": "https://www.raise.com/buy-kitchen-collection-gift-cards",
+    "name": "Kitchen Collection"
+  },
+  {
+    "url": "https://www.raise.com/buy-discovery-channel-store-gift-cards",
+    "name": "Discovery Channel Store"
+  },
+  {
+    "url": "https://www.raise.com/buy-cinema-cafe-gift-cards",
+    "name": "Cinema Cafe"
+  },
+  {
+    "url": "https://www.raise.com/buy-apple-in-store-only-gift-cards",
+    "name": "Apple (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-dunham-s-sports-gift-cards",
+    "name": "Dunham's Sports"
+  },
+  {
+    "url": "https://www.raise.com/buy-wine-awesomeness-gift-cards",
+    "name": "Wine Awesomeness"
+  },
+  {
+    "url": "https://www.raise.com/buy-national-camera-exchange-gift-cards",
+    "name": "National Camera Exchange"
+  },
+  {
+    "url": "https://www.raise.com/buy-design-within-reach-gift-cards",
+    "name": "Design Within Reach"
+  },
+  {
+    "url": "https://www.raise.com/buy-wss-gift-cards",
+    "name": "WSS",
+    "domain": "wss.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-david-s-bridal-gift-cards",
+    "name": "David’s Bridal",
+    "domain": "davidsbridal.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-nydj-gift-cards",
+    "name": "NYDJ",
+    "domain": "nydj.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ben-franklin-crafts-gift-cards",
+    "name": "Ben Franklin Crafts"
+  },
+  {
+    "url": "https://www.raise.com/buy-emporium-arcade-bar-gift-cards",
+    "name": "Emporium Arcade Bar",
+    "domain": "emporiumchicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pupjoy-gift-cards",
+    "name": "PupJoy",
+    "domain": "pupjoy.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kitchfix-in-store-only-gift-cards",
+    "name": "Kitchfix (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-broquet-gift-cards",
+    "name": "Broquet",
+    "domain": "broquet.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-casetify-gift-cards",
+    "name": "Casetify",
+    "domain": "casetify.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-houlihan-s-gift-cards",
+    "name": "Houlihan's",
+    "domain": "houlihans.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-taco-bell-app-only-gift-cards",
+    "name": "Taco Bell (App Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-wilsons-leather-gift-cards",
+    "name": "Wilsons Leather"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-red-door-salon-spa-gift-cards",
+    "name": "The Red Door Salon & Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-opentable-gift-cards",
+    "name": "Opentable",
+    "domain": "opentable.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-moma-store-gift-cards",
+    "name": "MoMA Store"
+  },
+  {
+    "url": "https://www.raise.com/buy-roommates-decor-gift-cards",
+    "name": "RoomMates Decor"
+  },
+  {
+    "url": "https://www.raise.com/buy-stater-brothers-gift-cards",
+    "name": "Stater Brothers"
+  },
+  {
+    "url": "https://www.raise.com/buy-sunglass-warehouse-gift-cards",
+    "name": "Sunglass Warehouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-1800baskets-com-gift-cards",
+    "name": "1800Baskets.com",
+    "domain": "1800baskets.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-nba-store-gift-cards",
+    "name": "NBA Store"
+  },
+  {
+    "url": "https://www.raise.com/buy-red-wing-shoes-gift-cards",
+    "name": "Red Wing Shoes"
+  },
+  {
+    "url": "https://www.raise.com/buy-wine-com-gift-cards",
+    "name": "Wine.com",
+    "domain": "wine.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ryan-s-steak-house-gift-cards",
+    "name": "Ryan's Steak House"
+  },
+  {
+    "url": "https://www.raise.com/buy-ninety-nine-gift-cards",
+    "name": "Ninety Nine"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-popcorn-factory-gift-cards",
+    "name": "The Popcorn Factory"
+  },
+  {
+    "url": "https://www.raise.com/buy-see-s-candies-gift-cards",
+    "name": "See's Candies"
+  },
+  {
+    "url": "https://www.raise.com/buy-cheryls-com-gift-cards",
+    "name": "Cheryls.com",
+    "domain": "cheryls.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fansedge-gift-cards",
+    "name": "FansEdge",
+    "domain": "fansedge.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-adidas-golf-gift-cards",
+    "name": "Adidas Golf",
+    "domain": "taylormadegolf.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lenny-s-sub-shop-gift-cards",
+    "name": "Lenny’s Sub Shop",
+    "domain": "lennys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hometown-buffet-gift-cards",
+    "name": "HomeTown Buffet"
+  },
+  {
+    "url": "https://www.raise.com/buy-redbox-gift-cards",
+    "name": "Redbox "
+  },
+  {
+    "url": "https://www.raise.com/buy-dealflicks-gift-cards",
+    "name": "DealFlicks",
+    "domain": "dealflicks.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-del-taco-gift-cards",
+    "name": "Del Taco"
+  },
+  {
+    "url": "https://www.raise.com/buy-kay-jewelers-gift-cards",
+    "name": "Kay Jewelers"
+  },
+  {
+    "url": "https://www.raise.com/buy-boston-proper-gift-cards",
+    "name": "Boston Proper"
+  },
+  {
+    "url": "https://www.raise.com/buy-jamberry-nails-gift-cards",
+    "name": "Jamberry Nails"
+  },
+  {
+    "url": "https://www.raise.com/buy-zales-in-store-only-gift-cards",
+    "name": "Zales (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-pacific-theatres-gift-cards",
+    "name": "Pacific Theatres",
+    "domain": "pacifictheatres.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-limited-too-justice-gift-cards",
+    "name": "Limited Too (Justice)"
+  },
+  {
+    "url": "https://www.raise.com/buy-shane-co-gift-cards",
+    "name": "Shane Co."
+  },
+  {
+    "url": "https://www.raise.com/buy-heartwood-oak-wines-gift-cards",
+    "name": "Heartwood & Oak Wines",
+    "domain": "heartwoodandoak.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-luby-s-gift-cards",
+    "name": "Luby's",
+    "domain": "lubys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-catherines-gift-cards",
+    "name": "Catherines",
+    "domain": "catherines.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kitchen-kaboodle-gift-cards",
+    "name": "Kitchen Kaboodle"
+  },
+  {
+    "url": "https://www.raise.com/buy-pga-superstore-gift-cards",
+    "name": "PGA Superstore",
+    "domain": "pgatoursuperstore.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-thinkedu-gift-cards",
+    "name": "ThinkEDU",
+    "domain": "thinkedu.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-texas-steakhouse-saloon-gift-cards",
+    "name": "Texas Steakhouse & Saloon"
+  },
+  {
+    "url": "https://www.raise.com/buy-readers-com-gift-cards",
+    "name": "Readers.com",
+    "domain": "readers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-shinola-gift-cards",
+    "name": "Shinola",
+    "domain": "shinola.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-field-stream-gift-cards",
+    "name": "Field & Stream"
+  },
+  {
+    "url": "https://www.raise.com/buy-pollo-tropical-gift-cards",
+    "name": "Pollo Tropical"
+  },
+  {
+    "url": "https://www.raise.com/buy-pet-valu-gift-cards",
+    "name": "Pet Valu"
+  },
+  {
+    "url": "https://www.raise.com/buy-fred-meyer-gift-cards",
+    "name": "Fred Meyer"
+  },
+  {
+    "url": "https://www.raise.com/buy-ace-hardware-gift-cards",
+    "name": "Ace Hardware",
+    "domain": "acehardware.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-glen-ivy-spa-gift-cards",
+    "name": "Glen Ivy Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-tomatina-gift-cards",
+    "name": "Tomatina",
+    "domain": "tomatina.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lakeshore-learning-gift-cards",
+    "name": "LakeShore Learning"
+  },
+  {
+    "url": "https://www.raise.com/buy-prana-gift-cards",
+    "name": "prAna",
+    "domain": "prana.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-gold-coast-tickets-gift-cards",
+    "name": "Gold Coast Tickets",
+    "domain": "goldcoasttickets.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-art-com-gift-cards",
+    "name": "Art.com",
+    "domain": "art.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-la-madeleine-gift-cards",
+    "name": "La Madeleine"
+  },
+  {
+    "url": "https://www.raise.com/buy-burkes-outlet-gift-cards",
+    "name": "Burkes Outlet"
+  },
+  {
+    "url": "https://www.raise.com/buy-windsor-gift-cards",
+    "name": "Windsor",
+    "domain": "windsor.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-shop-n-save-midwest-gift-cards",
+    "name": "Shop'n Save (Midwest)"
+  },
+  {
+    "url": "https://www.raise.com/buy-mlb-com-shop-gift-cards",
+    "name": "MLB.com Shop",
+    "domain": "mlb.com shop"
+  },
+  {
+    "url": "https://www.raise.com/buy-bowlmor-lanes-gift-cards",
+    "name": "Bowlmor Lanes",
+    "domain": "bowlmor.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lady-foot-locker-gift-cards",
+    "name": "Lady Foot Locker",
+    "domain": "footlocker.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-foodland-hi-gift-cards",
+    "name": "Foodland - HI"
+  },
+  {
+    "url": "https://www.raise.com/buy-intimacy-gift-cards",
+    "name": "Intimacy",
+    "domain": "intimacy.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-montage-hotels-resorts-gift-cards",
+    "name": "Montage Hotels & Resorts"
+  },
+  {
+    "url": "https://www.raise.com/buy-fullbeauty-gift-cards",
+    "name": "Fullbeauty",
+    "domain": "fullbeauty.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-palisade-gift-cards",
+    "name": "Palisade",
+    "domain": "palisade.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-space-needle-gift-cards",
+    "name": "Space Needle"
+  },
+  {
+    "url": "https://www.raise.com/buy-roaman-s-gift-cards",
+    "name": "Roaman’s",
+    "domain": "roamans.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-windward-boardshop-gift-cards",
+    "name": "Windward Boardshop",
+    "domain": "windwardboardshop.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-jessica-london-gift-cards",
+    "name": "Jessica London"
+  },
+  {
+    "url": "https://www.raise.com/buy-abuelos-gift-cards",
+    "name": "Abuelos",
+    "domain": "abuelos.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hamptons-lane-gift-cards",
+    "name": "Hamptons Lane"
+  },
+  {
+    "url": "https://www.raise.com/buy-schmitt-music-gift-cards",
+    "name": "Schmitt Music"
+  },
+  {
+    "url": "https://www.raise.com/buy-celebrity-cruises-gift-cards",
+    "name": "Celebrity Cruises"
+  },
+  {
+    "url": "https://www.raise.com/buy-stage-stores-in-store-only-gift-cards",
+    "name": "Stage Stores (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-bouqs-gift-cards",
+    "name": "The Bouqs"
+  },
+  {
+    "url": "https://www.raise.com/buy-mitchells-fish-market-gift-cards",
+    "name": "Mitchells Fish Market"
+  },
+  {
+    "url": "https://www.raise.com/buy-montgomery-inn-gift-cards",
+    "name": "Montgomery Inn"
+  },
+  {
+    "url": "https://www.raise.com/buy-larosa-s-pizza-gift-cards",
+    "name": "LaRosa’s Pizza",
+    "domain": "larosas.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-common-man-gift-cards",
+    "name": "The Common Man"
+  },
+  {
+    "url": "https://www.raise.com/buy-quiznos-gift-cards",
+    "name": "Quiznos",
+    "domain": "quiznos.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ellison-sunglasses-gift-cards",
+    "name": "Ellison Sunglasses",
+    "domain": "clubellsion.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-shophouse-kitchen-gift-cards",
+    "name": "ShopHouse Kitchen"
+  },
+  {
+    "url": "https://www.raise.com/buy-claim-jumper-restaurants-in-store-only-gift-cards",
+    "name": "Claim Jumper Restaurants (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-gokart-racer-gift-cards",
+    "name": "GoKart Racer",
+    "domain": "gokartracer.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-solstice-sunglasses-gift-cards",
+    "name": "Solstice Sunglasses"
+  },
+  {
+    "url": "https://www.raise.com/buy-soft-surroundings-gift-cards",
+    "name": "Soft Surroundings"
+  },
+  {
+    "url": "https://www.raise.com/buy-hallmark-gift-cards",
+    "name": "Hallmark",
+    "domain": "hallmark.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pendleton-woolen-mills-gift-cards",
+    "name": "Pendleton Woolen Mills"
+  },
+  {
+    "url": "https://www.raise.com/buy-zoup-gift-cards",
+    "name": "Zoup",
+    "domain": "zoup.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-allposters-com-gift-cards",
+    "name": "AllPosters.com",
+    "domain": "allposters.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-best-western-gift-cards",
+    "name": "Best Western"
+  },
+  {
+    "url": "https://www.raise.com/buy-wine-insiders-gift-cards",
+    "name": "Wine Insiders",
+    "domain": "wineinsiders.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-charlie-brown-s-steakhouse-gift-cards",
+    "name": "Charlie Brown's Steakhouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-hayneedle-gift-cards",
+    "name": "Hayneedle",
+    "domain": "hayneedle.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-winestyles-gift-cards",
+    "name": "WineStyles",
+    "domain": "winestyles.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bojangles-famous-chicken-n-biscuits-gift-cards",
+    "name": "Bojangles’ Famous Chicken ‘n Biscuits"
+  },
+  {
+    "url": "https://www.raise.com/buy-cafe-zupas-gift-cards",
+    "name": "Cafe Zupas"
+  },
+  {
+    "url": "https://www.raise.com/buy-yogurtland-gift-cards",
+    "name": "Yogurtland",
+    "domain": "yogurt-land.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-frank-oak-chicago-gift-cards",
+    "name": "Frank & Oak (Chicago)",
+    "domain": "frankandoak.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-g-h-bass-co-gift-cards",
+    "name": "G.H. Bass & Co."
+  },
+  {
+    "url": "https://www.raise.com/buy-primanti-bros-gift-cards",
+    "name": "Primanti Bros"
+  },
+  {
+    "url": "https://www.raise.com/buy-bijan-s-bistro-gift-cards",
+    "name": "Bijan’s Bistro"
+  },
+  {
+    "url": "https://www.raise.com/buy-room-escape-adventures-chicago-gift-cards",
+    "name": "Room Escape Adventures (Chicago)",
+    "domain": "roomescapeadventures.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fox-in-a-box-gift-cards",
+    "name": "Fox in a Box",
+    "domain": "foxinaboxchicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-meez-meals-gift-cards",
+    "name": "Meez Meals",
+    "domain": "meezmeals.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-versona-accessories-gift-cards",
+    "name": "Versona Accessories"
+  },
+  {
+    "url": "https://www.raise.com/buy-options-gift-cards",
+    "name": "Options",
+    "domain": "options.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ivivva-gift-cards",
+    "name": "ivivva",
+    "domain": "ivivva.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-storables-gift-cards",
+    "name": "Storables",
+    "domain": "storables.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-el-torito-gift-cards",
+    "name": "El Torito"
+  },
+  {
+    "url": "https://www.raise.com/buy-francesca-s-in-store-only-gift-cards",
+    "name": "Francesca’s (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-jonathan-adler-gift-cards",
+    "name": "Jonathan Adler"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-barrel-run-tours-gift-cards",
+    "name": "The Barrel Run Tours",
+    "domain": "thebarrelrun.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lords-ladies-salons-gift-cards",
+    "name": "Lords & Ladies Salons"
+  },
+  {
+    "url": "https://www.raise.com/buy-oriental-trading-gift-cards",
+    "name": "Oriental Trading"
+  },
+  {
+    "url": "https://www.raise.com/buy-patagonia-gift-cards",
+    "name": "Patagonia",
+    "domain": "patagonia.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-margaret-o-leary-gift-cards",
+    "name": "Margaret O’Leary"
+  },
+  {
+    "url": "https://www.raise.com/buy-speedway-food-merchandise-only-gift-cards",
+    "name": "Speedway (Food & Merchandise Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-tea-collection-gift-cards",
+    "name": "Tea Collection"
+  },
+  {
+    "url": "https://www.raise.com/buy-just-sports-gift-cards",
+    "name": "Just Sports"
+  },
+  {
+    "url": "https://www.raise.com/buy-vf-outlet-gift-cards",
+    "name": "VF Outlet",
+    "domain": "vfoutlet.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chuy-s-gift-cards",
+    "name": "Chuy’s",
+    "domain": "chuys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-axel-s-restaurant-gift-cards",
+    "name": "Axel’s Restaurant",
+    "domain": "axelsrestaurants.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-callaway-golf-gift-cards",
+    "name": "Callaway Golf"
+  },
+  {
+    "url": "https://www.raise.com/buy-iron-hill-brewery-restaurant-gift-cards",
+    "name": "Iron Hill Brewery & Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-bacio-gift-cards",
+    "name": "Bacio",
+    "domain": "baciomn.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-redstone-american-grill-gift-cards",
+    "name": "Redstone American Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-zona-rosa-gift-cards",
+    "name": "Zona Rosa",
+    "domain": "zonarosa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fruit-bouquets-gift-cards",
+    "name": "Fruit Bouquets"
+  },
+  {
+    "url": "https://www.raise.com/buy-jax-mercantile-gift-cards",
+    "name": "Jax Mercantile"
+  },
+  {
+    "url": "https://www.raise.com/buy-amstar-cinemas-gift-cards",
+    "name": "Amstar Cinemas",
+    "domain": "amstarcinemas.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-prasino-gift-cards",
+    "name": "Prasino",
+    "domain": "prasino.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-mikuni-gift-cards",
+    "name": "Mikuni",
+    "domain": "mikuni.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-heartland-america-gift-cards",
+    "name": "Heartland America",
+    "domain": "heartlandamerica.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-farm-fresh-food-pharmacy-gift-cards",
+    "name": "Farm Fresh Food & Pharmacy"
+  },
+  {
+    "url": "https://www.raise.com/buy-hornbacher-s-gift-cards",
+    "name": "Hornbacher's",
+    "domain": "hornbachers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lucky-supermarkets-gift-cards",
+    "name": "Lucky Supermarkets"
+  },
+  {
+    "url": "https://www.raise.com/buy-bob-s-steak-and-chop-house-gift-cards",
+    "name": "Bob's Steak and Chop House"
+  },
+  {
+    "url": "https://www.raise.com/buy-grub-burger-bar-gift-cards",
+    "name": "Grub Burger Bar"
+  },
+  {
+    "url": "https://www.raise.com/buy-a-pea-in-the-pod-gift-cards",
+    "name": "A Pea in the Pod",
+    "domain": "apeainthepod.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-shoptiques-com-gift-cards",
+    "name": "Shoptiques.com",
+    "domain": "shoptiques.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-phil-stefani-signature-restaurants-gift-cards",
+    "name": "Phil Stefani Signature Restaurants",
+    "domain": "stefanirestaurants.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-belden-jewelers-gift-cards",
+    "name": "Belden Jewelers"
+  },
+  {
+    "url": "https://www.raise.com/buy-sweetfrog-gift-cards",
+    "name": "sweetFrog",
+    "domain": "sweetfrog.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-love-your-skin-gift-cards",
+    "name": "Love Your Skin",
+    "domain": "loveyourskinchicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-diesel-gift-cards",
+    "name": "Diesel",
+    "domain": "diesel.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rainbow-shops-gift-cards",
+    "name": "Rainbow Shops"
+  },
+  {
+    "url": "https://www.raise.com/buy-bedhead-pajamas-gift-cards",
+    "name": "Bedhead Pajamas"
+  },
+  {
+    "url": "https://www.raise.com/buy-jelly-belly-gift-cards",
+    "name": "Jelly Belly"
+  },
+  {
+    "url": "https://www.raise.com/buy-ugg-australia-gift-cards",
+    "name": "UGG Australia"
+  },
+  {
+    "url": "https://www.raise.com/buy-tattered-cover-book-store-gift-cards",
+    "name": "Tattered Cover Book Store",
+    "domain": "tatteredcover.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-soothe-gift-cards",
+    "name": "Soothe",
+    "domain": "soothe.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rosebud-restaurants-gift-cards",
+    "name": "Rosebud Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-fathead-gift-cards",
+    "name": "Fathead",
+    "domain": "fathead.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-vitek-s-bbq-gift-cards",
+    "name": "Vitek’s BBQ"
+  },
+  {
+    "url": "https://www.raise.com/buy-hard-rock-cafe-gift-cards",
+    "name": "Hard Rock Cafe"
+  },
+  {
+    "url": "https://www.raise.com/buy-san-francisco-giants-gift-cards",
+    "name": "San Francisco Giants"
+  },
+  {
+    "url": "https://www.raise.com/buy-sean-patrick-s-irish-pub-gift-cards",
+    "name": "Sean Patrick’s Irish Pub"
+  },
+  {
+    "url": "https://www.raise.com/buy-billy-bob-s-burgers-gift-cards",
+    "name": "Billy Bob's Burgers"
+  },
+  {
+    "url": "https://www.raise.com/buy-east-coast-wings-grill-gift-cards",
+    "name": "East Coast Wings & Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-pat-catan-s-gift-cards",
+    "name": "Pat Catan’s"
+  },
+  {
+    "url": "https://www.raise.com/buy-powell-s-books-gift-cards",
+    "name": "Powell’s Books"
+  },
+  {
+    "url": "https://www.raise.com/buy-316-barber-spa-gift-cards",
+    "name": "316 Barber Spa",
+    "domain": "316barberspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-joe-s-jeans-gift-cards",
+    "name": "JOE’S Jeans"
+  },
+  {
+    "url": "https://www.raise.com/buy-kinder-s-meats-bbq-gift-cards",
+    "name": "Kinder’s Meats & BBQ"
+  },
+  {
+    "url": "https://www.raise.com/buy-pacific-catch-gift-cards",
+    "name": "Pacific Catch",
+    "domain": "pacificcatch.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-garrett-popcorn-shops-gift-cards",
+    "name": "Garrett Popcorn Shops"
+  },
+  {
+    "url": "https://www.raise.com/buy-bedandbreakfast-com-gift-cards",
+    "name": "BedandBreakfast.com",
+    "domain": "bedandbreakfast.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ben-jerry-s-gift-cards",
+    "name": "Ben & Jerry's"
+  },
+  {
+    "url": "https://www.raise.com/buy-dean-deluca-gift-cards",
+    "name": "Dean & DeLuca"
+  },
+  {
+    "url": "https://www.raise.com/buy-intermix-gift-cards",
+    "name": "Intermix",
+    "domain": "intermix.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ram-gift-cards",
+    "name": "RAM",
+    "domain": "ram.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-acme-fresh-market-gift-cards",
+    "name": "Acme Fresh Market",
+    "domain": "acmestores.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-country-buffet-gift-cards",
+    "name": "Country Buffet"
+  },
+  {
+    "url": "https://www.raise.com/buy-splendid-gift-cards",
+    "name": "Splendid",
+    "domain": "splendid.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kidzcandesign-gift-cards",
+    "name": "KidzCanDesign",
+    "domain": "kidzcandesign.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-blair-gift-cards",
+    "name": "Blair",
+    "domain": "blair.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-smith-s-gift-cards",
+    "name": "Smith’s",
+    "domain": "smiths.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-daily-grill-gift-cards",
+    "name": "Daily Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-bennigan-s-gift-cards",
+    "name": "Bennigan's",
+    "domain": "bennigans.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-yagoot-gift-cards",
+    "name": "Yagoot",
+    "domain": "yagoot.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-save-a-lot-gift-cards",
+    "name": "Save A Lot"
+  },
+  {
+    "url": "https://www.raise.com/buy-active-ride-shop-gift-cards",
+    "name": "Active Ride Shop",
+    "domain": "activerideshop.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-flavors-gift-cards",
+    "name": "Flavors",
+    "domain": "flavors.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-baggin-s-gourmet-gift-cards",
+    "name": "Baggin’s Gourmet",
+    "domain": "bagginsgourmet.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cavender-s-gift-cards",
+    "name": "Cavender’s",
+    "domain": "cavenders.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-this-is-it-bbq-and-seafood-gift-cards",
+    "name": "This Is It! BBQ and Seafood",
+    "domain": "thisisitbbq.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-nintendo-prepaid-gift-cards",
+    "name": "Nintendo Prepaid"
+  },
+  {
+    "url": "https://www.raise.com/buy-work-n-gear-gift-cards",
+    "name": "Work n’ Gear"
+  },
+  {
+    "url": "https://www.raise.com/buy-pro-image-sports-gift-cards",
+    "name": "Pro Image Sports"
+  },
+  {
+    "url": "https://www.raise.com/buy-dickey-s-barbecue-pit-gift-cards",
+    "name": "Dickey's Barbecue Pit"
+  },
+  {
+    "url": "https://www.raise.com/buy-max-erma-s-gift-cards",
+    "name": "Max & Erma’s"
+  },
+  {
+    "url": "https://www.raise.com/buy-pittsburgh-pirates-gift-cards",
+    "name": "Pittsburgh Pirates"
+  },
+  {
+    "url": "https://www.raise.com/buy-palm-palace-restaurant-gift-cards",
+    "name": "Palm Palace Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-mountain-mike-s-pizza-gift-cards",
+    "name": "Mountain Mike’s Pizza"
+  },
+  {
+    "url": "https://www.raise.com/buy-ashworth-golf-gift-cards",
+    "name": "Ashworth Golf",
+    "domain": "taylormadegolf.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-adams-golf-gift-cards",
+    "name": "Adams Golf",
+    "domain": "taylormadegolf.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-mcgurk-s-soulard-only-gift-cards",
+    "name": "McGurk’s (Soulard Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-regis-salon-gift-cards",
+    "name": "Regis Salon"
+  },
+  {
+    "url": "https://www.raise.com/buy-hamrick-s-gift-cards",
+    "name": "Hamrick’s",
+    "domain": "hamricks.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ihotelgiftcard-gift-cards",
+    "name": "iHotelGiftCard",
+    "domain": "ihotelgiftcard.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-escape-artistry-escape-room-gift-cards",
+    "name": "Escape Artistry Escape Room",
+    "domain": "escape-artistry.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-keen-shoes-gift-cards",
+    "name": "Keen Shoes"
+  },
+  {
+    "url": "https://www.raise.com/buy-thorntons-gift-cards",
+    "name": "Thorntons",
+    "domain": "thorntons.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lobster-gram-gift-cards",
+    "name": "Lobster Gram"
+  },
+  {
+    "url": "https://www.raise.com/buy-colorado-ski-and-golf-gift-cards",
+    "name": "Colorado Ski and Golf"
+  },
+  {
+    "url": "https://www.raise.com/buy-lucilles-bbq-gift-cards",
+    "name": "Lucilles BBQ"
+  },
+  {
+    "url": "https://www.raise.com/buy-club-w-gift-cards",
+    "name": "Club W"
+  },
+  {
+    "url": "https://www.raise.com/buy-la-senorita-mexican-restaurants-gift-cards",
+    "name": "La Senorita Mexican Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-andrea-s-25-gift-cards",
+    "name": "Andrea’s 25",
+    "domain": "andreas25.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-steelers-gift-cards",
+    "name": "Steelers",
+    "domain": "steelers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ipic-theaters-gift-cards",
+    "name": "iPic Theaters"
+  },
+  {
+    "url": "https://www.raise.com/buy-swatch-gift-cards",
+    "name": "Swatch",
+    "domain": "swatch.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cinnabon-gift-cards",
+    "name": "Cinnabon",
+    "domain": "cinnabon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-quaker-steak-lube-gift-cards",
+    "name": "Quaker Steak & Lube"
+  },
+  {
+    "url": "https://www.raise.com/buy-que-pasta-gift-cards",
+    "name": "Que Pasta"
+  },
+  {
+    "url": "https://www.raise.com/buy-harley-davidson-gift-cards",
+    "name": "Harley Davidson"
+  },
+  {
+    "url": "https://www.raise.com/buy-depasquale-the-spa-gift-cards",
+    "name": "Depasquale The Spa",
+    "domain": "depasqualethespa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-buffalo-exchange-gift-cards",
+    "name": "Buffalo Exchange"
+  },
+  {
+    "url": "https://www.raise.com/buy-goddess-and-the-baker-wabash-location-gift-cards",
+    "name": "Goddess and The Baker- Wabash Location",
+    "domain": "goddessandthebaker.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-dabble-gift-cards",
+    "name": "Dabble",
+    "domain": "dabble.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-blackbird-framing-gift-cards",
+    "name": "Blackbird Framing",
+    "domain": "bbframing.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rawlings-gift-cards",
+    "name": "Rawlings",
+    "domain": "rawlings.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-mardel-christian-education-gift-cards",
+    "name": "Mardel Christian & Education"
+  },
+  {
+    "url": "https://www.raise.com/buy-parasole-gift-cards",
+    "name": "Parasole",
+    "domain": "parasole.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bogs-gift-cards",
+    "name": "Bogs",
+    "domain": "bogsfootwear.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-highrise-pet-care-chicago-gift-cards",
+    "name": "Highrise Pet Care - Chicago"
+  },
+  {
+    "url": "https://www.raise.com/buy-ega-salon-spa-gift-cards",
+    "name": "EGA Salon & Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-chicago-helicopter-experience-gift-cards",
+    "name": "Chicago Helicopter Experience",
+    "domain": "chicagohelicopterexperience.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-white-oak-tavern-inn-gift-cards",
+    "name": "White Oak Tavern & Inn"
+  },
+  {
+    "url": "https://www.raise.com/buy-tavistock-restaurants-gift-cards",
+    "name": "Tavistock Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-burton-gift-cards",
+    "name": "Burton",
+    "domain": "burton.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-super-lube-gift-cards",
+    "name": "Super-Lube",
+    "domain": "super-lube.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lover-s-lane-gift-cards",
+    "name": "Lover’s Lane"
+  },
+  {
+    "url": "https://www.raise.com/buy-melrose-store-gift-cards",
+    "name": "Melrose Store"
+  },
+  {
+    "url": "https://www.raise.com/buy-champps-americana-gift-cards",
+    "name": "Champps Americana"
+  },
+  {
+    "url": "https://www.raise.com/buy-austad-s-golf-gift-cards",
+    "name": "Austad's Golf",
+    "domain": "austads.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pagoda-gift-cards",
+    "name": "Pagoda",
+    "domain": "pagoda.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-char-steakhouse-gift-cards",
+    "name": "Char Steakhouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-swarovski-in-store-only-gift-cards",
+    "name": "Swarovski (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-brandsmart-usa-gift-cards",
+    "name": "BrandsMart USA"
+  },
+  {
+    "url": "https://www.raise.com/buy-stonewood-grill-gift-cards",
+    "name": "Stonewood Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-papyrus-gift-cards",
+    "name": "Papyrus",
+    "domain": "papyrus.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-national-amusements-gift-cards",
+    "name": "National Amusements"
+  },
+  {
+    "url": "https://www.raise.com/buy-pb-j-restaurants-gift-cards",
+    "name": "PB&J Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-agua-verde-cafe-gift-cards",
+    "name": "Agua Verde Cafe",
+    "domain": "aguaverde.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-weaver-s-gift-cards",
+    "name": "Weaver’s",
+    "domain": "weavers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fragrance-outlet-gift-cards",
+    "name": "Fragrance Outlet"
+  },
+  {
+    "url": "https://www.raise.com/buy-sushi-roku-gift-cards",
+    "name": "Sushi Roku"
+  },
+  {
+    "url": "https://www.raise.com/buy-amazon-grill-gift-cards",
+    "name": "Amazon Grill",
+    "domain": "cordua.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sneaker-king-gift-cards",
+    "name": "Sneaker King"
+  },
+  {
+    "url": "https://www.raise.com/buy-reiss-gift-cards",
+    "name": "Reiss",
+    "domain": "reiss.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-inspa-gift-cards",
+    "name": "InSpa",
+    "domain": "inspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-goody-s-gift-cards",
+    "name": "Goody’s",
+    "domain": "goodys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-industrial-rideshop-gift-cards",
+    "name": "Industrial Rideshop"
+  },
+  {
+    "url": "https://www.raise.com/buy-storybook-land-gift-cards",
+    "name": "Storybook Land"
+  },
+  {
+    "url": "https://www.raise.com/buy-ponderosa-gift-cards",
+    "name": "Ponderosa",
+    "domain": "ponderosa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chima-brazilian-steakhouse-gift-cards",
+    "name": "Chima Brazilian Steakhouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-brgr-gift-cards",
+    "name": "brgr",
+    "domain": "brgr.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-heimie-s-gift-cards",
+    "name": "Heimie’s",
+    "domain": "heimies.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-tourneau-gift-cards",
+    "name": "Tourneau",
+    "domain": "tourneau.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bargain-catalog-outlet-gift-cards",
+    "name": "Bargain Catalog Outlet"
+  },
+  {
+    "url": "https://www.raise.com/buy-demera-ethiopian-restaurant-gift-cards",
+    "name": "Demera Ethiopian Restaurant",
+    "domain": "demeraethiopian.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-frontera-grill-gift-cards",
+    "name": "Frontera Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-anaheim-white-house-restaurant-gift-cards",
+    "name": "Anaheim White House Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-dennis-kirk-gift-cards",
+    "name": "Dennis Kirk"
+  },
+  {
+    "url": "https://www.raise.com/buy-high-country-outfitters-gift-cards",
+    "name": "High Country Outfitters"
+  },
+  {
+    "url": "https://www.raise.com/buy-smallflower-com-gift-cards",
+    "name": "Smallflower.com",
+    "domain": "smallflower.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-evike-com-gift-cards",
+    "name": "Evike.com",
+    "domain": "evike.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-calypso-st-barth-gift-cards",
+    "name": "Calypso St. Barth"
+  },
+  {
+    "url": "https://www.raise.com/buy-bucketfeet-gift-cards",
+    "name": "Bucketfeet",
+    "domain": "bucketfeet.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-palmbeach-jewelry-gift-cards",
+    "name": "PalmBeach Jewelry"
+  },
+  {
+    "url": "https://www.raise.com/buy-home-run-inn-gift-cards",
+    "name": "Home Run Inn",
+    "domain": "homeruninnpizza.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-dynamite-garage-gift-cards",
+    "name": "Dynamite Garage"
+  },
+  {
+    "url": "https://www.raise.com/buy-rigatoni-s-gift-cards",
+    "name": "Rigatoni’s",
+    "domain": "rigatonis.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-massage-green-spa-gift-cards",
+    "name": "Massage Green Spa",
+    "domain": "massagegreenspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-native-new-yorker-gift-cards",
+    "name": "Native New Yorker"
+  },
+  {
+    "url": "https://www.raise.com/buy-smith-wollensky-gift-cards",
+    "name": "Smith & Wollensky"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-chopping-block-gift-cards",
+    "name": "The Chopping Block",
+    "domain": "thechoppingblock.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bow-tie-cinemas-gift-cards",
+    "name": "Bow Tie Cinemas"
+  },
+  {
+    "url": "https://www.raise.com/buy-toni-guy-gift-cards",
+    "name": "Toni & Guy"
+  },
+  {
+    "url": "https://www.raise.com/buy-gus-s-community-market-gift-cards",
+    "name": "Gus’s Community Market",
+    "domain": "gussmarket.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-asha-salonspa-gift-cards",
+    "name": "Asha SalonSpa",
+    "domain": "ashasalonspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lark-creek-gift-cards",
+    "name": "Lark Creek"
+  },
+  {
+    "url": "https://www.raise.com/buy-unif-gift-cards",
+    "name": "UNIF",
+    "domain": "unif.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bahama-breeze-gift-cards",
+    "name": "Bahama Breeze",
+    "domain": "bahamabreeze.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-buckhorn-grill-gift-cards",
+    "name": "Buckhorn Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-fanzz-gift-cards",
+    "name": "Fanzz",
+    "domain": "fanzz.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lavida-massage-gift-cards",
+    "name": "LaVida Massage"
+  },
+  {
+    "url": "https://www.raise.com/buy-atria-s-restaurant-tavern-gift-cards",
+    "name": "Atria’s Restaurant & Tavern",
+    "domain": "atrias.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-taylormade-golf-gift-cards",
+    "name": "TaylorMade Golf",
+    "domain": "taylormadegolf.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-twin-liquors-gift-cards",
+    "name": "Twin Liquors"
+  },
+  {
+    "url": "https://www.raise.com/buy-synergy-restaurant-gift-cards",
+    "name": "Synergy Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-safety-harbor-resort-and-spa-gift-cards",
+    "name": "Safety Harbor Resort and Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-o-neil-cinemas-gift-cards",
+    "name": "O’Neil Cinemas"
+  },
+  {
+    "url": "https://www.raise.com/buy-scooter-s-coffee-gift-cards",
+    "name": "Scooter's Coffee",
+    "domain": "scooterscoffee.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-spa-at-the-glen-gift-cards",
+    "name": "Spa at the Glen"
+  },
+  {
+    "url": "https://www.raise.com/buy-mount-snow-gift-cards",
+    "name": "Mount Snow"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-peninsula-chicago-gift-cards",
+    "name": "The Peninsula Chicago"
+  },
+  {
+    "url": "https://www.raise.com/buy-sol-mexican-cocina-gift-cards",
+    "name": "SOL Mexican Cocina"
+  },
+  {
+    "url": "https://www.raise.com/buy-adagio-teas-gift-cards",
+    "name": "Adagio Teas",
+    "domain": "adagio.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lone-star-steakhouse-gift-cards",
+    "name": "Lone Star Steakhouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-here-today-gift-cards",
+    "name": "Here Today"
+  },
+  {
+    "url": "https://www.raise.com/buy-hyman-interiors-gift-cards",
+    "name": "Hyman Interiors",
+    "domain": "hymaninteriorss.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pottery-barn-teen-gift-cards",
+    "name": "Pottery Barn Teen"
+  },
+  {
+    "url": "https://www.raise.com/buy-public-chicago-gift-cards",
+    "name": "PUBLIC Chicago"
+  },
+  {
+    "url": "https://www.raise.com/buy-hobo-gift-cards",
+    "name": "HOBO",
+    "domain": "hoboonline.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-avenir-restaurant-group-gift-cards",
+    "name": "Avenir Restaurant Group",
+    "domain": "avenir-rg.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-nestle-toll-house-by-chip-gift-cards",
+    "name": "Nestle Toll House by Chip"
+  },
+  {
+    "url": "https://www.raise.com/buy-giorgio-armani-in-store-only-gift-cards",
+    "name": "Giorgio Armani (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-janie-and-jack-in-store-only-gift-cards",
+    "name": "Janie and Jack (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-changing-hands-bookstore-gift-cards",
+    "name": "Changing Hands Bookstore"
+  },
+  {
+    "url": "https://www.raise.com/buy-figo-pasta-gift-cards",
+    "name": "FIGO Pasta"
+  },
+  {
+    "url": "https://www.raise.com/buy-artlifting-gift-cards",
+    "name": "ArtLifting",
+    "domain": "artlifting.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rosewood-hotels-resorts-gift-cards",
+    "name": "Rosewood Hotels & Resorts"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-dead-fish-gift-cards",
+    "name": "The Dead Fish"
+  },
+  {
+    "url": "https://www.raise.com/buy-hawks-restaurant-gift-cards",
+    "name": "Hawks Restaurant",
+    "domain": "hawksrestaurant.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-tumbleweed-tex-mex-grill-gift-cards",
+    "name": "Tumbleweed Tex Mex Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-original-cupcakery-gift-cards",
+    "name": "The Original Cupcakery"
+  },
+  {
+    "url": "https://www.raise.com/buy-marriott-travelcard-gift-cards",
+    "name": "Marriott TravelCard"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-capital-grille-gift-cards",
+    "name": "The Capital Grille"
+  },
+  {
+    "url": "https://www.raise.com/buy-ghirardelli-gift-cards",
+    "name": "Ghirardelli",
+    "domain": "ghirardelli.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-velvet-caviar-gift-cards",
+    "name": "Velvet Caviar"
+  },
+  {
+    "url": "https://www.raise.com/buy-kingfish-restaurant-gift-cards",
+    "name": "Kingfish Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-l-espalier-gift-cards",
+    "name": "L’ESPALIER",
+    "domain": "lespalier.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-richard-petty-driving-experience-gift-cards",
+    "name": "Richard Petty Driving Experience"
+  },
+  {
+    "url": "https://www.raise.com/buy-vince-camuto-gift-cards",
+    "name": "Vince Camuto"
+  },
+  {
+    "url": "https://www.raise.com/buy-andiamo-gift-cards",
+    "name": "Andiamo",
+    "domain": "andiamoitalia.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-morfin-cleaning-services-gift-cards",
+    "name": "Morfin Cleaning Services",
+    "domain": "morfincleaning.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-willie-s-grill-icehouse-gift-cards",
+    "name": "Willie’s Grill & Icehouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-robert-graham-gift-cards",
+    "name": "Robert Graham"
+  },
+  {
+    "url": "https://www.raise.com/buy-gene-juarez-gift-cards",
+    "name": "Gene Juarez"
+  },
+  {
+    "url": "https://www.raise.com/buy-purple-cafe-gift-cards",
+    "name": "Purple Cafe"
+  },
+  {
+    "url": "https://www.raise.com/buy-metropolitan-grill-gift-cards",
+    "name": "Metropolitan Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-french-connection-gift-cards",
+    "name": "French Connection"
+  },
+  {
+    "url": "https://www.raise.com/buy-golf-usa-gift-cards",
+    "name": "Golf USA"
+  },
+  {
+    "url": "https://www.raise.com/buy-look-cinemas-gift-cards",
+    "name": "LOOK Cinemas"
+  },
+  {
+    "url": "https://www.raise.com/buy-kildare-s-pub-gift-cards",
+    "name": "Kildare’s Pub"
+  },
+  {
+    "url": "https://www.raise.com/buy-dysfunctional-family-gift-cards",
+    "name": "Dysfunctional Family"
+  },
+  {
+    "url": "https://www.raise.com/buy-vikings-locker-room-gift-cards",
+    "name": "Vikings Locker Room"
+  },
+  {
+    "url": "https://www.raise.com/buy-butcher-and-the-rye-gift-cards",
+    "name": "Butcher and the Rye"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-dailey-method-naperville-gift-cards",
+    "name": "The Dailey Method Naperville"
+  },
+  {
+    "url": "https://www.raise.com/buy-skinny-tie-madness-gift-cards",
+    "name": "Skinny Tie Madness",
+    "domain": "skinnytiemadness.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-phantom-gourmet-restaurants-gift-cards",
+    "name": "Phantom Gourmet Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-mercadito-restaurant-gift-cards",
+    "name": "Mercadito Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-spaghetti-warehouse-gift-cards",
+    "name": "Spaghetti Warehouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-rubber-duck-cleaning-gift-cards",
+    "name": "Rubber Duck Cleaning",
+    "domain": "rubberduckcleaning.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-mackenzie-river-pizza-gift-cards",
+    "name": "MacKenzie River Pizza"
+  },
+  {
+    "url": "https://www.raise.com/buy-natural-body-gift-cards",
+    "name": "Natural Body"
+  },
+  {
+    "url": "https://www.raise.com/buy-hobbytown-usa-gift-cards",
+    "name": "Hobbytown USA"
+  },
+  {
+    "url": "https://www.raise.com/buy-t-c-surf-gift-cards",
+    "name": "T&C Surf"
+  },
+  {
+    "url": "https://www.raise.com/buy-san-lorenzo-bikinis-gift-cards",
+    "name": "San Lorenzo Bikinis"
+  },
+  {
+    "url": "https://www.raise.com/buy-timetospa-gift-cards",
+    "name": "Timetospa",
+    "domain": "timetospa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-izod-gift-cards",
+    "name": "IZOD",
+    "domain": "izod.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-paul-brown-hawaii-gift-cards",
+    "name": "Paul Brown Hawaii"
+  },
+  {
+    "url": "https://www.raise.com/buy-roxy-gift-cards",
+    "name": "Roxy",
+    "domain": "roxy.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-captain-jack-s-island-grill-gift-cards",
+    "name": "Captain Jack’s Island Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-wax-lash-bar-gift-cards",
+    "name": "Wax & Lash Bar"
+  },
+  {
+    "url": "https://www.raise.com/buy-real-a-gastropub-gift-cards",
+    "name": "REAL a gastropub"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-peninsula-spa-beverly-hills-gift-cards",
+    "name": "The Peninsula Spa Beverly Hills"
+  },
+  {
+    "url": "https://www.raise.com/buy-angelo-s-restaurant-gift-cards",
+    "name": "Angelo's Restaurant",
+    "domain": "angelosrestaurant.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-camille-s-sidewalk-cafe-gift-cards",
+    "name": "Camille’s Sidewalk Cafe"
+  },
+  {
+    "url": "https://www.raise.com/buy-urban-nirvana-gift-cards",
+    "name": "Urban Nirvana"
+  },
+  {
+    "url": "https://www.raise.com/buy-yogasmoga-gift-cards",
+    "name": "Yogasmoga",
+    "domain": "yogasmoga.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-simon-pearce-gift-cards",
+    "name": "Simon Pearce",
+    "domain": "simonpearce.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-brooklyn-industries-gift-cards",
+    "name": "Brooklyn Industries"
+  },
+  {
+    "url": "https://www.raise.com/buy-postino-wine-cafe-gift-cards",
+    "name": "Postino Wine Cafe"
+  },
+  {
+    "url": "https://www.raise.com/buy-eegee-s-gift-cards",
+    "name": "Eegee’s",
+    "domain": "eegees.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-altesse-nail-spa-gift-cards",
+    "name": "Altesse Nail Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-goodrich-quality-theaters-gift-cards",
+    "name": "Goodrich Quality Theaters"
+  },
+  {
+    "url": "https://www.raise.com/buy-golfthere-gift-cards",
+    "name": "GolfThere",
+    "domain": "golfthere.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-tall-ship-windy-gift-cards",
+    "name": "Tall Ship Windy"
+  },
+  {
+    "url": "https://www.raise.com/buy-million-dollar-moments-photobooth-rental-gift-cards",
+    "name": "Million Dollar Moments Photobooth Rental"
+  },
+  {
+    "url": "https://www.raise.com/buy-moving-boxes-now-gift-cards",
+    "name": "Moving Boxes Now",
+    "domain": "movingboxesnow.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-redi-box-rental-moving-boxes-gift-cards",
+    "name": "Redi-Box Rental Moving Boxes"
+  },
+  {
+    "url": "https://www.raise.com/buy-fireplace-and-chimney-tech-services-gift-cards",
+    "name": "Fireplace and Chimney Tech Services "
+  },
+  {
+    "url": "https://www.raise.com/buy-first-look-home-inspections-gift-cards",
+    "name": "First Look Home Inspections"
+  },
+  {
+    "url": "https://www.raise.com/buy-masterpiece-painting-pros-gift-cards",
+    "name": "Masterpiece Painting Pros"
+  },
+  {
+    "url": "https://www.raise.com/buy-bashas-grocery-stores-gift-cards",
+    "name": "Bashas’ Grocery Stores"
+  },
+  {
+    "url": "https://www.raise.com/buy-carl-von-luger-steak-and-seafood-restaurant-gift-cards",
+    "name": "Carl Von Luger Steak and Seafood Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-adventure-16-gift-cards",
+    "name": "Adventure 16",
+    "domain": "adventure16.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-marcus-hotels-resorts-gift-cards",
+    "name": "Marcus Hotels & Resorts"
+  },
+  {
+    "url": "https://www.raise.com/buy-meriwether-s-gift-cards",
+    "name": "Meriwether’s",
+    "domain": "meriwethers.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-good-plumbing-inc-gift-cards",
+    "name": "Good Plumbing, Inc."
+  },
+  {
+    "url": "https://www.raise.com/buy-teethere-gift-cards",
+    "name": "TeeThere",
+    "domain": "teethere.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ragstock-gift-cards",
+    "name": "Ragstock",
+    "domain": "ragstock.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-krispy-kreme-gift-cards",
+    "name": "Krispy Kreme®"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-grille-at-the-mansion-gift-cards",
+    "name": "The Grille at the Mansion",
+    "domain": "fanfareloyalty.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chicago-air-services-gift-cards",
+    "name": "Chicago Air Services"
+  },
+  {
+    "url": "https://www.raise.com/buy-ocean-prime-gift-cards",
+    "name": "Ocean Prime"
+  },
+  {
+    "url": "https://www.raise.com/buy-regency-theaters-gift-cards",
+    "name": "Regency Theaters"
+  },
+  {
+    "url": "https://www.raise.com/buy-max-brenner-gift-cards",
+    "name": "Max Brenner",
+    "domain": "maxbrenner.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-call-it-spring-gift-cards",
+    "name": "Call It Spring"
+  },
+  {
+    "url": "https://www.raise.com/buy-peter-piper-pizza-gift-cards",
+    "name": "Peter Piper Pizza"
+  },
+  {
+    "url": "https://www.raise.com/buy-woodside-hotels-gift-cards",
+    "name": "Woodside Hotels"
+  },
+  {
+    "url": "https://www.raise.com/buy-absolute-health-clinic-gift-cards",
+    "name": "Absolute Health Clinic"
+  },
+  {
+    "url": "https://www.raise.com/buy-day-s-jewelers-gift-cards",
+    "name": "Day’s Jewelers"
+  },
+  {
+    "url": "https://www.raise.com/buy-bedford-fields-home-garden-center-gift-cards",
+    "name": "Bedford Fields Home & Garden Center"
+  },
+  {
+    "url": "https://www.raise.com/buy-tom-douglas-restaurants-gift-cards",
+    "name": "Tom Douglas Restaurants",
+    "domain": "tomdouglas.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-shoe-station-gift-cards",
+    "name": "Shoe Station"
+  },
+  {
+    "url": "https://www.raise.com/buy-ruby-s-diner-gift-cards",
+    "name": "Ruby’s Diner"
+  },
+  {
+    "url": "https://www.raise.com/buy-harry-caray-s-restaurant-group-gift-cards",
+    "name": "Harry Caray’s Restaurant Group"
+  },
+  {
+    "url": "https://www.raise.com/buy-aquitaine-group-gift-cards",
+    "name": "Aquitaine Group"
+  },
+  {
+    "url": "https://www.raise.com/buy-mighty-fix-subscription-gift-cards",
+    "name": "Mighty Fix (Subscription)"
+  },
+  {
+    "url": "https://www.raise.com/buy-k1-speed-gift-cards",
+    "name": "K1 Speed",
+    "domain": "k1speed.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-brenner-luggage-gift-cards",
+    "name": "Brenner Luggage"
+  },
+  {
+    "url": "https://www.raise.com/buy-mandarin-hotel-group-gift-cards",
+    "name": "Mandarin Hotel Group"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-umstead-hotel-and-spa-gift-cards",
+    "name": "The Umstead Hotel and Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-iowa-city-landscaping-garden-center-gift-cards",
+    "name": "Iowa City Landscaping & Garden Center"
+  },
+  {
+    "url": "https://www.raise.com/buy-beermiscuous-gift-cards",
+    "name": "Beermiscuous",
+    "domain": "beermiscuous.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bio-life-organic-spa-gift-cards",
+    "name": "Bio Life Organic Spa",
+    "domain": "biolifeorganicspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-big-g-s-pizza-taylor-street-location-gift-cards",
+    "name": "Big G’s Pizza- Taylor Street Location",
+    "domain": "big-gspizza.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-gorilla-fitness-gift-cards",
+    "name": "Gorilla Fitness"
+  },
+  {
+    "url": "https://www.raise.com/buy-tikatok-gift-cards",
+    "name": "Tikatok",
+    "domain": "tikatok.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-go-play-golf-gift-cards",
+    "name": "Go Play Golf"
+  },
+  {
+    "url": "https://www.raise.com/buy-dc-gift-cards",
+    "name": "DC",
+    "domain": "dc.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-blue-ridge-grill-gift-cards",
+    "name": "Blue Ridge Grill",
+    "domain": "blueridgegrill.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-grille-54-gift-cards",
+    "name": "Grille 54"
+  },
+  {
+    "url": "https://www.raise.com/buy-fixture-gift-cards",
+    "name": "Fixture",
+    "domain": "fixture.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-east-meets-west-massage-therapy-gift-cards",
+    "name": "East Meets West Massage Therapy",
+    "domain": "emwprojects.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-barbeques-galore-gift-cards",
+    "name": "Barbeques Galore",
+    "domain": "bbqgalore.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-float-sixty-gift-cards",
+    "name": "Float Sixty",
+    "domain": "floatsixty.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-eldorado-resort-casino-gift-cards",
+    "name": "Eldorado Resort Casino"
+  },
+  {
+    "url": "https://www.raise.com/buy-bastille-gift-cards",
+    "name": "bastille",
+    "domain": "bastille.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-x-laundry-gift-cards",
+    "name": "X Laundry",
+    "domain": "xlaundry.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-elephant-castle-gift-cards",
+    "name": "Elephant & Castle"
+  },
+  {
+    "url": "https://www.raise.com/buy-salon-v-gift-cards",
+    "name": "Salon V",
+    "domain": "salonvchicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-landini-brothers-restaurant-gift-cards",
+    "name": "Landini Brothers Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-guns-fishing-and-other-stuff-gift-cards",
+    "name": "Guns, Fishing, and Other Stuff"
+  },
+  {
+    "url": "https://www.raise.com/buy-suncoast-gift-cards",
+    "name": "Suncoast",
+    "domain": "suncoast.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fiesta-de-reyes-gift-cards",
+    "name": "Fiesta de Reyes",
+    "domain": "fiestadereyes.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lure-fish-house-gift-cards",
+    "name": "Lure Fish House"
+  },
+  {
+    "url": "https://www.raise.com/buy-3d-printer-experience-gift-cards",
+    "name": "3D Printer Experience",
+    "domain": "the3dprinterexperience.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-heaven-and-earth-salon-gift-cards",
+    "name": "Heaven and Earth Salon"
+  },
+  {
+    "url": "https://www.raise.com/buy-picture-people-gift-cards",
+    "name": "Picture People"
+  },
+  {
+    "url": "https://www.raise.com/buy-bella-bella-italian-restaurant-gift-cards",
+    "name": "Bella Bella Italian Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-scottsdale-gun-club-gift-cards",
+    "name": "Scottsdale Gun Club"
+  },
+  {
+    "url": "https://www.raise.com/buy-vintage-stock-gift-cards",
+    "name": "Vintage Stock"
+  },
+  {
+    "url": "https://www.raise.com/buy-harry-london-gift-cards",
+    "name": "Harry London"
+  },
+  {
+    "url": "https://www.raise.com/buy-second-city-tours-gift-cards",
+    "name": "Second City Tours"
+  },
+  {
+    "url": "https://www.raise.com/buy-xaviars-restaurant-group-gift-cards",
+    "name": "Xaviars Restaurant Group",
+    "domain": "xaviars.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-misty-s-steakhouse-lounge-gift-cards",
+    "name": "Misty’s Steakhouse & Lounge"
+  },
+  {
+    "url": "https://www.raise.com/buy-5-boroughs-pizza-subs-gift-cards",
+    "name": "5 Boroughs Pizza & Subs",
+    "domain": "5bpas.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-red-door-kitchen-bar-gift-cards",
+    "name": "Red Door Kitchen & Bar",
+    "domain": "reddoorchicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-corner-stork-baby-gifts-gift-cards",
+    "name": "Corner Stork Baby Gifts",
+    "domain": "cornerstorkbabygifts.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-toast-coffeehouse-gift-cards",
+    "name": "Toast Coffeehouse",
+    "domain": "toastcoffeehouse.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-blackstone-steakhouse-gift-cards",
+    "name": "Blackstone Steakhouse",
+    "domain": "blackstonesteakhouse.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ballamor-golf-club-gift-cards",
+    "name": "Ballamor Golf Club",
+    "domain": "ballamor.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-basia-hair-design-gift-cards",
+    "name": "Basia Hair Design",
+    "domain": "basiahairdesign.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lock-chicago-escape-room-gift-cards",
+    "name": "Lock Chicago Escape Room",
+    "domain": "lockedchicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-girl-and-the-water-gift-cards",
+    "name": "The Girl and The Water",
+    "domain": "thegirlandthewater.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-steven-deer-salon-gift-cards",
+    "name": "Steven Deer Salon",
+    "domain": "stevendeersalon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-gratitude-yoga-gift-cards",
+    "name": "Gratitude Yoga",
+    "domain": "gratitudeyogachicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-babylon-restaurant-gift-cards",
+    "name": "Babylon Restaurant",
+    "domain": "eatbabylon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kitchen-window-gift-cards",
+    "name": "Kitchen Window"
+  },
+  {
+    "url": "https://www.raise.com/buy-spavia-lincoln-park-gift-cards",
+    "name": "Spavia Lincoln Park"
+  },
+  {
+    "url": "https://www.raise.com/buy-aroma-workshop-gift-cards",
+    "name": "Aroma Workshop",
+    "domain": "aromaworkshop.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-torque-chicago-gift-cards",
+    "name": "Torque Chicago"
+  },
+  {
+    "url": "https://www.raise.com/buy-kick-55-fitness-gift-cards",
+    "name": "Kick @55 Fitness",
+    "domain": "kickat55.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-myseatrocks-com-gift-cards",
+    "name": "MySeatRocks.com",
+    "domain": "myseatrocks.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-alexis-bittar-gift-cards",
+    "name": "Alexis Bittar",
+    "domain": "alexisbittar.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-car-toyz-pleasantville-gift-cards",
+    "name": "Car Toyz (Pleasantville)"
+  },
+  {
+    "url": "https://www.raise.com/buy-shooters-sporting-center-gift-cards",
+    "name": "Shooters Sporting Center"
+  },
+  {
+    "url": "https://www.raise.com/buy-alvin-gates-photography-gift-cards",
+    "name": "Alvin Gates Photography",
+    "domain": "alvingatesphotography.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-slice-factory-lincoln-park-gift-cards",
+    "name": "Slice Factory (Lincoln Park)",
+    "domain": "theslicefactory.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-vbody-power-fitness-gift-cards",
+    "name": "VBody Power Fitness",
+    "domain": "vbodypowerfitness.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-paleo-cookie-company-gift-cards",
+    "name": "The Paleo Cookie Company",
+    "domain": "thepaleocookiecompany.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-homerun-dental-gift-cards",
+    "name": "Homerun Dental",
+    "domain": "homerundental.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-otg-boot-camp-gift-cards",
+    "name": "OTG Boot Camp",
+    "domain": "otgbootcamp.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-soul-mind-bodywork-gift-cards",
+    "name": "Soul Mind Bodywork",
+    "domain": "deeptissuemassageingurneeil.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cellular-sales-gift-cards",
+    "name": "Cellular Sales",
+    "domain": "cellularsales.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-paige-gift-cards",
+    "name": "Paige",
+    "domain": "paige.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bare-tattoo-removal-gift-cards",
+    "name": "Bare Tattoo Removal",
+    "domain": "baretattooremoval.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-helzberg-diamonds-gift-cards",
+    "name": "Helzberg Diamonds"
+  },
+  {
+    "url": "https://www.raise.com/buy-lux-wellness-studio-gift-cards",
+    "name": "Lux Wellness Studio",
+    "domain": "rejuvenatingbodywork.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-emagine-entertainment-gift-cards",
+    "name": "Emagine Entertainment",
+    "domain": "emagine-entertainment.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cocktail-courier-gift-cards",
+    "name": "Cocktail Courier",
+    "domain": "cocktailcourier.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-james-perse-gift-cards",
+    "name": "James Perse"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-warehouse-bar-pizzeria-gift-cards",
+    "name": "The Warehouse Bar & Pizzeria",
+    "domain": "thewarehousechicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-dryv-gift-cards",
+    "name": "DRYV",
+    "domain": "dryv.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-frenchy-s-day-spa-gift-cards",
+    "name": "Frenchy’s Day Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-visions-spa-salon-gift-cards",
+    "name": "Visions Spa Salon",
+    "domain": "visionsspasalon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sewickley-spa-gift-cards",
+    "name": "Sewickley Spa",
+    "domain": "sewickleyspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-1-stop-food-stores-gift-cards",
+    "name": "1 Stop Food Stores",
+    "domain": "myonestopstore.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-indian-springs-resort-gift-cards",
+    "name": "Indian Springs Resort"
+  },
+  {
+    "url": "https://www.raise.com/buy-make-your-body-personal-training-gift-cards",
+    "name": "Make Your Body Personal Training",
+    "domain": "makeyourbody.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-levity-live-gift-cards",
+    "name": "Levity Live"
+  },
+  {
+    "url": "https://www.raise.com/buy-inglot-usa-gift-cards",
+    "name": "Inglot USA"
+  },
+  {
+    "url": "https://www.raise.com/buy-paul-martin-s-american-grill-gift-cards",
+    "name": "Paul Martin’s American Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-alton-lane-gift-cards",
+    "name": "Alton Lane",
+    "domain": "altonlane.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-it-sugar-gift-cards",
+    "name": "IT'SUGAR",
+    "domain": "itsugar.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-abbadabba-s-gift-cards",
+    "name": "Abbadabba’s",
+    "domain": "coolshoes.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-foxwoods-gift-cards",
+    "name": "Foxwoods",
+    "domain": "foxwoods.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chefuniforms-com-gift-cards",
+    "name": "ChefUniforms.com",
+    "domain": "chefuniforms.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chefs-catalog-gift-cards",
+    "name": "Chefs Catalog"
+  },
+  {
+    "url": "https://www.raise.com/buy-form-function-fitness-gift-cards",
+    "name": "Form & Function Fitness",
+    "domain": "formandfunctiontraining.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-vip-paints-gift-cards",
+    "name": "VIP Paints",
+    "domain": "vippaints.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fly-fitness-group-gift-cards",
+    "name": "FLY Fitness Group",
+    "domain": "facebook.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-head-2-toe-studio-gift-cards",
+    "name": "Head 2 Toe Studio",
+    "domain": "head2toestudios.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-enchanted-design-studio-gift-cards",
+    "name": "Enchanted Design Studio"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-fitness-representative-gift-cards",
+    "name": "The Fitness Representative",
+    "domain": "thefitnessrep.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-tiger-dog-hot-yoga-gift-cards",
+    "name": "Tiger Dog Hot Yoga",
+    "domain": "bikramyogaevanston.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-wantmylook-gift-cards",
+    "name": "WantMyLook",
+    "domain": "wantmylook.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cook-s-warehouse-gift-cards",
+    "name": "Cook’s Warehouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-urban-athlete-gift-cards",
+    "name": "Urban Athlete",
+    "domain": "urbanathlete.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pressed-juicery-gift-cards",
+    "name": "Pressed Juicery"
+  },
+  {
+    "url": "https://www.raise.com/buy-silo-gift-cards",
+    "name": "Silo",
+    "domain": "silo.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-claddagh-irish-pubs-restaurants-gift-cards",
+    "name": "Claddagh Irish Pubs & Restaurants",
+    "domain": "claddaghirishpubs.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-east-bank-club-gift-cards",
+    "name": "East Bank Club",
+    "domain": "eastbankclub.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cw-physique-gift-cards",
+    "name": "CW Physique",
+    "domain": "cwphysique.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-pelzfit-training-gift-cards",
+    "name": "Pelzfit Training",
+    "domain": "pelzfit.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-clk-healing-hands-gift-cards",
+    "name": "CLK Healing Hands",
+    "domain": "clk-healinghands.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-saptherapy-gift-cards",
+    "name": "SapTherapy",
+    "domain": "saptherapy.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-windy-city-wedding-dance-gift-cards",
+    "name": "Windy City Wedding Dance",
+    "domain": "windycityweddingdance.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ooh-la-la-gift-cards",
+    "name": "Ooh la la!",
+    "domain": "oohlalaboutiques.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-barb-s-harley-davidson-gift-cards",
+    "name": "Barb's Harley Davidson"
+  },
+  {
+    "url": "https://www.raise.com/buy-work-world-america-gift-cards",
+    "name": "Work World America"
+  },
+  {
+    "url": "https://www.raise.com/buy-jt-schmid-s-gift-cards",
+    "name": "JT Schmid’s"
+  },
+  {
+    "url": "https://www.raise.com/buy-bhldn-gift-cards",
+    "name": "BHLDN",
+    "domain": "bhldn.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-games-by-james-gift-cards",
+    "name": "Games by James",
+    "domain": "gamesbyjames.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-boka-gift-cards",
+    "name": "BOKA",
+    "domain": "bokachicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-tpc-gift-cards",
+    "name": "TPC",
+    "domain": "tpc.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hollywood-blvd-cinema-gift-cards",
+    "name": "Hollywood Blvd Cinema"
+  },
+  {
+    "url": "https://www.raise.com/buy-reform-chicago-gift-cards",
+    "name": "Reform Chicago",
+    "domain": "reformchicagopilates.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-metropolitan-theatres-gift-cards",
+    "name": "Metropolitan Theatres",
+    "domain": "metrotheatres.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-your-fascinations-gift-cards",
+    "name": "Your Fascinations"
+  },
+  {
+    "url": "https://www.raise.com/buy-reset-medspa-gift-cards",
+    "name": "Reset MedSpa",
+    "domain": "resetmedspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-roy-s-hawaiian-fusion-gift-cards",
+    "name": "Roy's Hawaiian Fusion"
+  },
+  {
+    "url": "https://www.raise.com/buy-skinsations-spa-gift-cards",
+    "name": "Skinsations Spa",
+    "domain": "skinsationsspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-st-charles-lanes-gift-cards",
+    "name": "St. Charles Lanes",
+    "domain": "stcharleslanes.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lagos-gift-cards",
+    "name": "Lagos",
+    "domain": "lagos.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-delos-therapy-gift-cards",
+    "name": "Delos Therapy",
+    "domain": "delostherapy.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-specialty-restaurants-gift-cards",
+    "name": "Specialty Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-value-city-furniture-gift-cards",
+    "name": "Value City Furniture"
+  },
+  {
+    "url": "https://www.raise.com/buy-bistro-234-gift-cards",
+    "name": "Bistro 234",
+    "domain": "bistro234.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hotel-del-coronado-gift-cards",
+    "name": "Hotel del Coronado"
+  },
+  {
+    "url": "https://www.raise.com/buy-sephora-inside-jcpenney-gift-cards",
+    "name": "Sephora Inside JCPenney"
+  },
+  {
+    "url": "https://www.raise.com/buy-bottom-line-yoga-gift-cards",
+    "name": "Bottom Line Yoga",
+    "domain": "bottomlineyoga.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hour-of-change-fitness-gift-cards",
+    "name": "Hour of Change Fitness",
+    "domain": "hourofchange.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-live-better-co-gift-cards",
+    "name": "Live Better Co."
+  },
+  {
+    "url": "https://www.raise.com/buy-spring-yoga-fitness-gift-cards",
+    "name": "Spring Yoga & Fitness",
+    "domain": "springyogachicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-paula-monica-s-pizzeria-gift-cards",
+    "name": "Paula & Monica's Pizzeria",
+    "domain": "paulaandmonicaspizzeria.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-annie-bell-fragrances-gift-cards",
+    "name": "Annie Bell Fragrances",
+    "domain": "anniebellfragrances.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-view-202-gift-cards",
+    "name": "View 202",
+    "domain": "view202redding.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cinelux-theatres-gift-cards",
+    "name": "Cinelux Theatres",
+    "domain": "cineluxtheatres.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-my-custom-case-gift-cards",
+    "name": "My Custom Case",
+    "domain": "mycustomcase.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-ciclo-urbano-gift-cards",
+    "name": "Ciclo Urbano"
+  },
+  {
+    "url": "https://www.raise.com/buy-lincoln-square-fencing-gift-cards",
+    "name": "Lincoln Square Fencing",
+    "domain": "lincolnsquarefencing.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bottled-blonde-gift-cards",
+    "name": "Bottled Blonde",
+    "domain": "bottledblondechi.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kitson-gift-cards",
+    "name": "kitson",
+    "domain": "kitson.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chicago-s-dog-house-gift-cards",
+    "name": "Chicago’s Dog House",
+    "domain": "chicagosdog.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-iridium-clothing-co-gift-cards",
+    "name": "Iridium Clothing Co.",
+    "domain": "iridiumclothingco.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-artist-craftsman-gift-cards",
+    "name": "Artist & Craftsman",
+    "domain": "artistcraftsman.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-under-the-gun-theater-gift-cards",
+    "name": "Under the Gun Theater",
+    "domain": "undertheguntheater.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-stratton-mountain-ski-resort-in-vermont-gift-cards",
+    "name": "Stratton Mountain Ski Resort in Vermont",
+    "domain": "stratton.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-massage-motu-gift-cards",
+    "name": "Massage Motu",
+    "domain": "massagemotu.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-no-rest-for-bridget-in-store-only-gift-cards",
+    "name": "No Rest For Bridget (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-beavers-coffee-donuts-gift-cards",
+    "name": "Beavers Coffee + Donuts"
+  },
+  {
+    "url": "https://www.raise.com/buy-jo-chicago-gift-cards",
+    "name": "Jo Chicago",
+    "domain": "jojochicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-canvas-4-life-gift-cards",
+    "name": "Canvas 4 Life"
+  },
+  {
+    "url": "https://www.raise.com/buy-drysdales-western-wear-gift-cards",
+    "name": "Drysdales Western Wear"
+  },
+  {
+    "url": "https://www.raise.com/buy-la-perla-gift-cards",
+    "name": "La Perla"
+  },
+  {
+    "url": "https://www.raise.com/buy-gold-diamond-source-gift-cards",
+    "name": "Gold & Diamond Source"
+  },
+  {
+    "url": "https://www.raise.com/buy-mccoy-s-building-supply-gift-cards",
+    "name": "McCoy’s Building Supply"
+  },
+  {
+    "url": "https://www.raise.com/buy-catholic-match-gift-cards",
+    "name": "Catholic Match",
+    "domain": "catholicmatch.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chima-gift-cards",
+    "name": "Chima",
+    "domain": "chima.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bike-barn-gift-cards",
+    "name": "Bike Barn"
+  },
+  {
+    "url": "https://www.raise.com/buy-halcyon-days-salons-spas-gift-cards",
+    "name": "Halcyon Days Salons & Spas"
+  },
+  {
+    "url": "https://www.raise.com/buy-chitown-liquid-suntans-gift-cards",
+    "name": "Chitown Liquid Suntans",
+    "domain": "chitownliquidsuntans.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-nugget-casino-resort-gift-cards",
+    "name": "Nugget Casino Resort",
+    "domain": "nuggetcasinoresort.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-enrgi-fitness-gift-cards",
+    "name": "ENRGi Fitness",
+    "domain": "enrgifitness.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kurt-rawlins-fitness-gift-cards",
+    "name": "Kurt Rawlins Fitness",
+    "domain": "kurtrawlinsfitness.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-opper-melang-gift-cards",
+    "name": "Opper Melang",
+    "domain": "oppermelang.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-freshberry-gift-cards",
+    "name": "FreshBerry",
+    "domain": "freshberry.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-noodle-express-gift-cards",
+    "name": "Noodle Express",
+    "domain": "mustardseedweb.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-arrowhead-grill-gift-cards",
+    "name": "Arrowhead Grill",
+    "domain": "arrowheadgrill.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-312-athletic-club-gift-cards",
+    "name": "312 Athletic Club",
+    "domain": "312athleticclub.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-milea-gotcha-covered-the-spa-gift-cards",
+    "name": "Milea GotCha Covered the Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-paul-stuart-gift-cards",
+    "name": "Paul Stuart",
+    "domain": "paulstuart.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rock-solid-health-gift-cards",
+    "name": "Rock Solid Health",
+    "domain": "rocksolidu.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-virginia-mason-medi-spa-gift-cards",
+    "name": "Virginia Mason Medi Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-alicart-restaurant-group-gift-cards",
+    "name": "Alicart Restaurant Group",
+    "domain": "alicart.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-h2o-seafood-sushi-gift-cards",
+    "name": "H2O: Seafood & Sushi"
+  },
+  {
+    "url": "https://www.raise.com/buy-stowe-mountain-resort-gift-cards",
+    "name": "Stowe Mountain Resort"
+  },
+  {
+    "url": "https://www.raise.com/buy-kincaid-s-gift-cards",
+    "name": "Kincaid’s",
+    "domain": "kincaids.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-purple-pig-gift-cards",
+    "name": "The Purple Pig"
+  },
+  {
+    "url": "https://www.raise.com/buy-marlow-s-tavern-gift-cards",
+    "name": "Marlow’s Tavern"
+  },
+  {
+    "url": "https://www.raise.com/buy-natural-born-salon-gift-cards",
+    "name": "Natural Born Salon",
+    "domain": "naturalbornsalon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-mavis-winkle-s-irish-pub-gift-cards",
+    "name": "Mavis Winkle’s Irish Pub"
+  },
+  {
+    "url": "https://www.raise.com/buy-buckhead-mountain-grill-gift-cards",
+    "name": "Buckhead Mountain Grill"
+  },
+  {
+    "url": "https://www.raise.com/buy-cotton-on-gift-cards",
+    "name": "Cotton On"
+  },
+  {
+    "url": "https://www.raise.com/buy-chopbox-gift-cards",
+    "name": "ChopBox",
+    "domain": "getchopbox.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-art-of-wine-gift-cards",
+    "name": "The Art of Wine",
+    "domain": "theartofwinedallas.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-brick-crossfit-chicago-gift-cards",
+    "name": "Brick Crossfit Chicago",
+    "domain": "brickspt.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-karyn-s-cooked-gift-cards",
+    "name": "Karyn’s Cooked",
+    "domain": "karynraw.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hudson-s-bay-co-gift-cards",
+    "name": "Hudson's Bay Co."
+  },
+  {
+    "url": "https://www.raise.com/buy-texas-harley-davidson-gift-cards",
+    "name": "Texas Harley-Davidson"
+  },
+  {
+    "url": "https://www.raise.com/buy-hustle-fitness-gift-cards",
+    "name": "Hustle Fitness",
+    "domain": "hustlefitness.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-luxe-spa-boutique-chicago-gift-cards",
+    "name": "Luxe Spa Boutique Chicago",
+    "domain": "luxespachicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-blockhead-fitness-gift-cards",
+    "name": "Blockhead Fitness",
+    "domain": "blockheadfitness.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-bikram-yoga-west-loop-gift-cards",
+    "name": "Bikram Yoga West Loop"
+  },
+  {
+    "url": "https://www.raise.com/buy-ethnotek-gift-cards",
+    "name": "Ethnotek",
+    "domain": "ethnotekbags.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-addy-maddie-gift-cards",
+    "name": "Addy&Maddie",
+    "domain": "addyandmaddie.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-boulevard-steakhouse-gift-cards",
+    "name": "Boulevard Steakhouse",
+    "domain": "boulevardsteakhouse.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cinemagic-gift-cards",
+    "name": "Cinemagic",
+    "domain": "cinemagic.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-clancy-s-by-the-sea-gift-cards",
+    "name": "Clancy’s By The Sea"
+  },
+  {
+    "url": "https://www.raise.com/buy-potsandpansplus-com-gift-cards",
+    "name": "PotsAndPansPlus.com",
+    "domain": "potsandpansplus.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-restaurant-nicholas-gift-cards",
+    "name": "Restaurant Nicholas"
+  },
+  {
+    "url": "https://www.raise.com/buy-billy-reid-gift-cards",
+    "name": "Billy Reid"
+  },
+  {
+    "url": "https://www.raise.com/buy-unlimited-tan-gift-cards",
+    "name": "Unlimited Tan",
+    "domain": "unlimitedtan.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-rockwell-republic-gift-cards",
+    "name": "Rockwell Republic",
+    "domain": "rockwellsrepublic.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fuego-gift-cards",
+    "name": "Fuego",
+    "domain": "fuego.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-massage-heights-gift-cards",
+    "name": "Massage Heights"
+  },
+  {
+    "url": "https://www.raise.com/buy-jvl-jewelry-gift-cards",
+    "name": "JVL Jewelry",
+    "domain": "jvljewelry.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sherry-lehmann-wine-spirits-gift-cards",
+    "name": "Sherry-Lehmann Wine & Spirits"
+  },
+  {
+    "url": "https://www.raise.com/buy-fiori-spa-gift-cards",
+    "name": "Fiori Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-goodberry-s-frozen-custard-gift-cards",
+    "name": "Goodberry’s Frozen Custard",
+    "domain": "goodberrys.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-edo-ya-tokyo-cuisine-gift-cards",
+    "name": "Edo-ya Tokyo Cuisine",
+    "domain": "edo-yarestaurant.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-moviestop-gift-cards",
+    "name": "MovieStop",
+    "domain": "moviestop.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-accessory-luv-gift-cards",
+    "name": "Accessory LUV",
+    "domain": "accessoryluv.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-flying-star-cafe-gift-cards",
+    "name": "Flying Star Cafe",
+    "domain": "flyingstarcafe.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-le-nuvo-salon-and-spa-gift-cards",
+    "name": "Le NuVo Salon and Spa",
+    "domain": "lenuvosalonandspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chestnut-mountain-resort-gift-cards",
+    "name": "Chestnut Mountain Resort",
+    "domain": "chestnutmtn.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-il-mulino-new-york-gift-cards",
+    "name": "Il Mulino New York"
+  },
+  {
+    "url": "https://www.raise.com/buy-basta-at-east-port-gift-cards",
+    "name": "Basta at East Port",
+    "domain": "bastaeastport.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-king-george-ii-inn-gift-cards",
+    "name": "King George II Inn",
+    "domain": "kginn.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-mike-ditka-s-restaurants-gift-cards",
+    "name": "Mike Ditka’s Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-balloons-restaurant-gift-cards",
+    "name": "Balloons Restaurant",
+    "domain": "balloonsrestaurant.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-serendipity-day-spa-gift-cards",
+    "name": "Serendipity Day Spa",
+    "domain": "serendipitydayspa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-cellairis-gift-cards",
+    "name": "Cellairis",
+    "domain": "cellairis.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-minetta-tavern-gift-cards",
+    "name": "Minetta Tavern",
+    "domain": "minettatavernny.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-foreign-exchange-gift-cards",
+    "name": "Foreign Exchange"
+  },
+  {
+    "url": "https://www.raise.com/buy-gracious-home-gift-cards",
+    "name": "Gracious Home"
+  },
+  {
+    "url": "https://www.raise.com/buy-david-broadway-salon-spa-gift-cards",
+    "name": "David Broadway Salon & Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-material-girls-gift-cards",
+    "name": "Material Girls",
+    "domain": "shopmaterialgirls.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-new-mexico-albuquerque-gift-cards",
+    "name": "New Mexico (Albuquerque)",
+    "domain": "newmexicogiftcard.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-keg-steakhouse-bar-gift-cards",
+    "name": "The Keg Steakhouse & Bar"
+  },
+  {
+    "url": "https://www.raise.com/buy-10pin-bowling-gift-cards",
+    "name": "10pin Bowling",
+    "domain": "10pinchicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-schoolyard-gift-cards",
+    "name": "Schoolyard",
+    "domain": "schoolyardtavern.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-gaslight-bar-gift-cards",
+    "name": "Gaslight Bar",
+    "domain": "gaslightbar.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-barrel-and-crow-gift-cards",
+    "name": "Barrel and Crow",
+    "domain": "barrelandcrow.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-angus-barn-gift-cards",
+    "name": "Angus Barn",
+    "domain": "angusbarn.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-drinkfly-gift-cards",
+    "name": "DrinkFly",
+    "domain": "drinkfly.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-plaza-iii-steakhouse-gift-cards",
+    "name": "Plaza III Steakhouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-isle-casino-hotel-waterloo-gift-cards",
+    "name": "Isle Casino Hotel Waterloo"
+  },
+  {
+    "url": "https://www.raise.com/buy-monsoon-gift-cards",
+    "name": "Monsoon",
+    "domain": "monsoon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chefmade-gift-cards",
+    "name": "Chefmade",
+    "domain": "eatchefmade.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-red-tech-nail-spa-gift-cards",
+    "name": "Red Tech Nail Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-zipfit-denim-gift-cards",
+    "name": "ZipFit Denim",
+    "domain": "zipfitdenim.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-paintbrush-gift-cards",
+    "name": "The Paintbrush"
+  },
+  {
+    "url": "https://www.raise.com/buy-house-of-ayurveda-gift-cards",
+    "name": "House of Ayurveda",
+    "domain": "ayurvedichouse.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-knockerball-chicago-bubble-soccer-gift-cards",
+    "name": "Knockerball Chicago Bubble Soccer",
+    "domain": "knockerballchicago.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-creativita-gift-cards",
+    "name": "Creativita",
+    "domain": "creativitaforestpark.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-catalina-express-gift-cards",
+    "name": "Catalina Express"
+  },
+  {
+    "url": "https://www.raise.com/buy-nemacolin-woodlands-resort-gift-cards",
+    "name": "Nemacolin Woodlands Resort"
+  },
+  {
+    "url": "https://www.raise.com/buy-purity-medispa-gift-cards",
+    "name": "Purity MediSpa",
+    "domain": "puritymedispa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-corporate-tailgate-boat-rentals-gift-cards",
+    "name": "Corporate Tailgate Boat Rentals",
+    "domain": "corporatetailgate.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-fivewest-chauffeur-gift-cards",
+    "name": "Fivewest Chauffeur",
+    "domain": "5-wc.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-isi-akahome-photography-gift-cards",
+    "name": "Isi Akahome Photography",
+    "domain": "isispiks.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-in-the-paint-basketball-gift-cards",
+    "name": "In the Paint Basketball",
+    "domain": "itphoops.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chicago-massage-and-bodywork-center-gift-cards",
+    "name": "Chicago Massage and Bodywork Center",
+    "domain": "chicagomassageandbodywork.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-sole-classics-gift-cards",
+    "name": "Sole Classics"
+  },
+  {
+    "url": "https://www.raise.com/buy-posados-gift-cards",
+    "name": "Posados",
+    "domain": "posados.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-stock-mfg-co-gift-cards",
+    "name": "Stock Mfg. Co."
+  },
+  {
+    "url": "https://www.raise.com/buy-the-divine-dining-group-gift-cards",
+    "name": "The Divine Dining Group"
+  },
+  {
+    "url": "https://www.raise.com/buy-performance-bicycle-gift-cards",
+    "name": "Performance Bicycle"
+  },
+  {
+    "url": "https://www.raise.com/buy-500-level-gift-cards",
+    "name": "500 LEVEL",
+    "domain": "500level.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-car-fi-gift-cards",
+    "name": "Car Fi"
+  },
+  {
+    "url": "https://www.raise.com/buy-teatro-zinzanni-gift-cards",
+    "name": "Teatro ZinZanni"
+  },
+  {
+    "url": "https://www.raise.com/buy-glamour-shots-gift-cards",
+    "name": "Glamour Shots"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-garment-district-gift-cards",
+    "name": "The Garment District"
+  },
+  {
+    "url": "https://www.raise.com/buy-great-jones-spa-gift-cards",
+    "name": "Great Jones Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-north-river-outfitter-gift-cards",
+    "name": "North River Outfitter"
+  },
+  {
+    "url": "https://www.raise.com/buy-kiki-de-montparnasse-gift-cards",
+    "name": "Kiki de Montparnasse"
+  },
+  {
+    "url": "https://www.raise.com/buy-nautica-in-store-only-gift-cards",
+    "name": "Nautica (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-mid-rivers-music-gift-cards",
+    "name": "Mid Rivers Music"
+  },
+  {
+    "url": "https://www.raise.com/buy-annie-sez-gift-cards",
+    "name": "Annie sez",
+    "domain": "anniesez.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-chevy-chase-country-club-gift-cards",
+    "name": "Chevy Chase Country Club"
+  },
+  {
+    "url": "https://www.raise.com/buy-spa-nordstrom-gift-cards",
+    "name": "Spa Nordstrom"
+  },
+  {
+    "url": "https://www.raise.com/buy-fhwadsworth-gift-cards",
+    "name": "FHWadsworth",
+    "domain": "fhwadsworth.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-washington-redskins-store-gift-cards",
+    "name": "Washington Redskins Store"
+  },
+  {
+    "url": "https://www.raise.com/buy-val-surf-gift-cards",
+    "name": "Val Surf"
+  },
+  {
+    "url": "https://www.raise.com/buy-lucky-kat-world-gift-cards",
+    "name": "Lucky Kat World"
+  },
+  {
+    "url": "https://www.raise.com/buy-shasa-gift-cards",
+    "name": "Shasa",
+    "domain": "shasa.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-utopia-salon-day-spa-gift-cards",
+    "name": "Utopia Salon & Day Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-brasserie-lancaster-gift-cards",
+    "name": "Brasserie Lancaster"
+  },
+  {
+    "url": "https://www.raise.com/buy-foto-care-gift-cards",
+    "name": "Foto Care"
+  },
+  {
+    "url": "https://www.raise.com/buy-sullivan-s-steakhouse-gift-cards",
+    "name": "Sullivan’s Steakhouse"
+  },
+  {
+    "url": "https://www.raise.com/buy-keva-juice-gift-cards",
+    "name": "Keva Juice"
+  },
+  {
+    "url": "https://www.raise.com/buy-adoro-lei-gift-cards",
+    "name": "Adoro Lei",
+    "domain": "adorolei.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-denaults-true-value-hardware-california-gift-cards",
+    "name": "DeNaults True Value Hardware (California)"
+  },
+  {
+    "url": "https://www.raise.com/buy-amarillo-tex-s-steakhouse-saloon-gift-cards",
+    "name": "Amarillo Tex’s Steakhouse & Saloon"
+  },
+  {
+    "url": "https://www.raise.com/buy-tim-s-band-instrument-service-gift-cards",
+    "name": "Tim’s Band Instrument Service"
+  },
+  {
+    "url": "https://www.raise.com/buy-levenger-gift-cards",
+    "name": "Levenger",
+    "domain": "levenger.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-lawless-harley-davidson-gift-cards",
+    "name": "Lawless Harley-Davidson"
+  },
+  {
+    "url": "https://www.raise.com/buy-mill-valley-kitchen-gift-cards",
+    "name": "Mill Valley Kitchen"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-mona-lisa-restaurant-gift-cards",
+    "name": "The Mona Lisa Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-wally-s-desert-turtle-gift-cards",
+    "name": "Wally’s Desert Turtle"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-jewelry-exchange-gift-cards",
+    "name": "The Jewelry Exchange"
+  },
+  {
+    "url": "https://www.raise.com/buy-danner-gift-cards",
+    "name": "Danner",
+    "domain": "danner.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-colsenkeane-leather-gift-cards",
+    "name": "ColsenKeane Leather"
+  },
+  {
+    "url": "https://www.raise.com/buy-ridenow-powersports-gift-cards",
+    "name": "RideNow PowerSports"
+  },
+  {
+    "url": "https://www.raise.com/buy-clocktower-liquors-gift-cards",
+    "name": "Clocktower Liquors"
+  },
+  {
+    "url": "https://www.raise.com/buy-beauty-escape-salon-day-spa-gift-cards",
+    "name": "Beauty Escape Salon & Day Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-a-different-point-of-view-gift-cards",
+    "name": "A Different Point of View",
+    "domain": "adpov.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-mission-inn-gift-cards",
+    "name": "The Mission Inn"
+  },
+  {
+    "url": "https://www.raise.com/buy-joe-fresh-gift-cards",
+    "name": "Joe Fresh"
+  },
+  {
+    "url": "https://www.raise.com/buy-celestial-spa-gift-cards",
+    "name": "Celestial Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-art-s-cyclery-gift-cards",
+    "name": "Art’s Cyclery",
+    "domain": "artscyclery.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-delaware-camera-gift-cards",
+    "name": "Delaware Camera"
+  },
+  {
+    "url": "https://www.raise.com/buy-teena-s-day-spa-gift-cards",
+    "name": "Teena’s Day Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-yoforia-gift-cards",
+    "name": "Yoforia",
+    "domain": "yoforia.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-shop-344-gift-cards",
+    "name": "Shop 344"
+  },
+  {
+    "url": "https://www.raise.com/buy-alexander-s-uniforms-gift-cards",
+    "name": "Alexander’s Uniforms",
+    "domain": "alexandersuniforms.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-changes-salon-day-spa-gift-cards",
+    "name": "Changes Salon & Day Spa",
+    "domain": "changessalon.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-kingston-fine-jewelry-gift-cards",
+    "name": "Kingston Fine Jewelry"
+  },
+  {
+    "url": "https://www.raise.com/buy-work-n-more-gift-cards",
+    "name": "Work ‘n More"
+  },
+  {
+    "url": "https://www.raise.com/buy-east-coast-alpine-gift-cards",
+    "name": "East Coast Alpine"
+  },
+  {
+    "url": "https://www.raise.com/buy-river-city-food-company-gift-cards",
+    "name": "River City Food Company"
+  },
+  {
+    "url": "https://www.raise.com/buy-juvenex-spa-gift-cards",
+    "name": "Juvenex Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-chelsea-piers-gift-cards",
+    "name": "Chelsea Piers"
+  },
+  {
+    "url": "https://www.raise.com/buy-villa-fazzolari-gift-cards",
+    "name": "Villa Fazzolari"
+  },
+  {
+    "url": "https://www.raise.com/buy-lady-bug-beads-gift-cards",
+    "name": "Lady Bug Beads"
+  },
+  {
+    "url": "https://www.raise.com/buy-thai-woodhouse-restaurant-gift-cards",
+    "name": "Thai Woodhouse Restaurant"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-grand-del-mar-gift-cards",
+    "name": "The Grand Del Mar"
+  },
+  {
+    "url": "https://www.raise.com/buy-ethan-allen-gift-cards",
+    "name": "Ethan Allen"
+  },
+  {
+    "url": "https://www.raise.com/buy-levy-restaurants-gift-cards",
+    "name": "Levy Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-fox-head-gift-cards",
+    "name": "Fox Head"
+  },
+  {
+    "url": "https://www.raise.com/buy-louisville-originals-gift-cards",
+    "name": "Louisville Originals"
+  },
+  {
+    "url": "https://www.raise.com/buy-lavande-gift-cards",
+    "name": "Lavande",
+    "domain": "lavande.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-garces-group-gift-cards",
+    "name": "Garces Group"
+  },
+  {
+    "url": "https://www.raise.com/buy-buckmans-in-store-only-gift-cards",
+    "name": "Buckmans (In Store Only)"
+  },
+  {
+    "url": "https://www.raise.com/buy-greenfield-ice-cream-company-gift-cards",
+    "name": "Greenfield Ice Cream Company"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-garden-day-spa-gift-cards",
+    "name": "The Garden Day Spa"
+  },
+  {
+    "url": "https://www.raise.com/buy-sterling-jewelers-gift-cards",
+    "name": "Sterling Jewelers"
+  },
+  {
+    "url": "https://www.raise.com/buy-bikebandit-gift-cards",
+    "name": "BikeBandit",
+    "domain": "bikebandit.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hut-no-8-gift-cards",
+    "name": "Hut No. 8"
+  },
+  {
+    "url": "https://www.raise.com/buy-university-co-op-gift-cards",
+    "name": "University Co-op"
+  },
+  {
+    "url": "https://www.raise.com/buy-kevin-s-gift-cards",
+    "name": "Kevin’s",
+    "domain": "kevins.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-astor-wines-gift-cards",
+    "name": "Astor Wines",
+    "domain": "astorwines.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-north-country-rivers-gift-cards",
+    "name": "North Country Rivers"
+  },
+  {
+    "url": "https://www.raise.com/buy-king-s-jewelry-gift-cards",
+    "name": "King’s Jewelry"
+  },
+  {
+    "url": "https://www.raise.com/buy-chicago-oyster-house-gift-cards",
+    "name": "Chicago Oyster House"
+  },
+  {
+    "url": "https://www.raise.com/buy-craftworks-restaurants-gift-cards",
+    "name": "CraftWorks Restaurants"
+  },
+  {
+    "url": "https://www.raise.com/buy-belle-tire-gift-cards",
+    "name": "Belle Tire"
+  },
+  {
+    "url": "https://www.raise.com/buy-chompie-s-gift-cards",
+    "name": "Chompie’s",
+    "domain": "chompies.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-iskin-gift-cards",
+    "name": "iSkin",
+    "domain": "iskin.com"
+  },
+  {
+    "url": "https://www.raise.com/buy-hancock-fabrics-gift-cards",
+    "name": "Hancock Fabrics"
+  },
+  {
+    "url": "https://www.raise.com/buy-the-spa-at-horseshoe-gift-cards",
+    "name": "The Spa at Horseshoe"
+  },
+  {
+    "url": "https://www.raise.com/buy-lavishly-posh-gift-cards",
+    "name": "Lavishly Posh"
+  },
+  {
+    "url": "https://www.raise.com/buy-martin-motorsports-gift-cards",
+    "name": "Martin MotorSports"
+  }
+]

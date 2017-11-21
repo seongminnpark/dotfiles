@@ -1,0 +1,47 @@
+<div class="panel-view" ng-controller="OldApplyScriptController as ctrl">
+    <left-panel selected-category="{{ctrl.category}}" on-refresh="ctrl.fullRefresh()"></left-panel>
+
+    <div class="right-panel loading-panel scrollable" ng-if="ctrl.script == 'install' && ctrl.product == 'osu' && ctrl.hasError == false">
+        <spinner></spinner>
+        <h1 translate>old.apply.install_osu</h1>
+        <p translate>old.apply.check_hash</p>
+        <div class="sticker-label stick-to-bottom">
+            <h1 translate>common.identifier</h1>
+            <p>{{ctrl.ellipsize(ctrl.pkg.osu.hash)}}</p>
+        </div>
+    </div>
+
+    <div class="right-panel loading-panel scrollable" ng-if="ctrl.script == 'install' && ctrl.product == 'firmware' && ctrl.hasError == false">
+        <spinner></spinner>
+        <h1 translate>old.apply.install_firmware</h1>
+        <p translate>common.please_wait</p>
+    </div>
+
+    <div class="right-panel loading-panel scrollable" ng-if="ctrl.script == 'install' && ctrl.product == 'apps' && ctrl.hasError == false">
+        <spinner></spinner>
+        <h1 translate>old.apply.install_application</h1>
+        <p translate>old.apply.confirm_install</p>
+    </div>
+
+    <div class="right-panel loading-panel scrollable" ng-if="ctrl.script == 'uninstall' && ctrl.product == 'apps' && ctrl.hasError == false">
+        <spinner></spinner>
+        <h1 translate>old.apply.uninstall_application</h1>
+        <p translate>old.apply.confirm_uninstall</p>
+    </div>
+
+    <div class="right-panel error-panel" ng-if="ctrl.hasError == true">
+       <img src="images/icons/ic_error.png" />
+        <h1 ng-if="ctrl.script == 'install' && ctrl.product == 'osu'" translate>old.apply.error_title_install_osu</h1>
+        <h1 ng-if="ctrl.script == 'install' && ctrl.product == 'firmware'" translate>old.apply.error_title_install_firmware</h1>
+        <h1 ng-if="ctrl.script == 'install' && ctrl.product == 'apps'" translate>old.apply.error_title_install_app</h1>
+        <h1 ng-if="ctrl.script == 'uninstall' && ctrl.product == 'apps'" translate>old.apply.error_title_uninstall_app</h1>
+        <p ng-if="ctrl.lastError == ''" translate>old.apply.contact_support</p>
+        <p ng-if="ctrl.lastError == 'already_installed'" translate>old.apply.error_already_installed</p>
+        <p ng-if="ctrl.lastError == 'no_space'" translate>old.apply.error_no_space</p>
+        <div class="actions">
+            <lbutton text="logs" type="cancel" ng-click="ctrl.exportLogs()"></lbutton>
+            <lbutton text="Continue" ng-click="ctrl.next()"></lbutton>
+        </div>
+    </div>
+
+</div>

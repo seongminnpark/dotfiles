@@ -1,0 +1,31 @@
+<div class="left-panel">
+    <section>
+        <header>my device</header>
+        <div class="item double-line-item disabled">
+            <div class="selector"></div>
+            <div>
+                <p translate>{{deviceName}}</p>
+                <p>My Ledger Wallet</p>
+            </div>
+        </div>
+    </section>
+    <section>
+        <header class="small-padding">store</header>
+        <div class="item icon-item" ng-class="{selected: item.id == selected}" ng-click="navigate(item.path)" ng-repeat="item in categories">
+            <div class="selector"></div>
+            <span>
+                <i class="fa fa-{{item.icon}}" aria-hidden="true"></i><span translate>{{item.titleKey}}</span>
+            </span>
+        </div>
+    </section>
+    <div class="spacer"></div>
+    <section>
+        <div class="refresh-item">
+            <i class="fa fa-refresh" aria-hidden="true" ng-click="refresh()"></i>
+            <div>
+                <p>Last update</p>
+                <p>{{lastUpdate}}</p>
+            </div>
+        </div>
+    </section>
+</div>
