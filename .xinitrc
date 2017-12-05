@@ -15,4 +15,7 @@ synclient HorizTwoFingerScroll=1
 synclient RightButtonAreaLeft=0
 synclient RightButtonAreaTop=0
 
+# Make touchpad less sensitive
+synclient VertScrollDelta=-300 HorizScrollDelta=300
+
 exec i3
