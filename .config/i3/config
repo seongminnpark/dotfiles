@@ -159,9 +159,8 @@ gaps outer 5
 for_window [class="^.*"] border pixel 0
 
 exec --no-startup-id xsetroot -solid "#333333
-exec --no-startup-id synclient HorizEdgeScroll=1 VertEdgeScroll=1 VertScrollDelta=-111
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 # exec_always --no-startup-id feh --bg-scale $HOME/wallpaper.jpg
-exec --no-startup-id feh --bg-scale $HOME/wallpaper.png
+exec --no-startup-id feh -bg-scale $HOME/wallpaper.png
   
