@@ -1,1 +1,1 @@
-cromium-browser --incognito --force-device-scale-factor=2
+chromium-browser --incognito --force-device-scale-factor=2
