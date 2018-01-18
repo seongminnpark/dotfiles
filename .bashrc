@@ -120,3 +120,5 @@ alias config='/usr/bin/git --git-dir=/home/seongmin/.cfg/ --work-tree=/home/seon
 alias chrome='chromium-browser --force-device-scale-factor=2'
 
 export PATH=$PATH:/usr/local/go/bin
+
+export SMP="104.236.239.250"
