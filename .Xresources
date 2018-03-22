@@ -15,8 +15,10 @@ urxvt.letterSpace: -1
 !! Larger history limit
 urxvt.saveLines: 1000000
 
-urxvt.iso14755: true
+urxvt.iso14755: false
 urxvt.iso14755_52: false
+
+URxvt.internalBorder:  20
 
 URxvt.keysym.Shift-Control-V: eval:paste_clipboard
 URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
@@ -33,41 +35,42 @@ urxvt.keysym.Control-0x2d: perl:font-size:decrease
 !! Color theme
 
 ! special
-urxvt.foreground:   #ebece6
-urxvt.background:   #1e1f29
-urxvt.cursorColor:  #ebece6
+urxvt.foreground:   #eff0eb
+urxvt.background:   #282a36
+urxvt.cursorColor:  #97979b
+urxvt.borderColor:  #282a36
 
 ! black
-urxvt.color0:       #000000
-urxvt.color8:       #555555
+urxvt.color0:       #282a36
+urxvt.color8:       #686868
 
 ! red
-urxvt.color1:       #fc4346
-urxvt.color9:       #fc4346
+urxvt.color1:       #ff5c57
+urxvt.color9:       #ff5c57
 
 ! green
-urxvt.color2:       #50fb7c
-urxvt.color10:      #50fb7c
+urxvt.color2:       #5af78e
+urxvt.color10:      #5af78e
 
 ! yellow
-urxvt.color3:       #f0fb8c
-urxvt.color11:      #f0fb8c
+urxvt.color3:       #f3f99d
+urxvt.color11:      #f3f99d
 
 ! blue
-urxvt.color4:       #49baff
-urxvt.color12:      #49baff
+urxvt.color4:       #57c7ff
+urxvt.color12:      #57c7ff
 
 ! magenta
-urxvt.color5:       #fc4cb4
-urxvt.color13:      #fc4cb4
+urxvt.color5:       #ff6ac1
+urxvt.color13:      #ff6ac1
 
 ! cyan
-urxvt.color6:       #8be9fe
-urxvt.color14:      #8be9fe
+urxvt.color6:       #9aedfe
+urxvt.color14:      #9aedfe
 
 ! white
-urxvt.color7:       #ededec
-urxvt.color15:      #ededec
+urxvt.color7:       #f1f1f0
+urxvt.color15:      #eff0eb
 
 
 !! Run xrdb -merge ~/.Xresources to apply changes.
