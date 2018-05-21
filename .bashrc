@@ -119,6 +119,22 @@ fi
 alias config='/usr/bin/git --git-dir=/home/seongmin/.cfg/ --work-tree=/home/seongmin'
 alias chrome='chromium-browser --force-device-scale-factor=2'
 
-export PATH=$PATH:/usr/local/go/bin
+export PATH=$PATH:/usr/local/go/bin:/opt/android-studio/bin
 
-export SMP="104.236.239.250"
+export SMP=104.236.239.250
+
+export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+
+export ANDROID_HOME=$HOME/Android/Sdk
+export ANDROID_NDK=$HOME/Android/Sdk/ndk-bundle
+export PATH=$PATH:$ANDROID_HOME/tools 
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+
+export GOROOT=/usr/local/go
+export GOPATH=$HOME/go
+export GOBIN=$HOME/go/bin
+export PATH=$PATH:$GOROOT/bin
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
