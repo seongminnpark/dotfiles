@@ -1,4 +1,4 @@
-PATH="$HOME/scripts:$PATH"
+PATH="$HOME/scripts:$HOME/genymotion:$PATH"
 
 xrandr --output eDP1 --mode 2400x1600
 xrandr --output eDP1 --dpi 192
@@ -19,5 +19,7 @@ synclient RightButtonAreaTop=0
 synclient VertScrollDelta=-300 HorizScrollDelta=300
 
 xrdb -merge ~/.Xresources
+
+fcitx
 
 exec i3
