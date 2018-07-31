@@ -24,13 +24,13 @@ URxvt.keysym.Shift-Control-V: eval:paste_clipboard
 URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
 
 !! Perl extensions
-urxvt.perl-ext-common: default,matcher,font-size
+urxvt.perl-ext-common: default,matcher
 !! Open urls in browser with Control-Click
 urxvt.urlLauncher: /usr/bin/firefox
 urxvt.matcher.button: C1
 !! Change font size on Control-Plus/Minus
-urxvt.keysym.Control-0x2b: perl:font-size:increase
-urxvt.keysym.Control-0x2d: perl:font-size:decrease
+!! urxvt.keysym.Control-0x2b: perl:font-size:increase
+!! urxvt.keysym.Control-0x2d: perl:font-size:decrease
 
 !! Color theme
 

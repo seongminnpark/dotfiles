@@ -134,6 +134,7 @@ export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 export GOBIN=$HOME/go/bin
 export PATH=$PATH:$GOROOT/bin
+export PATH=$PATH:$HOME/Postman
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
