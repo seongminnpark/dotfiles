@@ -1,76 +1,88 @@
-[colors]
-background = #ccfafafa
-foreground = #444
-linecolor = #fb2e22
-bordercolor = #555
-accent = #e60053
+[bar/main]
 
-[bar/top]
-monitor = ${env:MONITOR:eDP1}
-top = true
+;------------;
+; DIMENSIONS ;
+;------------;
+
 width = 100%
-height = 50
-offset-x = 0
+height = 35
 offset-y = 0
+offset-x = 0
 
-background = ${colors.background}
-foreground = ${colors.foreground}
+border-top-size = 10
+border-bottom-size = 0
+border-right-size = 10
+border-left-size = 10
 
-padding-left = 5
-padding-right = 5
-module-margin = 2
+;----------;
+; LOCATION ;
+;----------;
 
-font-0 = Ubuntu Mono:size=15;2
-font-1 = FontAwesome:size=15;3
+bottom = false
+monitor = eDP-1
+# wm-restack = i3
+# override-redirect = false
 
-modules-left = cpu memory filesystem
-modules-right = volume battery date powermenu
+;-------;
+; FONTS ;
+;-------;
 
-;click-left = 
-;click-middle = 
-;click-right =
-;scroll-up =
-;scroll-down =
-;double-click-left =
-;double-click-middle =
-;double-click-right =
+font-0 = Hack:size=14;3
+font-1 = "Font Awesome 5 Free:style=Solid:pixelsize=14;3"
+font-2 = "Font Awesome 5 Free:style=Regular:pixelsize=14;3"
+font-3 = "Font Awesome 5 Brands:pixelsize=14;3"
 
-[module/cpu]
-type = internal/cpu
-interval = 2
-format = <label> <bar-load>
-label = 
-bar-load-width = 12
-bar-load-indicator =
-bar-load-fill = ─
-bar-load-empty = ─
-bar-load-indicator-foreground = #545455
-bar-load-fill-foreground = #079db1
+;--------;
+; COLORS ;
+;--------;
 
-[module/memory]
-type = internal/memory
-interval = 3
-format = <label> <bar-used>
-label = 
-bar-used-width = 12
-bar-used-indicator =
-bar-used-fill = ─
-bar-used-empty = ─
-bar-used-indicator-foreground = #545455
-bar-used-fill-foreground = #079db1
+background = 0
+foreground = #c5a9f9
+border-color = 0
 
-[module/filesystem]
-type = internal/fs
-mount-0 = /
-interval = 15
-format-mounted = <label-mounted> <bar-used>
-label-mounted = 
-bar-used-width = 12
-bar-used-indicator =
-bar-used-fill = ─
-bar-used-empty = ─
-bar-used-indicator-foreground = #545455
-bar-used-fill-foreground = #079db1
+;---------------;
+; MISCELLANEOUS ;
+;---------------;
+
+fixed-center = true
+padding-left = 2 
+padding-right = 2
+module-margin = 1.5
+
+modules-left = i3  
+modules-center = cpu memory backlight
+modules-right = volume battery wlan date time
+
+tray-position = none
+tray-detached = true
+
+;---------;
+; MODULES ;
+;---------;
+
+[module/i3]
+type = internal/i3
+
+pin-workspaces = true
+strip-wsnumbers = true
+enable-scroll = false
+
+label-unfocused-foreground = #afafaf
+label-focused-foreground = #c5a9f9
+label-urgent-foreground = #ff0000
+
+[module/time]
+type = internal/date
+
+interval = 1.0
+
+date =  %H:%M
+
+[module/date]
+type = internal/date
+date =  %e %B - %A
+label = %date%
+
 
 [module/battery]
 type = internal/battery
@@ -103,53 +115,57 @@ animation-charging-framerate = 750
 
 [module/volume]
 type = internal/volume
+
 format-volume = <ramp-volume> <label-volume>
-format-muted = <label-muted>
-label-volume = %percentage%%
-label-muted =  mute
-label-muted-foreground = #aaa
-format-volume-padding = 1
-format-muted-padding = 1
+format-muted =  0%
 
 ramp-volume-0 = 
 ramp-volume-1 = 
 ramp-volume-2 = 
-ramp-headphones-0 = 
 
-[module/date]
-type = internal/date
-interval = 1.0
-date = %a %b %d, 
-time = %H:%M
-date-alt = %A, %d %B %Y
-time-alt = %H:%M:%S
-label = %date% %time%
-format =  <label>
-format-background = ${colors.background}
-format-padding = 2
+[module/backlight]
+type = internal/backlight
 
-[module/powermenu]
-type = custom/menu
+; Use the following command to list available cards:
+; $ ls -1 /sys/class/backlight/
+card = intel_backlight
 
-label-open = 
-label-close = 
-label-open-padding-left = 0
-label-open-padding-right = 2
-label-close-padding = 2
+format = <ramp> <label>
 
-menu-0-0 =  
-menu-0-0-exec = poweroff
-menu-0-1 = 
-menu-0-1-exec = reboot
-menu-0-2 = 
-menu-0-2-exec = xfce4-terminal --command=nmlci
-menu-0-3 = 
-menu-0-3-exec = xfce4-terminal --command=pianobar --geometry=100x25
-menu-0-4 = 
-menu-0-4-exec = xfce4-terminal --command=wttr.sh --geometry=125x42
+label = %percentage%%
 
-menu-0-0-padding = 1
-menu-0-1-padding = 1
-menu-0-2-padding = 1
-menu-0-3-padding = 1
-menu-0-4-padding = 1
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+
+[module/wlan]
+type = internal/network
+
+interface = wlan0
+
+interval = 5
+
+label-connected =  %essid%
+label-disconnected =  Not Connected
+
+[module/cpu]
+type = internal/cpu
+label =  %percentage%%
+
+
+[module/memory]
+type = internal/memory
+label =  %gb_used%
+
+[module/network]
+type = internal/network
+interface = wlp2s0
+label-connected =  %downspeed% |  %upspeed%
+
+[bar/float]
+
+inherit = bar/main
+
+background = #ffffff
+
+tray-position = center
