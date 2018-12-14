@@ -5,24 +5,6 @@ rofi.color-normal: #242321, #f8f6f2, #35322d, #0a9dff, #f8f6f2
 rofi.color-active: #ff9eb8, #f8f6f2, #35322d, #0a9dff, #f8f6f2                                                                                      
 rofi.color-urgent: #ff2c4b, #f8f6f2, #35322d, #0a9dff, #f8f6f2 
 
-!! Appearance
-urxvt.termName: rxvt-unicode
-urxvt.scrollBar: false
-!! Font prefferenes
-urxvt.font: xft:DejaVu Sans Mono:size=12
-urxvt.boldFont: xft:DejaVu Sans Mono:size=12:weight=bold
-urxvt.letterSpace: -1
-!! Larger history limit
-urxvt.saveLines: 1000000
-
-urxvt.iso14755: false
-urxvt.iso14755_52: false
-
-URxvt.internalBorder:  20
-
-URxvt.keysym.Shift-Control-V: eval:paste_clipboard
-URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
-
 !! Perl extensions
 urxvt.perl-ext-common: default,matcher
 !! Open urls in browser with Control-Click
@@ -31,46 +13,5 @@ urxvt.matcher.button: C1
 !! Change font size on Control-Plus/Minus
 !! urxvt.keysym.Control-0x2b: perl:font-size:increase
 !! urxvt.keysym.Control-0x2d: perl:font-size:decrease
-
-!! Color theme
-
-! special
-urxvt.foreground:   #eff0eb
-urxvt.background:   #282a36
-urxvt.cursorColor:  #97979b
-urxvt.borderColor:  #282a36
-
-! black
-urxvt.color0:       #282a36
-urxvt.color8:       #686868
-
-! red
-urxvt.color1:       #ff5c57
-urxvt.color9:       #ff5c57
-
-! green
-urxvt.color2:       #5af78e
-urxvt.color10:      #5af78e
-
-! yellow
-urxvt.color3:       #f3f99d
-urxvt.color11:      #f3f99d
-
-! blue
-urxvt.color4:       #57c7ff
-urxvt.color12:      #57c7ff
-
-! magenta
-urxvt.color5:       #ff6ac1
-urxvt.color13:      #ff6ac1
-
-! cyan
-urxvt.color6:       #9aedfe
-urxvt.color14:      #9aedfe
-
-! white
-urxvt.color7:       #f1f1f0
-urxvt.color15:      #eff0eb
-
 
 !! Run xrdb -merge ~/.Xresources to apply changes.

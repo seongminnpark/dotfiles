@@ -119,6 +119,8 @@ fi
 alias config='/usr/bin/git --git-dir=/home/seongmin/.cfg/ --work-tree=/home/seongmin'
 alias chrome='chromium-browser --force-device-scale-factor=2'
 
+
+export PATH="$HOME/scripts"
 export PATH=$PATH:/usr/local/go/bin:/opt/android-studio/bin
 
 export SMP=104.236.239.250
@@ -145,3 +147,6 @@ export ENVS="$HOME/envs"
 activate() {
     source $ENVS/$1/bin/activate
 }
+
+IMAGE_SIZE=224
+ARCHITECTURE="mobilenet_0.50_${IMAGE_SIZE}"
