@@ -1,8 +1,7 @@
-PATH="$HOME/scripts:$HOME/genymotion:$PATH"
-
 xrandr --output eDP1 --mode 2400x1600
 xrandr --output eDP1 --dpi 192
 
+PATH=$PATH:$HOME/.config/scripts
 xmodmap ~/.Xmodmap
 
 # Make touchpad work on Pixelbook.
@@ -23,3 +22,5 @@ xrdb -merge ~/.Xresources
 fcitx
 
 exec i3
+
+~/.bashrc

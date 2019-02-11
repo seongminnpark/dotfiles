@@ -5,13 +5,56 @@ rofi.color-normal: #242321, #f8f6f2, #35322d, #0a9dff, #f8f6f2
 rofi.color-active: #ff9eb8, #f8f6f2, #35322d, #0a9dff, #f8f6f2                                                                                      
 rofi.color-urgent: #ff2c4b, #f8f6f2, #35322d, #0a9dff, #f8f6f2 
 
-!! Perl extensions
-urxvt.perl-ext-common: default,matcher
-!! Open urls in browser with Control-Click
-urxvt.urlLauncher: /usr/bin/firefox
-urxvt.matcher.button: C1
-!! Change font size on Control-Plus/Minus
-!! urxvt.keysym.Control-0x2b: perl:font-size:increase
-!! urxvt.keysym.Control-0x2d: perl:font-size:decrease
+!! Appearance
+URxvt.termName: rxvt-unicode
+URxvt.scrollBar: false
+!! Font prefferenes
+URxvt.font: xft:DejaVu Sans Mono:size=12
+URxvt.boldFont: xft:DejaVu Sans Mono:size=12:weight=bold
+URxvt.letterSpace: -1
+!! Larger history limit
+URxvt.saveLines: 1000000
+
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+URxvt.internalBorder:  20
+
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+
+!! Color theme
+
+*.foreground:   #c2c2b0
+*.background:   #222222
+*.cursorColor:  #c2c2b0
+! black
+*.color0:       #111111
+*.color8:       #181818
+! red
+*.color1:       #aa4450
+*.color9:       #ff6a6a
+! green
+*.color2:       #719611
+*.color10:      #b1d631
+! yellow
+*.color3:       #ff9800
+*.color11:      #87875f
+! blue
+*.color4:       #6688aa
+*.color12:      #90b0d1
+! magenta
+*.color5:       #8f6f8f
+*.color13:      #8181a6
+! cyan
+*.color6:       #528b8b
+*.color14:      #87ceeb
+! white
+*.color7:       #d3d3d3
+*.color15:      #c1cdc1
+! stylized
+*.colorIT:      #719611
+*.colorBD:      #d3d3d3
+*.colorUL:      #528b8b
 
 !! Run xrdb -merge ~/.Xresources to apply changes.

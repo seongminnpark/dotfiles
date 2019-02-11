@@ -23,3 +23,5 @@ set statusline=%=&P\ %f\ %m
 set fillchars=vert:\ ,stl:\ ,stlnc:\ 
 set laststatus=2
 set noshowmode
+
+set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
